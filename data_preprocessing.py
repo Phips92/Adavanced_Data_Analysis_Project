@@ -48,4 +48,4 @@ class DataPreprocessor:
             vectors = self.vectorizer.fit_transform(corpus)
             return vectors
         else:
-            raise ValueError(f"Method "{method}" not supported. Use 'tfidf' or 'bow'.")
+            raise ValueError(f"Method ’{method}’ not supported. Use ’tfidf’ or ’bow’.")
