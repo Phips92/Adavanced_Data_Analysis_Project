@@ -1,0 +1,25 @@
+index,text,label
+0,"['feeling', 'today', 'nothing', 'seems', 'go', 'right']",0
+1,"['cant', 'stop', 'smiling', 'beautiful', 'day']",1
+2,"['love', 'spending', 'time', 'family', 'theyre', 'everything']",2
+3,"['im', 'angry', 'right', 'could']",3
+4,"['im', 'terrified', 'whats', 'going', 'happen', 'next', 'cant', 'calm']",4
+5,"['wow', 'didnt', 'see', 'coming', 'shocker']",5
+6,"['everything', 'feels', 'heavy', 'want', 'cry']",0
+7,"['life', 'amazing', 'feel', 'top', 'world']",1
+8,"['youre', 'soulmate', 'cant', 'imagine', 'life', 'without']",2
+9,"['cant', 'believe', 'betrayed', 'im', 'furious']",3
+10,"['sudden', 'noise', 'scared', 'life']",4
+11,"['wait', 'happened', 'thats', 'incredible']",5
+12,"['sadness', 'overwhelming', 'cant', 'escape']",0
+13,"['got', 'promoted', 'im', 'happy']",1
+14,"['think', 'im', 'falling', 'love']",2
+15,"['im', 'done', 'nonsense', 'im', 'mad']",3
+16,"['constant', 'feeling', 'dread', 'exhausting']",4
+17,"['cant', 'believe', 'lottery', 'totally', 'unexpected']",5
+18,"['crying', 'sleep', 'tonight']",0
+19,"['cant', 'stop', 'laughing', 'everythings', 'funny', 'today']",1
+20,"['make', 'heart', 'skip', 'beat', 'adore']",2
+21,"['injustice', 'makes', 'blood', 'boil']",3
+22,"['anxiety', 'roof', 'feel', 'scared']",4
+23,"['got', 'surprise', 'party', 'didnt', 'see', 'coming']",5
