@@ -2,6 +2,8 @@ import pytest
 from nltk.corpus import stopwords as nltk_stopwords
 from data_preprocessing import DataPreprocessor  
 
+
+
 def test_custom_stopwords():
 
     custom_stopwords = {"test", "something", "for", "testing"}
@@ -46,5 +48,13 @@ def test_clean_text():
     input_text = "   l   e   t t   e  r   s      "
     expected_output = "l e t t e r s"
     assert preprocessor.clean_text(input_text) == expected_output
+
+
+def test_tokenize():
+
+    input_text = "testing some words to be vectorized by a function called tokenize"
+    expected_tokens = ["testing", "words", "vectorized", "function", "called", "tokenize"] 
+    
+    assert preprocessor.tokenize(input_text) == expected_tokens
 
 
