@@ -1,5 +1,6 @@
 import re
 from nltk.corpus import stopwords as nltk_stopwords
+from nltk.tokenize import word_tokenize
 
 class DataPreprocessor:
 
@@ -25,3 +26,12 @@ class DataPreprocessor:
         
         return text
 
+    def tokenize(self, text):
+
+        #Tokenize the text
+        tokens = word_tokenize(text)
+        
+        #Remove stopwords
+        tokens = [word for word in tokens if word not in self.stopwords]
+        
+        return tokens
