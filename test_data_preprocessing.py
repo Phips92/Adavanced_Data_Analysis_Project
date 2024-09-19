@@ -43,7 +43,8 @@ def test_clean_text():
     assert preprocessor.clean_text(input_text) == expected_output
 
     #testcase6: extra whitespaces
-    input_text = "   l   e   t t   e  r   s    "
+    input_text = "   l   e   t t   e  r   s      "
     expected_output = "l e t t e r s"
     assert preprocessor.clean_text(input_text) == expected_output
+
 
