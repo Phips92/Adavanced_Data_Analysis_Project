@@ -1,7 +1,7 @@
 import pytest
 from nltk.corpus import stopwords as nltk_stopwords
 from data_preprocessing import DataPreprocessor  
-
+from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 
 
 def test_custom_stopwords():
@@ -56,5 +56,35 @@ def test_tokenize():
     expected_tokens = ["testing", "words", "vectorized", "function", "called", "tokenize"] 
     
     assert preprocessor.tokenize(input_text) == expected_tokens
+
+def test_vectorize_tfidf():
+
+    corpus = ['["testing", "words", "vectorized", "function", "called", "tokenize"]','["next", "tweet", "words", "vectorized"]']
+    
+    vectors = preprocessor.vectorize(corpus, method="tfidf")
+
+    # Check the type of the returned vectors and ensure the correct shape
+    assert isinstance(vectors, type(TfidfVectorizer().fit_transform(corpus)))
+    assert vectors.shape == (2, 8)
+
+def test_vectorize_bow():
+
+    corpus = ['["testing", "words", "vectorized", "function", "called", "tokenize"]','["next", "tweet", "words", "vectorized"]']
+    
+    vectors = preprocessor.vectorize(corpus, method="bow")
+
+    assert isinstance(vectors, type(CountVectorizer().fit_transform(corpus)))
+    assert vectors.shape == (2, 8)  
+
+
+
+
+
+
+
+
+
+
+
 
 
