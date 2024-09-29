@@ -30,4 +30,6 @@ print(lsa_tfidf_vectors)
 lsa_bow_vectors = featurizer.use_lsa(vectors_bow, n_topics=3)
 print(lsa_bow_vectors)
 
-
+#lda with bow
+lda_bow_vectors = featurizer.apply_lda(vectors_bow, n_topics=3)
+print(lda_bow_vectors)
