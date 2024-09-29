@@ -1,0 +1,5001 @@
+Index,Text,Label
+0,I can't believe this just happened!,5
+1,You mean the world to me.,2
+2,Love is the best feeling.,2
+3,"Wow, I didn't see that coming!",5
+4,I feel blessed!,1
+5,Missing those happy times.,0
+6,Today is an amazing day!,1
+7,I love you more than words can say.,2
+8,Everything feels grey today.,0
+9,I can't imagine life without you.,2
+10,I'm so grateful for everything!,1
+11,I'm so frustrated right now!,3
+12,I am so happy right now!,1
+13,Love makes everything better.,2
+14,All I feel is emptiness.,0
+15,I'm about to explode with anger.,3
+16,Surprised in the best way possible!,5
+17,What a wonderful day!,1
+18,People are just the worst sometimes!,3
+19,Feeling so down today.,0
+20,I can't believe this is happening!,3
+21,My heart skips a beat every time I see you.,2
+22,Totally caught off guard by this!,5
+23,You complete me.,2
+24,I wish I could escape this sadness.,0
+25,I can't take this anymore!,3
+26,Fear is taking over me.,4
+27,Things never go my way.,0
+28,I'm so scared right now.,4
+29,Everything is just perfect.,1
+30,This is infuriating!,3
+31,The fear is overwhelming.,4
+32,This has blown my mind!,5
+33,I never expected this outcome!,5
+34,This is beyond frustrating.,3
+35,Can't stop smiling today!,1
+36,Life just feels so unfair right now.,0
+37,Love is all we need.,2
+38,This is terrifying!,4
+39,Happiness is all around!,1
+40,I can't stop crying.,0
+41,What a shock!,5
+42,What a pleasant surprise!,5
+43,Falling in love all over again.,2
+44,So angry I could scream!,3
+45,My heart is so full of love.,2
+46,How can people be so inconsiderate?,3
+47,"I can't breathe, I'm so scared.",4
+48,I'm feeling low.,0
+49,Feeling on top of the world!,1
+50,This is completely unexpected!,5
+51,I can't stop shaking from fear.,4
+52,I'm frozen in fear.,4
+53,"I don't know what to do, I'm so afraid.",4
+54,This is absolutely unacceptable!,3
+55,Life is beautiful!,1
+56,This is my worst nightmare.,4
+57,Why does everything feel so hopeless?,0
+58,I'm speechless from this surprise!,5
+59,Why does fear control me like this?,4
+60,This is absolutely unacceptable!,3
+61,How can people be so inconsiderate?,3
+62,"Wow, I didn't see that coming!",5
+63,So angry I could scream!,3
+64,Love makes everything better.,2
+65,"I can't breathe, I'm so scared.",4
+66,People are just the worst sometimes!,3
+67,Missing those happy times.,0
+68,I feel blessed!,1
+69,Things never go my way.,0
+70,I can't believe this is happening!,3
+71,My heart is so full of love.,2
+72,Feeling so down today.,0
+73,I'm so frustrated right now!,3
+74,This is infuriating!,3
+75,I'm frozen in fear.,4
+76,I can't believe this just happened!,5
+77,What a wonderful day!,1
+78,I wish I could escape this sadness.,0
+79,I can't take this anymore!,3
+80,The fear is overwhelming.,4
+81,"I don't know what to do, I'm so afraid.",4
+82,I'm so scared right now.,4
+83,You mean the world to me.,2
+84,Life is beautiful!,1
+85,Totally caught off guard by this!,5
+86,Falling in love all over again.,2
+87,I'm about to explode with anger.,3
+88,Everything feels grey today.,0
+89,Happiness is all around!,1
+90,I'm speechless from this surprise!,5
+91,You complete me.,2
+92,Life just feels so unfair right now.,0
+93,Why does everything feel so hopeless?,0
+94,This is my worst nightmare.,4
+95,This is beyond frustrating.,3
+96,I'm so grateful for everything!,1
+97,Today is an amazing day!,1
+98,All I feel is emptiness.,0
+99,I can't stop crying.,0
+100,Love is the best feeling.,2
+101,This is terrifying!,4
+102,This is completely unexpected!,5
+103,I can't stop shaking from fear.,4
+104,What a shock!,5
+105,What a pleasant surprise!,5
+106,I am so happy right now!,1
+107,Fear is taking over me.,4
+108,My heart skips a beat every time I see you.,2
+109,Love is all we need.,2
+110,Everything is just perfect.,1
+111,I'm feeling low.,0
+112,I never expected this outcome!,5
+113,Feeling on top of the world!,1
+114,Surprised in the best way possible!,5
+115,I can't imagine life without you.,2
+116,I love you more than words can say.,2
+117,This has blown my mind!,5
+118,Can't stop smiling today!,1
+119,Why does fear control me like this?,4
+120,Everything feels grey today.,0
+121,How can people be so inconsiderate?,3
+122,The fear is overwhelming.,4
+123,This has blown my mind!,5
+124,Happiness is all around!,1
+125,Everything is just perfect.,1
+126,I'm about to explode with anger.,3
+127,Love makes everything better.,2
+128,I can't imagine life without you.,2
+129,Life just feels so unfair right now.,0
+130,This is terrifying!,4
+131,"I can't breathe, I'm so scared.",4
+132,Love is the best feeling.,2
+133,Life just feels so unfair right now.,0
+134,Love is all we need.,2
+135,I can't stop crying.,0
+136,I'm so grateful for everything!,1
+137,Feeling so down today.,0
+138,Why does everything feel so hopeless?,0
+139,I can't take this anymore!,3
+140,I feel blessed!,1
+141,The fear is overwhelming.,4
+142,My heart is so full of love.,2
+143,Feeling so down today.,0
+144,This is completely unexpected!,5
+145,I'm so grateful for everything!,1
+146,Things never go my way.,0
+147,"I don't know what to do, I'm so afraid.",4
+148,Missing those happy times.,0
+149,I'm feeling low.,0
+150,Falling in love all over again.,2
+151,Totally caught off guard by this!,5
+152,You complete me.,2
+153,People are just the worst sometimes!,3
+154,"Wow, I didn't see that coming!",5
+155,What a shock!,5
+156,"Wow, I didn't see that coming!",5
+157,This is absolutely unacceptable!,3
+158,I am so happy right now!,1
+159,So angry I could scream!,3
+160,You mean the world to me.,2
+161,I can't believe this just happened!,5
+162,Everything feels grey today.,0
+163,Today is an amazing day!,1
+164,You mean the world to me.,2
+165,Feeling on top of the world!,1
+166,Feeling on top of the world!,1
+167,Missing those happy times.,0
+168,I'm feeling low.,0
+169,I can't believe this is happening!,3
+170,I feel blessed!,1
+171,What a wonderful day!,1
+172,I'm frozen in fear.,4
+173,I love you more than words can say.,2
+174,Surprised in the best way possible!,5
+175,All I feel is emptiness.,0
+176,Can't stop smiling today!,1
+177,Today is an amazing day!,1
+178,Why does fear control me like this?,4
+179,I'm so scared right now.,4
+180,Totally caught off guard by this!,5
+181,Love makes everything better.,2
+182,This is my worst nightmare.,4
+183,This is terrifying!,4
+184,This has blown my mind!,5
+185,I never expected this outcome!,5
+186,I can't take this anymore!,3
+187,Why does fear control me like this?,4
+188,I'm speechless from this surprise!,5
+189,What a pleasant surprise!,5
+190,"I don't know what to do, I'm so afraid.",4
+191,My heart skips a beat every time I see you.,2
+192,Everything is just perfect.,1
+193,I am so happy right now!,1
+194,How can people be so inconsiderate?,3
+195,This is beyond frustrating.,3
+196,Life is beautiful!,1
+197,I can't believe this is happening!,3
+198,I'm frozen in fear.,4
+199,Things never go my way.,0
+200,This is infuriating!,3
+201,Fear is taking over me.,4
+202,I can't stop shaking from fear.,4
+203,My heart is so full of love.,2
+204,You complete me.,2
+205,This is beyond frustrating.,3
+206,This is infuriating!,3
+207,I wish I could escape this sadness.,0
+208,My heart skips a beat every time I see you.,2
+209,What a pleasant surprise!,5
+210,"I can't breathe, I'm so scared.",4
+211,I'm about to explode with anger.,3
+212,Happiness is all around!,1
+213,Life is beautiful!,1
+214,Why does everything feel so hopeless?,0
+215,I'm so frustrated right now!,3
+216,I never expected this outcome!,5
+217,This is absolutely unacceptable!,3
+218,Fear is taking over me.,4
+219,This is completely unexpected!,5
+220,Love is the best feeling.,2
+221,People are just the worst sometimes!,3
+222,Can't stop smiling today!,1
+223,All I feel is emptiness.,0
+224,I'm so frustrated right now!,3
+225,What a shock!,5
+226,So angry I could scream!,3
+227,I wish I could escape this sadness.,0
+228,I'm so scared right now.,4
+229,What a wonderful day!,1
+230,This is my worst nightmare.,4
+231,Surprised in the best way possible!,5
+232,I love you more than words can say.,2
+233,I'm speechless from this surprise!,5
+234,I can't stop crying.,0
+235,I can't imagine life without you.,2
+236,Falling in love all over again.,2
+237,Love is all we need.,2
+238,I can't stop shaking from fear.,4
+239,I can't believe this just happened!,5
+240,Love is the best feeling.,2
+241,I'm so scared right now.,4
+242,"I don't know what to do, I'm so afraid.",4
+243,I feel blessed!,1
+244,"I don't know what to do, I'm so afraid.",4
+245,I can't take this anymore!,3
+246,Totally caught off guard by this!,5
+247,I'm so grateful for everything!,1
+248,Life just feels so unfair right now.,0
+249,I'm about to explode with anger.,3
+250,So angry I could scream!,3
+251,This has blown my mind!,5
+252,Falling in love all over again.,2
+253,Love is the best feeling.,2
+254,Life is beautiful!,1
+255,Why does everything feel so hopeless?,0
+256,Falling in love all over again.,2
+257,You mean the world to me.,2
+258,You mean the world to me.,2
+259,Surprised in the best way possible!,5
+260,Life just feels so unfair right now.,0
+261,"Wow, I didn't see that coming!",5
+262,Love is all we need.,2
+263,You complete me.,2
+264,This is absolutely unacceptable!,3
+265,I'm about to explode with anger.,3
+266,Today is an amazing day!,1
+267,I'm about to explode with anger.,3
+268,Today is an amazing day!,1
+269,I can't believe this is happening!,3
+270,Today is an amazing day!,1
+271,This is beyond frustrating.,3
+272,"I can't breathe, I'm so scared.",4
+273,I'm frozen in fear.,4
+274,I wish I could escape this sadness.,0
+275,I'm feeling low.,0
+276,My heart is so full of love.,2
+277,What a pleasant surprise!,5
+278,What a pleasant surprise!,5
+279,"I can't breathe, I'm so scared.",4
+280,I'm so frustrated right now!,3
+281,I can't stop crying.,0
+282,How can people be so inconsiderate?,3
+283,My heart skips a beat every time I see you.,2
+284,Feeling on top of the world!,1
+285,I am so happy right now!,1
+286,How can people be so inconsiderate?,3
+287,Love is the best feeling.,2
+288,I can't imagine life without you.,2
+289,Surprised in the best way possible!,5
+290,I can't believe this just happened!,5
+291,"Wow, I didn't see that coming!",5
+292,I can't imagine life without you.,2
+293,Can't stop smiling today!,1
+294,Today is an amazing day!,1
+295,Love is all we need.,2
+296,What a shock!,5
+297,This is my worst nightmare.,4
+298,Everything is just perfect.,1
+299,Love makes everything better.,2
+300,I love you more than words can say.,2
+301,The fear is overwhelming.,4
+302,I'm so scared right now.,4
+303,I can't stop crying.,0
+304,People are just the worst sometimes!,3
+305,Why does fear control me like this?,4
+306,Everything feels grey today.,0
+307,I am so happy right now!,1
+308,This is beyond frustrating.,3
+309,I can't imagine life without you.,2
+310,Totally caught off guard by this!,5
+311,This is my worst nightmare.,4
+312,Everything feels grey today.,0
+313,I'm frozen in fear.,4
+314,This is completely unexpected!,5
+315,Why does everything feel so hopeless?,0
+316,People are just the worst sometimes!,3
+317,My heart is so full of love.,2
+318,Everything feels grey today.,0
+319,Why does fear control me like this?,4
+320,What a pleasant surprise!,5
+321,"Wow, I didn't see that coming!",5
+322,I can't stop shaking from fear.,4
+323,I love you more than words can say.,2
+324,I'm so grateful for everything!,1
+325,My heart is so full of love.,2
+326,Life is beautiful!,1
+327,Missing those happy times.,0
+328,Falling in love all over again.,2
+329,Love is all we need.,2
+330,Happiness is all around!,1
+331,Why does fear control me like this?,4
+332,The fear is overwhelming.,4
+333,Love is all we need.,2
+334,I'm so frustrated right now!,3
+335,I can't believe this just happened!,5
+336,Totally caught off guard by this!,5
+337,So angry I could scream!,3
+338,I'm speechless from this surprise!,5
+339,So angry I could scream!,3
+340,This is terrifying!,4
+341,This is absolutely unacceptable!,3
+342,I feel blessed!,1
+343,Love makes everything better.,2
+344,People are just the worst sometimes!,3
+345,Feeling so down today.,0
+346,I can't believe this is happening!,3
+347,All I feel is emptiness.,0
+348,I can't stop shaking from fear.,4
+349,You mean the world to me.,2
+350,This is completely unexpected!,5
+351,Life is beautiful!,1
+352,I can't believe this is happening!,3
+353,I'm so grateful for everything!,1
+354,I am so happy right now!,1
+355,I never expected this outcome!,5
+356,Everything is just perfect.,1
+357,What a shock!,5
+358,The fear is overwhelming.,4
+359,Life just feels so unfair right now.,0
+360,What a wonderful day!,1
+361,"I can't breathe, I'm so scared.",4
+362,What a wonderful day!,1
+363,The fear is overwhelming.,4
+364,"Wow, I didn't see that coming!",5
+365,I'm feeling low.,0
+366,Happiness is all around!,1
+367,Everything is just perfect.,1
+368,Totally caught off guard by this!,5
+369,Surprised in the best way possible!,5
+370,All I feel is emptiness.,0
+371,I'm so scared right now.,4
+372,I wish I could escape this sadness.,0
+373,Love makes everything better.,2
+374,This is infuriating!,3
+375,You complete me.,2
+376,I can't stop shaking from fear.,4
+377,Can't stop smiling today!,1
+378,I can't stop shaking from fear.,4
+379,Fear is taking over me.,4
+380,I feel blessed!,1
+381,I feel blessed!,1
+382,I wish I could escape this sadness.,0
+383,All I feel is emptiness.,0
+384,This is my worst nightmare.,4
+385,This is terrifying!,4
+386,I'm feeling low.,0
+387,Why does everything feel so hopeless?,0
+388,How can people be so inconsiderate?,3
+389,I love you more than words can say.,2
+390,I wish I could escape this sadness.,0
+391,Things never go my way.,0
+392,Fear is taking over me.,4
+393,This is beyond frustrating.,3
+394,This is completely unexpected!,5
+395,You complete me.,2
+396,This has blown my mind!,5
+397,I can't stop crying.,0
+398,I'm so grateful for everything!,1
+399,Happiness is all around!,1
+400,How can people be so inconsiderate?,3
+401,Everything is just perfect.,1
+402,I'm so frustrated right now!,3
+403,I can't take this anymore!,3
+404,So angry I could scream!,3
+405,Love is the best feeling.,2
+406,People are just the worst sometimes!,3
+407,What a shock!,5
+408,I'm about to explode with anger.,3
+409,What a wonderful day!,1
+410,Why does fear control me like this?,4
+411,Feeling so down today.,0
+412,Life is beautiful!,1
+413,I never expected this outcome!,5
+414,Surprised in the best way possible!,5
+415,Things never go my way.,0
+416,I'm speechless from this surprise!,5
+417,Can't stop smiling today!,1
+418,I'm so frustrated right now!,3
+419,This has blown my mind!,5
+420,I'm so scared right now.,4
+421,This is infuriating!,3
+422,My heart is so full of love.,2
+423,Fear is taking over me.,4
+424,I'm speechless from this surprise!,5
+425,I love you more than words can say.,2
+426,This is terrifying!,4
+427,Why does everything feel so hopeless?,0
+428,My heart skips a beat every time I see you.,2
+429,I never expected this outcome!,5
+430,I can't believe this just happened!,5
+431,Falling in love all over again.,2
+432,You mean the world to me.,2
+433,This is my worst nightmare.,4
+434,What a shock!,5
+435,Feeling so down today.,0
+436,I'm feeling low.,0
+437,My heart skips a beat every time I see you.,2
+438,What a wonderful day!,1
+439,Everything feels grey today.,0
+440,Feeling on top of the world!,1
+441,I can't stop crying.,0
+442,My heart skips a beat every time I see you.,2
+443,Things never go my way.,0
+444,This is absolutely unacceptable!,3
+445,This is infuriating!,3
+446,Love makes everything better.,2
+447,I am so happy right now!,1
+448,I never expected this outcome!,5
+449,This is terrifying!,4
+450,I can't take this anymore!,3
+451,I'm frozen in fear.,4
+452,This has blown my mind!,5
+453,This is infuriating!,3
+454,Happiness is all around!,1
+455,I'm speechless from this surprise!,5
+456,Missing those happy times.,0
+457,What a pleasant surprise!,5
+458,This is absolutely unacceptable!,3
+459,Things never go my way.,0
+460,"I don't know what to do, I'm so afraid.",4
+461,This is completely unexpected!,5
+462,I'm frozen in fear.,4
+463,I can't take this anymore!,3
+464,"I can't breathe, I'm so scared.",4
+465,Feeling on top of the world!,1
+466,You complete me.,2
+467,Feeling so down today.,0
+468,I can't believe this just happened!,5
+469,Feeling on top of the world!,1
+470,"I don't know what to do, I'm so afraid.",4
+471,Missing those happy times.,0
+472,Life just feels so unfair right now.,0
+473,Missing those happy times.,0
+474,Can't stop smiling today!,1
+475,This is beyond frustrating.,3
+476,All I feel is emptiness.,0
+477,I can't imagine life without you.,2
+478,Fear is taking over me.,4
+479,I can't believe this is happening!,3
+480,I feel blessed!,1
+481,Surprised in the best way possible!,5
+482,I can't stop crying.,0
+483,I'm frozen in fear.,4
+484,I can't take this anymore!,3
+485,Life just feels so unfair right now.,0
+486,I can't believe this is happening!,3
+487,Love is all we need.,2
+488,Totally caught off guard by this!,5
+489,My heart is so full of love.,2
+490,I'm so scared right now.,4
+491,Falling in love all over again.,2
+492,This is beyond frustrating.,3
+493,What a shock!,5
+494,Falling in love all over again.,2
+495,Totally caught off guard by this!,5
+496,This is beyond frustrating.,3
+497,I love you more than words can say.,2
+498,I'm so frustrated right now!,3
+499,Can't stop smiling today!,1
+500,The fear is overwhelming.,4
+501,Why does fear control me like this?,4
+502,This has blown my mind!,5
+503,I can't stop crying.,0
+504,This is completely unexpected!,5
+505,Love is all we need.,2
+506,Why does everything feel so hopeless?,0
+507,How can people be so inconsiderate?,3
+508,Everything is just perfect.,1
+509,Happiness is all around!,1
+510,Why does fear control me like this?,4
+511,Surprised in the best way possible!,5
+512,I can't take this anymore!,3
+513,Can't stop smiling today!,1
+514,Things never go my way.,0
+515,Love is the best feeling.,2
+516,I'm feeling low.,0
+517,This is my worst nightmare.,4
+518,You mean the world to me.,2
+519,I love you more than words can say.,2
+520,What a wonderful day!,1
+521,Why does everything feel so hopeless?,0
+522,I'm feeling low.,0
+523,Today is an amazing day!,1
+524,I'm frozen in fear.,4
+525,Surprised in the best way possible!,5
+526,I can't imagine life without you.,2
+527,Why does fear control me like this?,4
+528,My heart is so full of love.,2
+529,Surprised in the best way possible!,5
+530,"I don't know what to do, I'm so afraid.",4
+531,Everything feels grey today.,0
+532,I never expected this outcome!,5
+533,I am so happy right now!,1
+534,Today is an amazing day!,1
+535,What a pleasant surprise!,5
+536,Totally caught off guard by this!,5
+537,Everything feels grey today.,0
+538,Missing those happy times.,0
+539,I never expected this outcome!,5
+540,This is infuriating!,3
+541,Today is an amazing day!,1
+542,I wish I could escape this sadness.,0
+543,This has blown my mind!,5
+544,Love makes everything better.,2
+545,I wish I could escape this sadness.,0
+546,I can't believe this just happened!,5
+547,You mean the world to me.,2
+548,How can people be so inconsiderate?,3
+549,Life just feels so unfair right now.,0
+550,I am so happy right now!,1
+551,I'm about to explode with anger.,3
+552,I'm so frustrated right now!,3
+553,What a pleasant surprise!,5
+554,I'm about to explode with anger.,3
+555,You complete me.,2
+556,Falling in love all over again.,2
+557,This is beyond frustrating.,3
+558,Why does fear control me like this?,4
+559,How can people be so inconsiderate?,3
+560,This is infuriating!,3
+561,This is absolutely unacceptable!,3
+562,All I feel is emptiness.,0
+563,Feeling on top of the world!,1
+564,Today is an amazing day!,1
+565,So angry I could scream!,3
+566,Things never go my way.,0
+567,Everything is just perfect.,1
+568,You complete me.,2
+569,I'm frozen in fear.,4
+570,Life just feels so unfair right now.,0
+571,I can't believe this is happening!,3
+572,Falling in love all over again.,2
+573,What a wonderful day!,1
+574,I wish I could escape this sadness.,0
+575,I'm feeling low.,0
+576,Love is the best feeling.,2
+577,I can't imagine life without you.,2
+578,Feeling on top of the world!,1
+579,I'm so scared right now.,4
+580,I can't believe this is happening!,3
+581,Fear is taking over me.,4
+582,How can people be so inconsiderate?,3
+583,I can't stop shaking from fear.,4
+584,I can't believe this is happening!,3
+585,How can people be so inconsiderate?,3
+586,I never expected this outcome!,5
+587,Feeling so down today.,0
+588,"I can't breathe, I'm so scared.",4
+589,Love is all we need.,2
+590,I can't stop shaking from fear.,4
+591,Love makes everything better.,2
+592,Fear is taking over me.,4
+593,"Wow, I didn't see that coming!",5
+594,I can't stop crying.,0
+595,I am so happy right now!,1
+596,What a shock!,5
+597,Falling in love all over again.,2
+598,Love is all we need.,2
+599,Why does fear control me like this?,4
+600,I can't believe this just happened!,5
+601,"I can't breathe, I'm so scared.",4
+602,I am so happy right now!,1
+603,This is absolutely unacceptable!,3
+604,I can't stop crying.,0
+605,This is completely unexpected!,5
+606,I feel blessed!,1
+607,I feel blessed!,1
+608,The fear is overwhelming.,4
+609,My heart skips a beat every time I see you.,2
+610,I can't take this anymore!,3
+611,Missing those happy times.,0
+612,I'm frozen in fear.,4
+613,I'm frozen in fear.,4
+614,I'm so grateful for everything!,1
+615,I am so happy right now!,1
+616,People are just the worst sometimes!,3
+617,What a pleasant surprise!,5
+618,Can't stop smiling today!,1
+619,This is beyond frustrating.,3
+620,I can't believe this just happened!,5
+621,All I feel is emptiness.,0
+622,My heart is so full of love.,2
+623,So angry I could scream!,3
+624,Missing those happy times.,0
+625,How can people be so inconsiderate?,3
+626,All I feel is emptiness.,0
+627,This is completely unexpected!,5
+628,Feeling so down today.,0
+629,I'm so frustrated right now!,3
+630,Totally caught off guard by this!,5
+631,This is beyond frustrating.,3
+632,I can't stop shaking from fear.,4
+633,I can't imagine life without you.,2
+634,Happiness is all around!,1
+635,Why does everything feel so hopeless?,0
+636,The fear is overwhelming.,4
+637,Today is an amazing day!,1
+638,The fear is overwhelming.,4
+639,I'm so grateful for everything!,1
+640,"Wow, I didn't see that coming!",5
+641,This is absolutely unacceptable!,3
+642,Life is beautiful!,1
+643,People are just the worst sometimes!,3
+644,Missing those happy times.,0
+645,This is absolutely unacceptable!,3
+646,I'm about to explode with anger.,3
+647,Feeling so down today.,0
+648,Life just feels so unfair right now.,0
+649,I am so happy right now!,1
+650,So angry I could scream!,3
+651,I'm speechless from this surprise!,5
+652,Why does everything feel so hopeless?,0
+653,"I can't breathe, I'm so scared.",4
+654,Life is beautiful!,1
+655,I can't believe this is happening!,3
+656,So angry I could scream!,3
+657,I can't take this anymore!,3
+658,I'm feeling low.,0
+659,Feeling so down today.,0
+660,Everything feels grey today.,0
+661,Today is an amazing day!,1
+662,I'm feeling low.,0
+663,This is my worst nightmare.,4
+664,Why does everything feel so hopeless?,0
+665,I wish I could escape this sadness.,0
+666,Things never go my way.,0
+667,Feeling on top of the world!,1
+668,Totally caught off guard by this!,5
+669,Why does everything feel so hopeless?,0
+670,This is beyond frustrating.,3
+671,I'm so grateful for everything!,1
+672,Life is beautiful!,1
+673,Can't stop smiling today!,1
+674,All I feel is emptiness.,0
+675,Life is beautiful!,1
+676,People are just the worst sometimes!,3
+677,This is absolutely unacceptable!,3
+678,"Wow, I didn't see that coming!",5
+679,"Wow, I didn't see that coming!",5
+680,Everything feels grey today.,0
+681,I feel blessed!,1
+682,I'm so grateful for everything!,1
+683,I'm so frustrated right now!,3
+684,"Wow, I didn't see that coming!",5
+685,All I feel is emptiness.,0
+686,This is terrifying!,4
+687,I love you more than words can say.,2
+688,Life just feels so unfair right now.,0
+689,I'm so frustrated right now!,3
+690,I can't imagine life without you.,2
+691,I can't stop crying.,0
+692,You mean the world to me.,2
+693,Feeling so down today.,0
+694,"Wow, I didn't see that coming!",5
+695,This is infuriating!,3
+696,You complete me.,2
+697,You mean the world to me.,2
+698,This is absolutely unacceptable!,3
+699,"I can't breathe, I'm so scared.",4
+700,My heart is so full of love.,2
+701,The fear is overwhelming.,4
+702,Love is all we need.,2
+703,Everything feels grey today.,0
+704,Love makes everything better.,2
+705,What a shock!,5
+706,"I don't know what to do, I'm so afraid.",4
+707,You complete me.,2
+708,So angry I could scream!,3
+709,I'm about to explode with anger.,3
+710,"I can't breathe, I'm so scared.",4
+711,I'm so grateful for everything!,1
+712,Everything is just perfect.,1
+713,Happiness is all around!,1
+714,Love makes everything better.,2
+715,I never expected this outcome!,5
+716,Today is an amazing day!,1
+717,The fear is overwhelming.,4
+718,I'm about to explode with anger.,3
+719,This is completely unexpected!,5
+720,I can't stop shaking from fear.,4
+721,Feeling so down today.,0
+722,Fear is taking over me.,4
+723,Things never go my way.,0
+724,What a pleasant surprise!,5
+725,This is infuriating!,3
+726,I wish I could escape this sadness.,0
+727,Surprised in the best way possible!,5
+728,This is absolutely unacceptable!,3
+729,This is my worst nightmare.,4
+730,Can't stop smiling today!,1
+731,I never expected this outcome!,5
+732,Surprised in the best way possible!,5
+733,This is infuriating!,3
+734,This is beyond frustrating.,3
+735,This is completely unexpected!,5
+736,I can't believe this is happening!,3
+737,Life is beautiful!,1
+738,Happiness is all around!,1
+739,This is completely unexpected!,5
+740,"Wow, I didn't see that coming!",5
+741,I never expected this outcome!,5
+742,I can't imagine life without you.,2
+743,Everything feels grey today.,0
+744,Can't stop smiling today!,1
+745,"I can't breathe, I'm so scared.",4
+746,I'm speechless from this surprise!,5
+747,The fear is overwhelming.,4
+748,Love is the best feeling.,2
+749,Life is beautiful!,1
+750,Missing those happy times.,0
+751,Feeling on top of the world!,1
+752,This is beyond frustrating.,3
+753,My heart skips a beat every time I see you.,2
+754,This is my worst nightmare.,4
+755,I love you more than words can say.,2
+756,Everything is just perfect.,1
+757,I'm so frustrated right now!,3
+758,So angry I could scream!,3
+759,Everything is just perfect.,1
+760,"I don't know what to do, I'm so afraid.",4
+761,Happiness is all around!,1
+762,My heart skips a beat every time I see you.,2
+763,I can't take this anymore!,3
+764,You complete me.,2
+765,I can't stop shaking from fear.,4
+766,I'm speechless from this surprise!,5
+767,I can't stop crying.,0
+768,I can't believe this just happened!,5
+769,This has blown my mind!,5
+770,My heart skips a beat every time I see you.,2
+771,So angry I could scream!,3
+772,I feel blessed!,1
+773,Love is the best feeling.,2
+774,My heart skips a beat every time I see you.,2
+775,What a pleasant surprise!,5
+776,Life is beautiful!,1
+777,This is terrifying!,4
+778,How can people be so inconsiderate?,3
+779,This is my worst nightmare.,4
+780,Totally caught off guard by this!,5
+781,Everything is just perfect.,1
+782,I can't believe this just happened!,5
+783,This is terrifying!,4
+784,You complete me.,2
+785,"Wow, I didn't see that coming!",5
+786,Feeling on top of the world!,1
+787,People are just the worst sometimes!,3
+788,I'm speechless from this surprise!,5
+789,I can't imagine life without you.,2
+790,I'm about to explode with anger.,3
+791,What a shock!,5
+792,I never expected this outcome!,5
+793,Missing those happy times.,0
+794,This has blown my mind!,5
+795,My heart skips a beat every time I see you.,2
+796,I can't believe this is happening!,3
+797,You complete me.,2
+798,I'm speechless from this surprise!,5
+799,I'm frozen in fear.,4
+800,My heart is so full of love.,2
+801,I can't imagine life without you.,2
+802,Fear is taking over me.,4
+803,Things never go my way.,0
+804,I'm about to explode with anger.,3
+805,You mean the world to me.,2
+806,I'm speechless from this surprise!,5
+807,What a shock!,5
+808,Can't stop smiling today!,1
+809,You mean the world to me.,2
+810,Why does fear control me like this?,4
+811,Love makes everything better.,2
+812,I'm feeling low.,0
+813,This is my worst nightmare.,4
+814,"I don't know what to do, I'm so afraid.",4
+815,What a wonderful day!,1
+816,This has blown my mind!,5
+817,Feeling on top of the world!,1
+818,What a wonderful day!,1
+819,I'm so scared right now.,4
+820,I'm so grateful for everything!,1
+821,Love is the best feeling.,2
+822,Feeling on top of the world!,1
+823,Happiness is all around!,1
+824,I'm so grateful for everything!,1
+825,"I can't breathe, I'm so scared.",4
+826,Feeling on top of the world!,1
+827,Everything feels grey today.,0
+828,This is terrifying!,4
+829,Love is the best feeling.,2
+830,People are just the worst sometimes!,3
+831,What a shock!,5
+832,You mean the world to me.,2
+833,This is infuriating!,3
+834,Life just feels so unfair right now.,0
+835,All I feel is emptiness.,0
+836,This is infuriating!,3
+837,Things never go my way.,0
+838,This is completely unexpected!,5
+839,Missing those happy times.,0
+840,Surprised in the best way possible!,5
+841,Missing those happy times.,0
+842,What a wonderful day!,1
+843,How can people be so inconsiderate?,3
+844,I love you more than words can say.,2
+845,Fear is taking over me.,4
+846,Fear is taking over me.,4
+847,I am so happy right now!,1
+848,Happiness is all around!,1
+849,I can't believe this just happened!,5
+850,This is completely unexpected!,5
+851,What a wonderful day!,1
+852,"I don't know what to do, I'm so afraid.",4
+853,This has blown my mind!,5
+854,All I feel is emptiness.,0
+855,The fear is overwhelming.,4
+856,What a pleasant surprise!,5
+857,I can't take this anymore!,3
+858,Love makes everything better.,2
+859,This is absolutely unacceptable!,3
+860,I'm about to explode with anger.,3
+861,Fear is taking over me.,4
+862,This has blown my mind!,5
+863,Why does everything feel so hopeless?,0
+864,I can't stop shaking from fear.,4
+865,This has blown my mind!,5
+866,Life just feels so unfair right now.,0
+867,What a pleasant surprise!,5
+868,Feeling so down today.,0
+869,I am so happy right now!,1
+870,"I don't know what to do, I'm so afraid.",4
+871,Life just feels so unfair right now.,0
+872,I feel blessed!,1
+873,I'm speechless from this surprise!,5
+874,I'm so scared right now.,4
+875,I can't believe this is happening!,3
+876,"I don't know what to do, I'm so afraid.",4
+877,I can't take this anymore!,3
+878,I'm feeling low.,0
+879,I'm so scared right now.,4
+880,Love is the best feeling.,2
+881,Why does fear control me like this?,4
+882,I love you more than words can say.,2
+883,This is infuriating!,3
+884,Feeling so down today.,0
+885,Love makes everything better.,2
+886,Things never go my way.,0
+887,"I can't breathe, I'm so scared.",4
+888,I can't believe this just happened!,5
+889,I love you more than words can say.,2
+890,Today is an amazing day!,1
+891,I never expected this outcome!,5
+892,My heart skips a beat every time I see you.,2
+893,Falling in love all over again.,2
+894,I'm so frustrated right now!,3
+895,I wish I could escape this sadness.,0
+896,I feel blessed!,1
+897,I'm so scared right now.,4
+898,This is terrifying!,4
+899,Can't stop smiling today!,1
+900,You mean the world to me.,2
+901,Everything is just perfect.,1
+902,I can't take this anymore!,3
+903,What a wonderful day!,1
+904,I'm frozen in fear.,4
+905,People are just the worst sometimes!,3
+906,Happiness is all around!,1
+907,This is terrifying!,4
+908,My heart is so full of love.,2
+909,Falling in love all over again.,2
+910,What a wonderful day!,1
+911,Why does everything feel so hopeless?,0
+912,My heart is so full of love.,2
+913,This is terrifying!,4
+914,I'm so frustrated right now!,3
+915,I love you more than words can say.,2
+916,I'm so grateful for everything!,1
+917,This is my worst nightmare.,4
+918,What a pleasant surprise!,5
+919,I'm speechless from this surprise!,5
+920,My heart is so full of love.,2
+921,You complete me.,2
+922,Falling in love all over again.,2
+923,Life is beautiful!,1
+924,I feel blessed!,1
+925,Everything is just perfect.,1
+926,I can't stop crying.,0
+927,People are just the worst sometimes!,3
+928,I'm frozen in fear.,4
+929,I can't stop shaking from fear.,4
+930,Everything feels grey today.,0
+931,People are just the worst sometimes!,3
+932,I can't stop shaking from fear.,4
+933,I'm so scared right now.,4
+934,Love is all we need.,2
+935,Surprised in the best way possible!,5
+936,This is my worst nightmare.,4
+937,I can't believe this just happened!,5
+938,I wish I could escape this sadness.,0
+939,My heart skips a beat every time I see you.,2
+940,All I feel is emptiness.,0
+941,Fear is taking over me.,4
+942,What a shock!,5
+943,Love makes everything better.,2
+944,Love is the best feeling.,2
+945,Why does fear control me like this?,4
+946,I'm feeling low.,0
+947,Totally caught off guard by this!,5
+948,I can't imagine life without you.,2
+949,What a shock!,5
+950,"I don't know what to do, I'm so afraid.",4
+951,So angry I could scream!,3
+952,Love is all we need.,2
+953,I can't stop crying.,0
+954,Things never go my way.,0
+955,Love is all we need.,2
+956,Totally caught off guard by this!,5
+957,I wish I could escape this sadness.,0
+958,This is terrifying!,4
+959,I'm so scared right now.,4
+960,I never expected this outcome!,5
+961,Love is the best feeling.,2
+962,This is absolutely unacceptable!,3
+963,Everything is just perfect.,1
+964,Life is beautiful!,1
+965,Missing those happy times.,0
+966,What a wonderful day!,1
+967,This is absolutely unacceptable!,3
+968,I can't stop shaking from fear.,4
+969,What a wonderful day!,1
+970,I'm so frustrated right now!,3
+971,I wish I could escape this sadness.,0
+972,"I don't know what to do, I'm so afraid.",4
+973,Life is beautiful!,1
+974,I'm so frustrated right now!,3
+975,You mean the world to me.,2
+976,This is absolutely unacceptable!,3
+977,Love is all we need.,2
+978,I'm speechless from this surprise!,5
+979,This is absolutely unacceptable!,3
+980,What a wonderful day!,1
+981,Life is beautiful!,1
+982,What a shock!,5
+983,Love is all we need.,2
+984,Falling in love all over again.,2
+985,I'm speechless from this surprise!,5
+986,I'm speechless from this surprise!,5
+987,I'm so scared right now.,4
+988,This is beyond frustrating.,3
+989,This is terrifying!,4
+990,I love you more than words can say.,2
+991,What a shock!,5
+992,Everything is just perfect.,1
+993,Today is an amazing day!,1
+994,Everything feels grey today.,0
+995,Surprised in the best way possible!,5
+996,This is my worst nightmare.,4
+997,I can't believe this is happening!,3
+998,I'm feeling low.,0
+999,I wish I could escape this sadness.,0
+1000,Feeling on top of the world!,1
+1001,This is completely unexpected!,5
+1002,Why does fear control me like this?,4
+1003,Surprised in the best way possible!,5
+1004,Missing those happy times.,0
+1005,This is beyond frustrating.,3
+1006,My heart skips a beat every time I see you.,2
+1007,I'm feeling low.,0
+1008,I'm about to explode with anger.,3
+1009,Everything is just perfect.,1
+1010,So angry I could scream!,3
+1011,I'm about to explode with anger.,3
+1012,I'm so frustrated right now!,3
+1013,I am so happy right now!,1
+1014,I feel blessed!,1
+1015,Feeling on top of the world!,1
+1016,All I feel is emptiness.,0
+1017,Feeling on top of the world!,1
+1018,How can people be so inconsiderate?,3
+1019,This is terrifying!,4
+1020,What a wonderful day!,1
+1021,I can't believe this just happened!,5
+1022,I'm about to explode with anger.,3
+1023,"I don't know what to do, I'm so afraid.",4
+1024,Why does everything feel so hopeless?,0
+1025,I'm so grateful for everything!,1
+1026,Love is all we need.,2
+1027,I can't believe this just happened!,5
+1028,Life just feels so unfair right now.,0
+1029,"Wow, I didn't see that coming!",5
+1030,This is absolutely unacceptable!,3
+1031,I'm about to explode with anger.,3
+1032,I can't stop crying.,0
+1033,This is completely unexpected!,5
+1034,"Wow, I didn't see that coming!",5
+1035,Love is the best feeling.,2
+1036,I can't stop shaking from fear.,4
+1037,Can't stop smiling today!,1
+1038,You mean the world to me.,2
+1039,Can't stop smiling today!,1
+1040,I can't stop crying.,0
+1041,I can't believe this is happening!,3
+1042,Missing those happy times.,0
+1043,Why does fear control me like this?,4
+1044,Life is beautiful!,1
+1045,This is completely unexpected!,5
+1046,Love makes everything better.,2
+1047,I can't stop shaking from fear.,4
+1048,Missing those happy times.,0
+1049,I can't believe this is happening!,3
+1050,Love makes everything better.,2
+1051,This has blown my mind!,5
+1052,I'm speechless from this surprise!,5
+1053,I love you more than words can say.,2
+1054,"I can't breathe, I'm so scared.",4
+1055,My heart skips a beat every time I see you.,2
+1056,Fear is taking over me.,4
+1057,Totally caught off guard by this!,5
+1058,You mean the world to me.,2
+1059,I wish I could escape this sadness.,0
+1060,"I can't breathe, I'm so scared.",4
+1061,This is infuriating!,3
+1062,All I feel is emptiness.,0
+1063,You complete me.,2
+1064,Life just feels so unfair right now.,0
+1065,Life just feels so unfair right now.,0
+1066,I can't take this anymore!,3
+1067,I never expected this outcome!,5
+1068,You complete me.,2
+1069,I can't stop crying.,0
+1070,I feel blessed!,1
+1071,All I feel is emptiness.,0
+1072,What a pleasant surprise!,5
+1073,My heart skips a beat every time I see you.,2
+1074,My heart skips a beat every time I see you.,2
+1075,How can people be so inconsiderate?,3
+1076,I can't believe this is happening!,3
+1077,You mean the world to me.,2
+1078,People are just the worst sometimes!,3
+1079,I'm so scared right now.,4
+1080,Missing those happy times.,0
+1081,I'm speechless from this surprise!,5
+1082,I'm frozen in fear.,4
+1083,I'm about to explode with anger.,3
+1084,Everything is just perfect.,1
+1085,Love is the best feeling.,2
+1086,This is beyond frustrating.,3
+1087,Can't stop smiling today!,1
+1088,Why does everything feel so hopeless?,0
+1089,This is my worst nightmare.,4
+1090,This is completely unexpected!,5
+1091,I can't stop shaking from fear.,4
+1092,Today is an amazing day!,1
+1093,"I don't know what to do, I'm so afraid.",4
+1094,Feeling on top of the world!,1
+1095,I'm so grateful for everything!,1
+1096,Everything is just perfect.,1
+1097,So angry I could scream!,3
+1098,I never expected this outcome!,5
+1099,Life just feels so unfair right now.,0
+1100,This is terrifying!,4
+1101,"I can't breathe, I'm so scared.",4
+1102,I can't stop shaking from fear.,4
+1103,I never expected this outcome!,5
+1104,This is my worst nightmare.,4
+1105,Why does fear control me like this?,4
+1106,"I don't know what to do, I'm so afraid.",4
+1107,Things never go my way.,0
+1108,How can people be so inconsiderate?,3
+1109,Totally caught off guard by this!,5
+1110,I'm so scared right now.,4
+1111,I can't imagine life without you.,2
+1112,Life just feels so unfair right now.,0
+1113,I'm feeling low.,0
+1114,Love makes everything better.,2
+1115,I'm speechless from this surprise!,5
+1116,Happiness is all around!,1
+1117,How can people be so inconsiderate?,3
+1118,The fear is overwhelming.,4
+1119,I can't stop crying.,0
+1120,Things never go my way.,0
+1121,I love you more than words can say.,2
+1122,So angry I could scream!,3
+1123,I'm speechless from this surprise!,5
+1124,I am so happy right now!,1
+1125,Love makes everything better.,2
+1126,You complete me.,2
+1127,I'm speechless from this surprise!,5
+1128,Falling in love all over again.,2
+1129,I'm frozen in fear.,4
+1130,"I can't breathe, I'm so scared.",4
+1131,Things never go my way.,0
+1132,I can't believe this is happening!,3
+1133,Life is beautiful!,1
+1134,What a pleasant surprise!,5
+1135,This is infuriating!,3
+1136,This is infuriating!,3
+1137,I'm so scared right now.,4
+1138,Life just feels so unfair right now.,0
+1139,What a wonderful day!,1
+1140,This is absolutely unacceptable!,3
+1141,What a shock!,5
+1142,My heart skips a beat every time I see you.,2
+1143,I can't stop crying.,0
+1144,Fear is taking over me.,4
+1145,I can't imagine life without you.,2
+1146,Happiness is all around!,1
+1147,I'm so grateful for everything!,1
+1148,My heart is so full of love.,2
+1149,I wish I could escape this sadness.,0
+1150,I'm so frustrated right now!,3
+1151,What a shock!,5
+1152,Surprised in the best way possible!,5
+1153,I'm so frustrated right now!,3
+1154,Fear is taking over me.,4
+1155,This is completely unexpected!,5
+1156,This has blown my mind!,5
+1157,The fear is overwhelming.,4
+1158,My heart skips a beat every time I see you.,2
+1159,I love you more than words can say.,2
+1160,Everything feels grey today.,0
+1161,Life is beautiful!,1
+1162,Falling in love all over again.,2
+1163,People are just the worst sometimes!,3
+1164,Love is all we need.,2
+1165,Surprised in the best way possible!,5
+1166,I wish I could escape this sadness.,0
+1167,I never expected this outcome!,5
+1168,I feel blessed!,1
+1169,What a shock!,5
+1170,This is beyond frustrating.,3
+1171,Feeling on top of the world!,1
+1172,This is absolutely unacceptable!,3
+1173,I am so happy right now!,1
+1174,Feeling so down today.,0
+1175,"I don't know what to do, I'm so afraid.",4
+1176,Love makes everything better.,2
+1177,The fear is overwhelming.,4
+1178,What a wonderful day!,1
+1179,This is completely unexpected!,5
+1180,Everything feels grey today.,0
+1181,Why does everything feel so hopeless?,0
+1182,Everything is just perfect.,1
+1183,This is completely unexpected!,5
+1184,I'm so scared right now.,4
+1185,I can't imagine life without you.,2
+1186,I can't take this anymore!,3
+1187,I'm so grateful for everything!,1
+1188,Love is the best feeling.,2
+1189,The fear is overwhelming.,4
+1190,I can't imagine life without you.,2
+1191,Today is an amazing day!,1
+1192,"I can't breathe, I'm so scared.",4
+1193,I'm feeling low.,0
+1194,I wish I could escape this sadness.,0
+1195,I can't imagine life without you.,2
+1196,I love you more than words can say.,2
+1197,I'm frozen in fear.,4
+1198,Happiness is all around!,1
+1199,This has blown my mind!,5
+1200,Totally caught off guard by this!,5
+1201,Surprised in the best way possible!,5
+1202,I can't take this anymore!,3
+1203,I'm feeling low.,0
+1204,This is beyond frustrating.,3
+1205,I can't believe this just happened!,5
+1206,I'm feeling low.,0
+1207,"I can't breathe, I'm so scared.",4
+1208,Falling in love all over again.,2
+1209,So angry I could scream!,3
+1210,This is completely unexpected!,5
+1211,This is my worst nightmare.,4
+1212,Today is an amazing day!,1
+1213,This is absolutely unacceptable!,3
+1214,This is infuriating!,3
+1215,I wish I could escape this sadness.,0
+1216,I'm so scared right now.,4
+1217,I'm frozen in fear.,4
+1218,I can't stop crying.,0
+1219,People are just the worst sometimes!,3
+1220,How can people be so inconsiderate?,3
+1221,I'm speechless from this surprise!,5
+1222,Feeling so down today.,0
+1223,You complete me.,2
+1224,I'm speechless from this surprise!,5
+1225,Life is beautiful!,1
+1226,"I don't know what to do, I'm so afraid.",4
+1227,I can't take this anymore!,3
+1228,Totally caught off guard by this!,5
+1229,This has blown my mind!,5
+1230,Missing those happy times.,0
+1231,"Wow, I didn't see that coming!",5
+1232,I'm so scared right now.,4
+1233,I wish I could escape this sadness.,0
+1234,What a wonderful day!,1
+1235,I am so happy right now!,1
+1236,I'm feeling low.,0
+1237,I'm speechless from this surprise!,5
+1238,Everything is just perfect.,1
+1239,Totally caught off guard by this!,5
+1240,This is terrifying!,4
+1241,People are just the worst sometimes!,3
+1242,You mean the world to me.,2
+1243,What a shock!,5
+1244,I'm so grateful for everything!,1
+1245,I can't stop shaking from fear.,4
+1246,How can people be so inconsiderate?,3
+1247,How can people be so inconsiderate?,3
+1248,"I can't breathe, I'm so scared.",4
+1249,What a shock!,5
+1250,What a pleasant surprise!,5
+1251,How can people be so inconsiderate?,3
+1252,I can't stop shaking from fear.,4
+1253,How can people be so inconsiderate?,3
+1254,I'm so grateful for everything!,1
+1255,"I don't know what to do, I'm so afraid.",4
+1256,I'm so frustrated right now!,3
+1257,Love is the best feeling.,2
+1258,I love you more than words can say.,2
+1259,This has blown my mind!,5
+1260,People are just the worst sometimes!,3
+1261,I'm so frustrated right now!,3
+1262,Why does fear control me like this?,4
+1263,I'm frozen in fear.,4
+1264,I can't stop shaking from fear.,4
+1265,I'm so frustrated right now!,3
+1266,Love is all we need.,2
+1267,Everything feels grey today.,0
+1268,I can't stop shaking from fear.,4
+1269,This has blown my mind!,5
+1270,I wish I could escape this sadness.,0
+1271,I'm so scared right now.,4
+1272,I love you more than words can say.,2
+1273,Totally caught off guard by this!,5
+1274,Life just feels so unfair right now.,0
+1275,This is infuriating!,3
+1276,Why does fear control me like this?,4
+1277,This is my worst nightmare.,4
+1278,You mean the world to me.,2
+1279,You complete me.,2
+1280,Love is the best feeling.,2
+1281,So angry I could scream!,3
+1282,I can't stop shaking from fear.,4
+1283,Why does everything feel so hopeless?,0
+1284,Everything feels grey today.,0
+1285,I can't take this anymore!,3
+1286,This is beyond frustrating.,3
+1287,I can't stop crying.,0
+1288,I love you more than words can say.,2
+1289,I can't take this anymore!,3
+1290,This is completely unexpected!,5
+1291,How can people be so inconsiderate?,3
+1292,You complete me.,2
+1293,Love is the best feeling.,2
+1294,You mean the world to me.,2
+1295,I can't stop shaking from fear.,4
+1296,This is terrifying!,4
+1297,I'm so frustrated right now!,3
+1298,All I feel is emptiness.,0
+1299,This is terrifying!,4
+1300,Falling in love all over again.,2
+1301,Love makes everything better.,2
+1302,What a pleasant surprise!,5
+1303,Fear is taking over me.,4
+1304,Why does everything feel so hopeless?,0
+1305,Fear is taking over me.,4
+1306,This has blown my mind!,5
+1307,What a pleasant surprise!,5
+1308,"I don't know what to do, I'm so afraid.",4
+1309,Feeling on top of the world!,1
+1310,Feeling on top of the world!,1
+1311,"I don't know what to do, I'm so afraid.",4
+1312,Missing those happy times.,0
+1313,How can people be so inconsiderate?,3
+1314,I wish I could escape this sadness.,0
+1315,Feeling on top of the world!,1
+1316,I can't believe this just happened!,5
+1317,What a wonderful day!,1
+1318,Everything is just perfect.,1
+1319,Surprised in the best way possible!,5
+1320,I can't believe this just happened!,5
+1321,This is infuriating!,3
+1322,Things never go my way.,0
+1323,"I don't know what to do, I'm so afraid.",4
+1324,So angry I could scream!,3
+1325,I'm so grateful for everything!,1
+1326,This is terrifying!,4
+1327,This is absolutely unacceptable!,3
+1328,I can't imagine life without you.,2
+1329,This is infuriating!,3
+1330,Surprised in the best way possible!,5
+1331,Everything feels grey today.,0
+1332,Things never go my way.,0
+1333,Everything is just perfect.,1
+1334,This is infuriating!,3
+1335,I'm speechless from this surprise!,5
+1336,This is absolutely unacceptable!,3
+1337,The fear is overwhelming.,4
+1338,I can't take this anymore!,3
+1339,Everything feels grey today.,0
+1340,This is terrifying!,4
+1341,Life just feels so unfair right now.,0
+1342,Falling in love all over again.,2
+1343,"Wow, I didn't see that coming!",5
+1344,I feel blessed!,1
+1345,I can't believe this is happening!,3
+1346,Things never go my way.,0
+1347,Feeling on top of the world!,1
+1348,This is beyond frustrating.,3
+1349,All I feel is emptiness.,0
+1350,People are just the worst sometimes!,3
+1351,This has blown my mind!,5
+1352,Life is beautiful!,1
+1353,Why does everything feel so hopeless?,0
+1354,You complete me.,2
+1355,Things never go my way.,0
+1356,Everything is just perfect.,1
+1357,This is my worst nightmare.,4
+1358,Missing those happy times.,0
+1359,Why does fear control me like this?,4
+1360,Love is all we need.,2
+1361,I can't take this anymore!,3
+1362,What a shock!,5
+1363,My heart skips a beat every time I see you.,2
+1364,I'm so scared right now.,4
+1365,Fear is taking over me.,4
+1366,I feel blessed!,1
+1367,What a shock!,5
+1368,People are just the worst sometimes!,3
+1369,This is absolutely unacceptable!,3
+1370,You mean the world to me.,2
+1371,I wish I could escape this sadness.,0
+1372,Missing those happy times.,0
+1373,This has blown my mind!,5
+1374,Feeling so down today.,0
+1375,I'm frozen in fear.,4
+1376,Surprised in the best way possible!,5
+1377,Fear is taking over me.,4
+1378,I wish I could escape this sadness.,0
+1379,I feel blessed!,1
+1380,I'm so grateful for everything!,1
+1381,"I don't know what to do, I'm so afraid.",4
+1382,Love is the best feeling.,2
+1383,Love is the best feeling.,2
+1384,Surprised in the best way possible!,5
+1385,This is infuriating!,3
+1386,I can't believe this just happened!,5
+1387,This is beyond frustrating.,3
+1388,"I can't breathe, I'm so scared.",4
+1389,What a pleasant surprise!,5
+1390,I can't take this anymore!,3
+1391,My heart is so full of love.,2
+1392,Can't stop smiling today!,1
+1393,My heart is so full of love.,2
+1394,Fear is taking over me.,4
+1395,Why does fear control me like this?,4
+1396,Love is all we need.,2
+1397,This is completely unexpected!,5
+1398,I'm feeling low.,0
+1399,I'm feeling low.,0
+1400,What a wonderful day!,1
+1401,I never expected this outcome!,5
+1402,My heart skips a beat every time I see you.,2
+1403,Feeling on top of the world!,1
+1404,I'm so grateful for everything!,1
+1405,People are just the worst sometimes!,3
+1406,Love is all we need.,2
+1407,What a wonderful day!,1
+1408,People are just the worst sometimes!,3
+1409,I never expected this outcome!,5
+1410,Today is an amazing day!,1
+1411,This is beyond frustrating.,3
+1412,"Wow, I didn't see that coming!",5
+1413,I can't believe this is happening!,3
+1414,Totally caught off guard by this!,5
+1415,I feel blessed!,1
+1416,What a wonderful day!,1
+1417,I'm frozen in fear.,4
+1418,Love is all we need.,2
+1419,The fear is overwhelming.,4
+1420,This has blown my mind!,5
+1421,So angry I could scream!,3
+1422,Today is an amazing day!,1
+1423,Love makes everything better.,2
+1424,"I can't breathe, I'm so scared.",4
+1425,Feeling so down today.,0
+1426,The fear is overwhelming.,4
+1427,Happiness is all around!,1
+1428,Feeling on top of the world!,1
+1429,All I feel is emptiness.,0
+1430,I'm speechless from this surprise!,5
+1431,You mean the world to me.,2
+1432,So angry I could scream!,3
+1433,I'm about to explode with anger.,3
+1434,I can't stop shaking from fear.,4
+1435,I can't imagine life without you.,2
+1436,I can't take this anymore!,3
+1437,What a shock!,5
+1438,What a shock!,5
+1439,The fear is overwhelming.,4
+1440,I can't believe this just happened!,5
+1441,Surprised in the best way possible!,5
+1442,What a wonderful day!,1
+1443,I'm frozen in fear.,4
+1444,Missing those happy times.,0
+1445,Happiness is all around!,1
+1446,I am so happy right now!,1
+1447,How can people be so inconsiderate?,3
+1448,This is terrifying!,4
+1449,So angry I could scream!,3
+1450,I love you more than words can say.,2
+1451,You complete me.,2
+1452,"Wow, I didn't see that coming!",5
+1453,Love is the best feeling.,2
+1454,I am so happy right now!,1
+1455,Happiness is all around!,1
+1456,I wish I could escape this sadness.,0
+1457,This is terrifying!,4
+1458,Happiness is all around!,1
+1459,My heart skips a beat every time I see you.,2
+1460,Can't stop smiling today!,1
+1461,I love you more than words can say.,2
+1462,Can't stop smiling today!,1
+1463,Today is an amazing day!,1
+1464,You complete me.,2
+1465,I'm about to explode with anger.,3
+1466,I'm feeling low.,0
+1467,Totally caught off guard by this!,5
+1468,This is beyond frustrating.,3
+1469,My heart is so full of love.,2
+1470,I am so happy right now!,1
+1471,Love is all we need.,2
+1472,Love makes everything better.,2
+1473,What a pleasant surprise!,5
+1474,This is my worst nightmare.,4
+1475,I can't take this anymore!,3
+1476,I feel blessed!,1
+1477,Why does everything feel so hopeless?,0
+1478,Life just feels so unfair right now.,0
+1479,Feeling so down today.,0
+1480,"I can't breathe, I'm so scared.",4
+1481,Why does fear control me like this?,4
+1482,Why does fear control me like this?,4
+1483,My heart skips a beat every time I see you.,2
+1484,Why does everything feel so hopeless?,0
+1485,Love is all we need.,2
+1486,People are just the worst sometimes!,3
+1487,This is completely unexpected!,5
+1488,This is terrifying!,4
+1489,I'm so grateful for everything!,1
+1490,Surprised in the best way possible!,5
+1491,What a pleasant surprise!,5
+1492,What a shock!,5
+1493,This is my worst nightmare.,4
+1494,"I don't know what to do, I'm so afraid.",4
+1495,Feeling so down today.,0
+1496,I'm about to explode with anger.,3
+1497,Life is beautiful!,1
+1498,I feel blessed!,1
+1499,All I feel is emptiness.,0
+1500,Everything feels grey today.,0
+1501,Can't stop smiling today!,1
+1502,What a wonderful day!,1
+1503,I can't take this anymore!,3
+1504,All I feel is emptiness.,0
+1505,Fear is taking over me.,4
+1506,All I feel is emptiness.,0
+1507,Why does fear control me like this?,4
+1508,Feeling on top of the world!,1
+1509,I can't believe this is happening!,3
+1510,Feeling so down today.,0
+1511,I'm so scared right now.,4
+1512,Surprised in the best way possible!,5
+1513,Why does fear control me like this?,4
+1514,This is completely unexpected!,5
+1515,Falling in love all over again.,2
+1516,"Wow, I didn't see that coming!",5
+1517,Feeling so down today.,0
+1518,I never expected this outcome!,5
+1519,Why does everything feel so hopeless?,0
+1520,This is infuriating!,3
+1521,Everything feels grey today.,0
+1522,Life is beautiful!,1
+1523,Totally caught off guard by this!,5
+1524,I feel blessed!,1
+1525,You complete me.,2
+1526,I can't imagine life without you.,2
+1527,This is terrifying!,4
+1528,Feeling so down today.,0
+1529,Fear is taking over me.,4
+1530,I can't stop crying.,0
+1531,Today is an amazing day!,1
+1532,Fear is taking over me.,4
+1533,I'm feeling low.,0
+1534,You mean the world to me.,2
+1535,This is my worst nightmare.,4
+1536,Missing those happy times.,0
+1537,So angry I could scream!,3
+1538,I can't believe this is happening!,3
+1539,My heart is so full of love.,2
+1540,Things never go my way.,0
+1541,Love is all we need.,2
+1542,I can't believe this just happened!,5
+1543,This is beyond frustrating.,3
+1544,This is beyond frustrating.,3
+1545,"I don't know what to do, I'm so afraid.",4
+1546,I'm about to explode with anger.,3
+1547,Fear is taking over me.,4
+1548,I can't take this anymore!,3
+1549,I'm so grateful for everything!,1
+1550,Love is all we need.,2
+1551,My heart skips a beat every time I see you.,2
+1552,Love is all we need.,2
+1553,Falling in love all over again.,2
+1554,I am so happy right now!,1
+1555,Love is the best feeling.,2
+1556,What a wonderful day!,1
+1557,How can people be so inconsiderate?,3
+1558,I'm so grateful for everything!,1
+1559,I am so happy right now!,1
+1560,My heart is so full of love.,2
+1561,I'm about to explode with anger.,3
+1562,"I can't breathe, I'm so scared.",4
+1563,What a wonderful day!,1
+1564,I can't stop shaking from fear.,4
+1565,How can people be so inconsiderate?,3
+1566,I love you more than words can say.,2
+1567,This is absolutely unacceptable!,3
+1568,Missing those happy times.,0
+1569,Life is beautiful!,1
+1570,You mean the world to me.,2
+1571,I never expected this outcome!,5
+1572,People are just the worst sometimes!,3
+1573,This is terrifying!,4
+1574,Falling in love all over again.,2
+1575,This is completely unexpected!,5
+1576,Can't stop smiling today!,1
+1577,"Wow, I didn't see that coming!",5
+1578,I can't take this anymore!,3
+1579,This is terrifying!,4
+1580,This is my worst nightmare.,4
+1581,"I can't breathe, I'm so scared.",4
+1582,Totally caught off guard by this!,5
+1583,I'm so frustrated right now!,3
+1584,"I don't know what to do, I'm so afraid.",4
+1585,I'm feeling low.,0
+1586,I'm frozen in fear.,4
+1587,This has blown my mind!,5
+1588,I can't imagine life without you.,2
+1589,The fear is overwhelming.,4
+1590,This is beyond frustrating.,3
+1591,All I feel is emptiness.,0
+1592,I love you more than words can say.,2
+1593,Love is the best feeling.,2
+1594,My heart skips a beat every time I see you.,2
+1595,I never expected this outcome!,5
+1596,I can't believe this just happened!,5
+1597,"Wow, I didn't see that coming!",5
+1598,I can't stop crying.,0
+1599,Life just feels so unfair right now.,0
+1600,Totally caught off guard by this!,5
+1601,This is beyond frustrating.,3
+1602,The fear is overwhelming.,4
+1603,Love is the best feeling.,2
+1604,Life just feels so unfair right now.,0
+1605,Everything is just perfect.,1
+1606,I am so happy right now!,1
+1607,I can't imagine life without you.,2
+1608,Today is an amazing day!,1
+1609,You complete me.,2
+1610,Love makes everything better.,2
+1611,Life just feels so unfair right now.,0
+1612,The fear is overwhelming.,4
+1613,What a pleasant surprise!,5
+1614,I can't believe this is happening!,3
+1615,I'm frozen in fear.,4
+1616,Can't stop smiling today!,1
+1617,Love is all we need.,2
+1618,Everything feels grey today.,0
+1619,I can't believe this is happening!,3
+1620,All I feel is emptiness.,0
+1621,Falling in love all over again.,2
+1622,I'm so frustrated right now!,3
+1623,I can't stop crying.,0
+1624,You mean the world to me.,2
+1625,Everything is just perfect.,1
+1626,Why does everything feel so hopeless?,0
+1627,All I feel is emptiness.,0
+1628,Everything is just perfect.,1
+1629,Everything feels grey today.,0
+1630,Things never go my way.,0
+1631,This is beyond frustrating.,3
+1632,Everything feels grey today.,0
+1633,I feel blessed!,1
+1634,I'm speechless from this surprise!,5
+1635,Life just feels so unfair right now.,0
+1636,Everything feels grey today.,0
+1637,Can't stop smiling today!,1
+1638,What a shock!,5
+1639,Fear is taking over me.,4
+1640,I can't believe this is happening!,3
+1641,I can't take this anymore!,3
+1642,Totally caught off guard by this!,5
+1643,You mean the world to me.,2
+1644,How can people be so inconsiderate?,3
+1645,How can people be so inconsiderate?,3
+1646,All I feel is emptiness.,0
+1647,All I feel is emptiness.,0
+1648,Today is an amazing day!,1
+1649,Missing those happy times.,0
+1650,I wish I could escape this sadness.,0
+1651,Falling in love all over again.,2
+1652,This is absolutely unacceptable!,3
+1653,Why does fear control me like this?,4
+1654,Life just feels so unfair right now.,0
+1655,Things never go my way.,0
+1656,What a pleasant surprise!,5
+1657,I'm about to explode with anger.,3
+1658,This has blown my mind!,5
+1659,Feeling on top of the world!,1
+1660,Love makes everything better.,2
+1661,Everything is just perfect.,1
+1662,I never expected this outcome!,5
+1663,I can't believe this is happening!,3
+1664,I'm feeling low.,0
+1665,I can't take this anymore!,3
+1666,Can't stop smiling today!,1
+1667,I can't believe this is happening!,3
+1668,You complete me.,2
+1669,Totally caught off guard by this!,5
+1670,I can't stop shaking from fear.,4
+1671,The fear is overwhelming.,4
+1672,I'm so grateful for everything!,1
+1673,Feeling on top of the world!,1
+1674,"Wow, I didn't see that coming!",5
+1675,I can't believe this just happened!,5
+1676,Surprised in the best way possible!,5
+1677,I can't believe this just happened!,5
+1678,So angry I could scream!,3
+1679,This has blown my mind!,5
+1680,Love makes everything better.,2
+1681,Can't stop smiling today!,1
+1682,I'm so frustrated right now!,3
+1683,I'm about to explode with anger.,3
+1684,So angry I could scream!,3
+1685,Why does everything feel so hopeless?,0
+1686,This is my worst nightmare.,4
+1687,This is infuriating!,3
+1688,Happiness is all around!,1
+1689,My heart is so full of love.,2
+1690,I'm feeling low.,0
+1691,I can't imagine life without you.,2
+1692,Life is beautiful!,1
+1693,Feeling so down today.,0
+1694,I'm frozen in fear.,4
+1695,Surprised in the best way possible!,5
+1696,Love is the best feeling.,2
+1697,I'm frozen in fear.,4
+1698,I can't stop crying.,0
+1699,You mean the world to me.,2
+1700,This is terrifying!,4
+1701,This is infuriating!,3
+1702,I never expected this outcome!,5
+1703,People are just the worst sometimes!,3
+1704,I can't stop shaking from fear.,4
+1705,I feel blessed!,1
+1706,I'm so scared right now.,4
+1707,My heart is so full of love.,2
+1708,I'm frozen in fear.,4
+1709,Happiness is all around!,1
+1710,I am so happy right now!,1
+1711,The fear is overwhelming.,4
+1712,Today is an amazing day!,1
+1713,"Wow, I didn't see that coming!",5
+1714,My heart is so full of love.,2
+1715,My heart is so full of love.,2
+1716,I'm so scared right now.,4
+1717,This is my worst nightmare.,4
+1718,I am so happy right now!,1
+1719,I can't imagine life without you.,2
+1720,Today is an amazing day!,1
+1721,Falling in love all over again.,2
+1722,Happiness is all around!,1
+1723,Surprised in the best way possible!,5
+1724,I'm frozen in fear.,4
+1725,Today is an amazing day!,1
+1726,This is infuriating!,3
+1727,Everything feels grey today.,0
+1728,All I feel is emptiness.,0
+1729,Feeling on top of the world!,1
+1730,Feeling so down today.,0
+1731,I love you more than words can say.,2
+1732,Love makes everything better.,2
+1733,I'm so scared right now.,4
+1734,What a pleasant surprise!,5
+1735,Everything is just perfect.,1
+1736,Love is all we need.,2
+1737,Feeling so down today.,0
+1738,People are just the worst sometimes!,3
+1739,Life is beautiful!,1
+1740,Fear is taking over me.,4
+1741,What a pleasant surprise!,5
+1742,Why does everything feel so hopeless?,0
+1743,Falling in love all over again.,2
+1744,Fear is taking over me.,4
+1745,Surprised in the best way possible!,5
+1746,This has blown my mind!,5
+1747,I can't stop crying.,0
+1748,I can't believe this just happened!,5
+1749,So angry I could scream!,3
+1750,I can't believe this just happened!,5
+1751,Why does fear control me like this?,4
+1752,Everything is just perfect.,1
+1753,Happiness is all around!,1
+1754,Missing those happy times.,0
+1755,Life just feels so unfair right now.,0
+1756,Life is beautiful!,1
+1757,Falling in love all over again.,2
+1758,Today is an amazing day!,1
+1759,"I can't breathe, I'm so scared.",4
+1760,This is completely unexpected!,5
+1761,Life is beautiful!,1
+1762,Feeling so down today.,0
+1763,I can't stop crying.,0
+1764,All I feel is emptiness.,0
+1765,I wish I could escape this sadness.,0
+1766,My heart skips a beat every time I see you.,2
+1767,Happiness is all around!,1
+1768,Feeling on top of the world!,1
+1769,Why does fear control me like this?,4
+1770,Fear is taking over me.,4
+1771,I'm feeling low.,0
+1772,I never expected this outcome!,5
+1773,You complete me.,2
+1774,People are just the worst sometimes!,3
+1775,My heart skips a beat every time I see you.,2
+1776,I can't imagine life without you.,2
+1777,My heart skips a beat every time I see you.,2
+1778,Life just feels so unfair right now.,0
+1779,Can't stop smiling today!,1
+1780,I love you more than words can say.,2
+1781,Things never go my way.,0
+1782,I'm about to explode with anger.,3
+1783,Love makes everything better.,2
+1784,I can't stop crying.,0
+1785,I feel blessed!,1
+1786,"I don't know what to do, I'm so afraid.",4
+1787,I wish I could escape this sadness.,0
+1788,You mean the world to me.,2
+1789,I feel blessed!,1
+1790,So angry I could scream!,3
+1791,Why does everything feel so hopeless?,0
+1792,I love you more than words can say.,2
+1793,What a pleasant surprise!,5
+1794,I'm so frustrated right now!,3
+1795,I'm about to explode with anger.,3
+1796,You complete me.,2
+1797,Things never go my way.,0
+1798,My heart skips a beat every time I see you.,2
+1799,What a shock!,5
+1800,I'm so scared right now.,4
+1801,Falling in love all over again.,2
+1802,I'm so grateful for everything!,1
+1803,Happiness is all around!,1
+1804,Why does fear control me like this?,4
+1805,Today is an amazing day!,1
+1806,This is beyond frustrating.,3
+1807,Love makes everything better.,2
+1808,Totally caught off guard by this!,5
+1809,"Wow, I didn't see that coming!",5
+1810,This is infuriating!,3
+1811,I'm about to explode with anger.,3
+1812,You complete me.,2
+1813,What a pleasant surprise!,5
+1814,Totally caught off guard by this!,5
+1815,Feeling so down today.,0
+1816,I'm so grateful for everything!,1
+1817,This is my worst nightmare.,4
+1818,I can't stop shaking from fear.,4
+1819,Things never go my way.,0
+1820,Feeling so down today.,0
+1821,So angry I could scream!,3
+1822,"Wow, I didn't see that coming!",5
+1823,I'm about to explode with anger.,3
+1824,My heart is so full of love.,2
+1825,I'm feeling low.,0
+1826,I can't imagine life without you.,2
+1827,I never expected this outcome!,5
+1828,This is my worst nightmare.,4
+1829,"Wow, I didn't see that coming!",5
+1830,Why does everything feel so hopeless?,0
+1831,What a pleasant surprise!,5
+1832,The fear is overwhelming.,4
+1833,Things never go my way.,0
+1834,I am so happy right now!,1
+1835,Happiness is all around!,1
+1836,I can't believe this just happened!,5
+1837,This is completely unexpected!,5
+1838,I can't stop crying.,0
+1839,I can't believe this just happened!,5
+1840,I can't believe this is happening!,3
+1841,This is terrifying!,4
+1842,This has blown my mind!,5
+1843,Feeling so down today.,0
+1844,Totally caught off guard by this!,5
+1845,Happiness is all around!,1
+1846,So angry I could scream!,3
+1847,Can't stop smiling today!,1
+1848,My heart is so full of love.,2
+1849,"I can't breathe, I'm so scared.",4
+1850,I'm speechless from this surprise!,5
+1851,The fear is overwhelming.,4
+1852,"I can't breathe, I'm so scared.",4
+1853,"Wow, I didn't see that coming!",5
+1854,Missing those happy times.,0
+1855,I can't believe this is happening!,3
+1856,My heart is so full of love.,2
+1857,I'm so frustrated right now!,3
+1858,I'm so frustrated right now!,3
+1859,I can't believe this just happened!,5
+1860,"I can't breathe, I'm so scared.",4
+1861,I can't stop crying.,0
+1862,I feel blessed!,1
+1863,What a wonderful day!,1
+1864,I'm frozen in fear.,4
+1865,The fear is overwhelming.,4
+1866,This has blown my mind!,5
+1867,I'm so grateful for everything!,1
+1868,Missing those happy times.,0
+1869,Love makes everything better.,2
+1870,This is my worst nightmare.,4
+1871,"I don't know what to do, I'm so afraid.",4
+1872,This is completely unexpected!,5
+1873,Today is an amazing day!,1
+1874,What a shock!,5
+1875,I can't imagine life without you.,2
+1876,You complete me.,2
+1877,Can't stop smiling today!,1
+1878,This is absolutely unacceptable!,3
+1879,My heart is so full of love.,2
+1880,This is absolutely unacceptable!,3
+1881,I'm so frustrated right now!,3
+1882,Can't stop smiling today!,1
+1883,Things never go my way.,0
+1884,Love is the best feeling.,2
+1885,Everything feels grey today.,0
+1886,What a shock!,5
+1887,Love makes everything better.,2
+1888,I am so happy right now!,1
+1889,I'm frozen in fear.,4
+1890,This is infuriating!,3
+1891,I can't imagine life without you.,2
+1892,What a pleasant surprise!,5
+1893,I feel blessed!,1
+1894,Why does fear control me like this?,4
+1895,My heart is so full of love.,2
+1896,Happiness is all around!,1
+1897,This is my worst nightmare.,4
+1898,I love you more than words can say.,2
+1899,"Wow, I didn't see that coming!",5
+1900,I'm so scared right now.,4
+1901,Love is the best feeling.,2
+1902,People are just the worst sometimes!,3
+1903,Falling in love all over again.,2
+1904,This is absolutely unacceptable!,3
+1905,My heart is so full of love.,2
+1906,Why does everything feel so hopeless?,0
+1907,Everything feels grey today.,0
+1908,Why does everything feel so hopeless?,0
+1909,You mean the world to me.,2
+1910,I never expected this outcome!,5
+1911,Life is beautiful!,1
+1912,I'm so scared right now.,4
+1913,Things never go my way.,0
+1914,I never expected this outcome!,5
+1915,I'm speechless from this surprise!,5
+1916,I am so happy right now!,1
+1917,I am so happy right now!,1
+1918,People are just the worst sometimes!,3
+1919,This is infuriating!,3
+1920,I feel blessed!,1
+1921,Can't stop smiling today!,1
+1922,What a pleasant surprise!,5
+1923,My heart is so full of love.,2
+1924,Love makes everything better.,2
+1925,I can't believe this is happening!,3
+1926,What a pleasant surprise!,5
+1927,This is completely unexpected!,5
+1928,How can people be so inconsiderate?,3
+1929,I can't stop crying.,0
+1930,My heart is so full of love.,2
+1931,My heart is so full of love.,2
+1932,"Wow, I didn't see that coming!",5
+1933,All I feel is emptiness.,0
+1934,I love you more than words can say.,2
+1935,My heart skips a beat every time I see you.,2
+1936,I feel blessed!,1
+1937,This is completely unexpected!,5
+1938,Surprised in the best way possible!,5
+1939,You mean the world to me.,2
+1940,I'm feeling low.,0
+1941,This has blown my mind!,5
+1942,I'm feeling low.,0
+1943,You complete me.,2
+1944,Things never go my way.,0
+1945,Feeling so down today.,0
+1946,This is completely unexpected!,5
+1947,What a pleasant surprise!,5
+1948,This is completely unexpected!,5
+1949,How can people be so inconsiderate?,3
+1950,I'm feeling low.,0
+1951,I'm so frustrated right now!,3
+1952,I'm frozen in fear.,4
+1953,I'm speechless from this surprise!,5
+1954,I'm so frustrated right now!,3
+1955,I wish I could escape this sadness.,0
+1956,Everything is just perfect.,1
+1957,So angry I could scream!,3
+1958,I feel blessed!,1
+1959,Love is all we need.,2
+1960,Love is the best feeling.,2
+1961,Love makes everything better.,2
+1962,I'm so grateful for everything!,1
+1963,"I don't know what to do, I'm so afraid.",4
+1964,I'm feeling low.,0
+1965,Can't stop smiling today!,1
+1966,"Wow, I didn't see that coming!",5
+1967,Feeling on top of the world!,1
+1968,Life is beautiful!,1
+1969,So angry I could scream!,3
+1970,This is terrifying!,4
+1971,How can people be so inconsiderate?,3
+1972,"I can't breathe, I'm so scared.",4
+1973,"I don't know what to do, I'm so afraid.",4
+1974,I can't stop crying.,0
+1975,This is my worst nightmare.,4
+1976,You mean the world to me.,2
+1977,This is beyond frustrating.,3
+1978,I feel blessed!,1
+1979,Happiness is all around!,1
+1980,"Wow, I didn't see that coming!",5
+1981,Life is beautiful!,1
+1982,I can't stop shaking from fear.,4
+1983,This is infuriating!,3
+1984,Love is all we need.,2
+1985,Love is the best feeling.,2
+1986,I can't believe this is happening!,3
+1987,I can't take this anymore!,3
+1988,I feel blessed!,1
+1989,Love is the best feeling.,2
+1990,Missing those happy times.,0
+1991,This is absolutely unacceptable!,3
+1992,This has blown my mind!,5
+1993,This is absolutely unacceptable!,3
+1994,This is my worst nightmare.,4
+1995,Missing those happy times.,0
+1996,This has blown my mind!,5
+1997,Missing those happy times.,0
+1998,I'm speechless from this surprise!,5
+1999,I never expected this outcome!,5
+2000,This is my worst nightmare.,4
+2001,Life just feels so unfair right now.,0
+2002,Totally caught off guard by this!,5
+2003,What a shock!,5
+2004,Feeling on top of the world!,1
+2005,This is absolutely unacceptable!,3
+2006,Life just feels so unfair right now.,0
+2007,This is absolutely unacceptable!,3
+2008,I'm speechless from this surprise!,5
+2009,Can't stop smiling today!,1
+2010,I can't stop crying.,0
+2011,All I feel is emptiness.,0
+2012,Life just feels so unfair right now.,0
+2013,I never expected this outcome!,5
+2014,I'm frozen in fear.,4
+2015,I can't believe this is happening!,3
+2016,Why does fear control me like this?,4
+2017,Life is beautiful!,1
+2018,Surprised in the best way possible!,5
+2019,You mean the world to me.,2
+2020,Can't stop smiling today!,1
+2021,I'm feeling low.,0
+2022,I feel blessed!,1
+2023,Falling in love all over again.,2
+2024,I can't stop shaking from fear.,4
+2025,Love is all we need.,2
+2026,I'm feeling low.,0
+2027,I'm feeling low.,0
+2028,I'm so grateful for everything!,1
+2029,This has blown my mind!,5
+2030,I wish I could escape this sadness.,0
+2031,This is my worst nightmare.,4
+2032,Feeling on top of the world!,1
+2033,Why does fear control me like this?,4
+2034,"I don't know what to do, I'm so afraid.",4
+2035,Why does everything feel so hopeless?,0
+2036,You complete me.,2
+2037,Falling in love all over again.,2
+2038,"I don't know what to do, I'm so afraid.",4
+2039,"I can't breathe, I'm so scared.",4
+2040,What a wonderful day!,1
+2041,Why does fear control me like this?,4
+2042,Everything feels grey today.,0
+2043,I'm speechless from this surprise!,5
+2044,I'm frozen in fear.,4
+2045,I love you more than words can say.,2
+2046,Totally caught off guard by this!,5
+2047,I am so happy right now!,1
+2048,I can't believe this is happening!,3
+2049,Why does everything feel so hopeless?,0
+2050,You mean the world to me.,2
+2051,I am so happy right now!,1
+2052,Falling in love all over again.,2
+2053,People are just the worst sometimes!,3
+2054,Totally caught off guard by this!,5
+2055,All I feel is emptiness.,0
+2056,All I feel is emptiness.,0
+2057,Life is beautiful!,1
+2058,I'm speechless from this surprise!,5
+2059,This is my worst nightmare.,4
+2060,This is absolutely unacceptable!,3
+2061,Missing those happy times.,0
+2062,"Wow, I didn't see that coming!",5
+2063,I'm so frustrated right now!,3
+2064,All I feel is emptiness.,0
+2065,Fear is taking over me.,4
+2066,Missing those happy times.,0
+2067,I can't imagine life without you.,2
+2068,What a pleasant surprise!,5
+2069,I am so happy right now!,1
+2070,Love is the best feeling.,2
+2071,Why does everything feel so hopeless?,0
+2072,Feeling so down today.,0
+2073,This is completely unexpected!,5
+2074,This is terrifying!,4
+2075,So angry I could scream!,3
+2076,Missing those happy times.,0
+2077,Life just feels so unfair right now.,0
+2078,You complete me.,2
+2079,I'm so scared right now.,4
+2080,"Wow, I didn't see that coming!",5
+2081,Missing those happy times.,0
+2082,This is beyond frustrating.,3
+2083,I'm speechless from this surprise!,5
+2084,Love makes everything better.,2
+2085,"I don't know what to do, I'm so afraid.",4
+2086,I can't imagine life without you.,2
+2087,This is beyond frustrating.,3
+2088,People are just the worst sometimes!,3
+2089,How can people be so inconsiderate?,3
+2090,What a wonderful day!,1
+2091,I can't imagine life without you.,2
+2092,I wish I could escape this sadness.,0
+2093,The fear is overwhelming.,4
+2094,Everything feels grey today.,0
+2095,This is absolutely unacceptable!,3
+2096,I'm about to explode with anger.,3
+2097,So angry I could scream!,3
+2098,Fear is taking over me.,4
+2099,Love is all we need.,2
+2100,I can't believe this is happening!,3
+2101,I'm so scared right now.,4
+2102,"Wow, I didn't see that coming!",5
+2103,I can't take this anymore!,3
+2104,How can people be so inconsiderate?,3
+2105,I never expected this outcome!,5
+2106,You mean the world to me.,2
+2107,What a wonderful day!,1
+2108,Falling in love all over again.,2
+2109,The fear is overwhelming.,4
+2110,I'm speechless from this surprise!,5
+2111,Can't stop smiling today!,1
+2112,Love is all we need.,2
+2113,Happiness is all around!,1
+2114,Today is an amazing day!,1
+2115,Life just feels so unfair right now.,0
+2116,Totally caught off guard by this!,5
+2117,Surprised in the best way possible!,5
+2118,Life just feels so unfair right now.,0
+2119,I can't imagine life without you.,2
+2120,Love is all we need.,2
+2121,"Wow, I didn't see that coming!",5
+2122,This is beyond frustrating.,3
+2123,"I can't breathe, I'm so scared.",4
+2124,Everything is just perfect.,1
+2125,Today is an amazing day!,1
+2126,Life just feels so unfair right now.,0
+2127,I wish I could escape this sadness.,0
+2128,I feel blessed!,1
+2129,Things never go my way.,0
+2130,"I can't breathe, I'm so scared.",4
+2131,This is absolutely unacceptable!,3
+2132,You complete me.,2
+2133,Why does fear control me like this?,4
+2134,Love makes everything better.,2
+2135,My heart skips a beat every time I see you.,2
+2136,So angry I could scream!,3
+2137,I can't stop shaking from fear.,4
+2138,I'm about to explode with anger.,3
+2139,Fear is taking over me.,4
+2140,So angry I could scream!,3
+2141,I'm so frustrated right now!,3
+2142,So angry I could scream!,3
+2143,Why does fear control me like this?,4
+2144,I can't stop shaking from fear.,4
+2145,This is terrifying!,4
+2146,Life just feels so unfair right now.,0
+2147,What a wonderful day!,1
+2148,People are just the worst sometimes!,3
+2149,Fear is taking over me.,4
+2150,My heart skips a beat every time I see you.,2
+2151,Can't stop smiling today!,1
+2152,Love is the best feeling.,2
+2153,This is infuriating!,3
+2154,I'm speechless from this surprise!,5
+2155,"Wow, I didn't see that coming!",5
+2156,I can't imagine life without you.,2
+2157,You complete me.,2
+2158,Feeling on top of the world!,1
+2159,I love you more than words can say.,2
+2160,"Wow, I didn't see that coming!",5
+2161,This is infuriating!,3
+2162,This is beyond frustrating.,3
+2163,All I feel is emptiness.,0
+2164,"Wow, I didn't see that coming!",5
+2165,Everything feels grey today.,0
+2166,This has blown my mind!,5
+2167,What a shock!,5
+2168,I wish I could escape this sadness.,0
+2169,Missing those happy times.,0
+2170,You mean the world to me.,2
+2171,I'm frozen in fear.,4
+2172,I never expected this outcome!,5
+2173,How can people be so inconsiderate?,3
+2174,I'm speechless from this surprise!,5
+2175,All I feel is emptiness.,0
+2176,I can't take this anymore!,3
+2177,This is beyond frustrating.,3
+2178,I can't imagine life without you.,2
+2179,You mean the world to me.,2
+2180,Life just feels so unfair right now.,0
+2181,Falling in love all over again.,2
+2182,You mean the world to me.,2
+2183,Happiness is all around!,1
+2184,What a shock!,5
+2185,I can't imagine life without you.,2
+2186,Surprised in the best way possible!,5
+2187,I'm so grateful for everything!,1
+2188,What a wonderful day!,1
+2189,I can't stop shaking from fear.,4
+2190,I never expected this outcome!,5
+2191,I'm so frustrated right now!,3
+2192,I am so happy right now!,1
+2193,My heart skips a beat every time I see you.,2
+2194,Love makes everything better.,2
+2195,I am so happy right now!,1
+2196,"I don't know what to do, I'm so afraid.",4
+2197,I'm speechless from this surprise!,5
+2198,I can't believe this just happened!,5
+2199,I never expected this outcome!,5
+2200,I'm so grateful for everything!,1
+2201,I can't believe this just happened!,5
+2202,This is beyond frustrating.,3
+2203,Surprised in the best way possible!,5
+2204,Surprised in the best way possible!,5
+2205,Feeling on top of the world!,1
+2206,Falling in love all over again.,2
+2207,Why does fear control me like this?,4
+2208,I'm so frustrated right now!,3
+2209,Feeling on top of the world!,1
+2210,Love makes everything better.,2
+2211,I can't stop crying.,0
+2212,You mean the world to me.,2
+2213,I'm about to explode with anger.,3
+2214,Feeling on top of the world!,1
+2215,I can't imagine life without you.,2
+2216,Missing those happy times.,0
+2217,I can't believe this just happened!,5
+2218,My heart is so full of love.,2
+2219,I'm so grateful for everything!,1
+2220,Things never go my way.,0
+2221,My heart is so full of love.,2
+2222,This is my worst nightmare.,4
+2223,Love is the best feeling.,2
+2224,I'm frozen in fear.,4
+2225,What a wonderful day!,1
+2226,The fear is overwhelming.,4
+2227,You complete me.,2
+2228,I can't stop shaking from fear.,4
+2229,I can't stop shaking from fear.,4
+2230,I can't stop crying.,0
+2231,Surprised in the best way possible!,5
+2232,"I don't know what to do, I'm so afraid.",4
+2233,What a shock!,5
+2234,Feeling on top of the world!,1
+2235,I love you more than words can say.,2
+2236,This is infuriating!,3
+2237,Can't stop smiling today!,1
+2238,Love is the best feeling.,2
+2239,Things never go my way.,0
+2240,Why does everything feel so hopeless?,0
+2241,Feeling so down today.,0
+2242,Life is beautiful!,1
+2243,Why does everything feel so hopeless?,0
+2244,So angry I could scream!,3
+2245,What a pleasant surprise!,5
+2246,Happiness is all around!,1
+2247,I'm so scared right now.,4
+2248,My heart is so full of love.,2
+2249,I'm so scared right now.,4
+2250,I can't believe this just happened!,5
+2251,What a shock!,5
+2252,What a shock!,5
+2253,I can't imagine life without you.,2
+2254,You mean the world to me.,2
+2255,I'm so grateful for everything!,1
+2256,People are just the worst sometimes!,3
+2257,I'm about to explode with anger.,3
+2258,I'm so grateful for everything!,1
+2259,Fear is taking over me.,4
+2260,I can't imagine life without you.,2
+2261,All I feel is emptiness.,0
+2262,This is my worst nightmare.,4
+2263,Things never go my way.,0
+2264,Happiness is all around!,1
+2265,I can't stop crying.,0
+2266,Can't stop smiling today!,1
+2267,You mean the world to me.,2
+2268,Everything is just perfect.,1
+2269,This is completely unexpected!,5
+2270,I feel blessed!,1
+2271,This is beyond frustrating.,3
+2272,Can't stop smiling today!,1
+2273,I'm so grateful for everything!,1
+2274,How can people be so inconsiderate?,3
+2275,I'm so scared right now.,4
+2276,"Wow, I didn't see that coming!",5
+2277,Love is the best feeling.,2
+2278,This has blown my mind!,5
+2279,I can't take this anymore!,3
+2280,Love is all we need.,2
+2281,This is beyond frustrating.,3
+2282,Things never go my way.,0
+2283,I can't take this anymore!,3
+2284,This is terrifying!,4
+2285,My heart skips a beat every time I see you.,2
+2286,Love is the best feeling.,2
+2287,How can people be so inconsiderate?,3
+2288,This is infuriating!,3
+2289,Surprised in the best way possible!,5
+2290,Why does fear control me like this?,4
+2291,I can't believe this just happened!,5
+2292,This is infuriating!,3
+2293,I'm so scared right now.,4
+2294,So angry I could scream!,3
+2295,This has blown my mind!,5
+2296,I'm so grateful for everything!,1
+2297,I can't imagine life without you.,2
+2298,Everything is just perfect.,1
+2299,Life is beautiful!,1
+2300,Life just feels so unfair right now.,0
+2301,This is absolutely unacceptable!,3
+2302,The fear is overwhelming.,4
+2303,What a wonderful day!,1
+2304,This is infuriating!,3
+2305,All I feel is emptiness.,0
+2306,I'm so scared right now.,4
+2307,Love is all we need.,2
+2308,This is my worst nightmare.,4
+2309,Surprised in the best way possible!,5
+2310,Happiness is all around!,1
+2311,Love is the best feeling.,2
+2312,I'm so grateful for everything!,1
+2313,I'm feeling low.,0
+2314,I love you more than words can say.,2
+2315,I feel blessed!,1
+2316,My heart is so full of love.,2
+2317,This is completely unexpected!,5
+2318,Missing those happy times.,0
+2319,What a pleasant surprise!,5
+2320,Love makes everything better.,2
+2321,I love you more than words can say.,2
+2322,What a shock!,5
+2323,I can't believe this just happened!,5
+2324,You mean the world to me.,2
+2325,Feeling on top of the world!,1
+2326,I never expected this outcome!,5
+2327,Feeling on top of the world!,1
+2328,Feeling on top of the world!,1
+2329,Love is all we need.,2
+2330,I'm so scared right now.,4
+2331,Love is all we need.,2
+2332,Totally caught off guard by this!,5
+2333,Feeling on top of the world!,1
+2334,I can't stop shaking from fear.,4
+2335,The fear is overwhelming.,4
+2336,This is completely unexpected!,5
+2337,Totally caught off guard by this!,5
+2338,Love makes everything better.,2
+2339,Why does everything feel so hopeless?,0
+2340,The fear is overwhelming.,4
+2341,Today is an amazing day!,1
+2342,I'm feeling low.,0
+2343,Everything is just perfect.,1
+2344,Totally caught off guard by this!,5
+2345,"I can't breathe, I'm so scared.",4
+2346,Happiness is all around!,1
+2347,Can't stop smiling today!,1
+2348,"I can't breathe, I'm so scared.",4
+2349,I'm so grateful for everything!,1
+2350,Love is all we need.,2
+2351,Everything feels grey today.,0
+2352,Totally caught off guard by this!,5
+2353,I never expected this outcome!,5
+2354,Things never go my way.,0
+2355,This is completely unexpected!,5
+2356,Love makes everything better.,2
+2357,Surprised in the best way possible!,5
+2358,What a shock!,5
+2359,My heart is so full of love.,2
+2360,I can't believe this is happening!,3
+2361,I can't stop crying.,0
+2362,Feeling so down today.,0
+2363,I'm speechless from this surprise!,5
+2364,I'm speechless from this surprise!,5
+2365,Happiness is all around!,1
+2366,Totally caught off guard by this!,5
+2367,Missing those happy times.,0
+2368,You complete me.,2
+2369,I'm so grateful for everything!,1
+2370,All I feel is emptiness.,0
+2371,Falling in love all over again.,2
+2372,I can't take this anymore!,3
+2373,All I feel is emptiness.,0
+2374,This is infuriating!,3
+2375,I feel blessed!,1
+2376,I'm so grateful for everything!,1
+2377,People are just the worst sometimes!,3
+2378,All I feel is emptiness.,0
+2379,This is absolutely unacceptable!,3
+2380,Everything feels grey today.,0
+2381,Why does fear control me like this?,4
+2382,I'm so scared right now.,4
+2383,This is completely unexpected!,5
+2384,I feel blessed!,1
+2385,I am so happy right now!,1
+2386,I can't stop shaking from fear.,4
+2387,You complete me.,2
+2388,My heart is so full of love.,2
+2389,My heart skips a beat every time I see you.,2
+2390,I feel blessed!,1
+2391,What a shock!,5
+2392,Fear is taking over me.,4
+2393,This is infuriating!,3
+2394,Today is an amazing day!,1
+2395,Love makes everything better.,2
+2396,Surprised in the best way possible!,5
+2397,I'm feeling low.,0
+2398,How can people be so inconsiderate?,3
+2399,I can't imagine life without you.,2
+2400,Life is beautiful!,1
+2401,Today is an amazing day!,1
+2402,Everything feels grey today.,0
+2403,Fear is taking over me.,4
+2404,How can people be so inconsiderate?,3
+2405,Can't stop smiling today!,1
+2406,Fear is taking over me.,4
+2407,Why does fear control me like this?,4
+2408,"I don't know what to do, I'm so afraid.",4
+2409,Life just feels so unfair right now.,0
+2410,Everything is just perfect.,1
+2411,You mean the world to me.,2
+2412,I'm so frustrated right now!,3
+2413,My heart is so full of love.,2
+2414,Love makes everything better.,2
+2415,I love you more than words can say.,2
+2416,Feeling so down today.,0
+2417,Happiness is all around!,1
+2418,"I don't know what to do, I'm so afraid.",4
+2419,You mean the world to me.,2
+2420,My heart is so full of love.,2
+2421,Can't stop smiling today!,1
+2422,I can't stop crying.,0
+2423,I'm frozen in fear.,4
+2424,Everything feels grey today.,0
+2425,"Wow, I didn't see that coming!",5
+2426,I'm frozen in fear.,4
+2427,Can't stop smiling today!,1
+2428,Surprised in the best way possible!,5
+2429,This is infuriating!,3
+2430,The fear is overwhelming.,4
+2431,Love makes everything better.,2
+2432,What a wonderful day!,1
+2433,I'm so grateful for everything!,1
+2434,I'm frozen in fear.,4
+2435,What a wonderful day!,1
+2436,What a wonderful day!,1
+2437,I feel blessed!,1
+2438,All I feel is emptiness.,0
+2439,Things never go my way.,0
+2440,Why does everything feel so hopeless?,0
+2441,Can't stop smiling today!,1
+2442,What a pleasant surprise!,5
+2443,I'm feeling low.,0
+2444,"I don't know what to do, I'm so afraid.",4
+2445,My heart skips a beat every time I see you.,2
+2446,I can't stop shaking from fear.,4
+2447,What a pleasant surprise!,5
+2448,This is completely unexpected!,5
+2449,I'm so scared right now.,4
+2450,You mean the world to me.,2
+2451,Totally caught off guard by this!,5
+2452,"Wow, I didn't see that coming!",5
+2453,Feeling so down today.,0
+2454,I can't take this anymore!,3
+2455,My heart is so full of love.,2
+2456,I feel blessed!,1
+2457,I can't believe this is happening!,3
+2458,I feel blessed!,1
+2459,Feeling so down today.,0
+2460,I can't take this anymore!,3
+2461,I'm frozen in fear.,4
+2462,I never expected this outcome!,5
+2463,"I don't know what to do, I'm so afraid.",4
+2464,I'm frozen in fear.,4
+2465,Today is an amazing day!,1
+2466,I wish I could escape this sadness.,0
+2467,So angry I could scream!,3
+2468,I am so happy right now!,1
+2469,Happiness is all around!,1
+2470,This is absolutely unacceptable!,3
+2471,I'm frozen in fear.,4
+2472,"I can't breathe, I'm so scared.",4
+2473,Everything is just perfect.,1
+2474,I'm frozen in fear.,4
+2475,I'm about to explode with anger.,3
+2476,This is infuriating!,3
+2477,"I can't breathe, I'm so scared.",4
+2478,Missing those happy times.,0
+2479,Feeling so down today.,0
+2480,Fear is taking over me.,4
+2481,Falling in love all over again.,2
+2482,I'm about to explode with anger.,3
+2483,My heart skips a beat every time I see you.,2
+2484,So angry I could scream!,3
+2485,I never expected this outcome!,5
+2486,I can't stop crying.,0
+2487,I'm speechless from this surprise!,5
+2488,The fear is overwhelming.,4
+2489,I'm about to explode with anger.,3
+2490,This is beyond frustrating.,3
+2491,What a pleasant surprise!,5
+2492,This is beyond frustrating.,3
+2493,Feeling so down today.,0
+2494,My heart skips a beat every time I see you.,2
+2495,This is beyond frustrating.,3
+2496,Totally caught off guard by this!,5
+2497,Things never go my way.,0
+2498,Why does everything feel so hopeless?,0
+2499,Love is the best feeling.,2
+2500,So angry I could scream!,3
+2501,I can't believe this just happened!,5
+2502,Love is all we need.,2
+2503,My heart is so full of love.,2
+2504,I can't imagine life without you.,2
+2505,The fear is overwhelming.,4
+2506,I wish I could escape this sadness.,0
+2507,My heart skips a beat every time I see you.,2
+2508,I'm feeling low.,0
+2509,I wish I could escape this sadness.,0
+2510,Life just feels so unfair right now.,0
+2511,This has blown my mind!,5
+2512,I'm so grateful for everything!,1
+2513,Why does everything feel so hopeless?,0
+2514,I'm so frustrated right now!,3
+2515,This is absolutely unacceptable!,3
+2516,This is my worst nightmare.,4
+2517,I wish I could escape this sadness.,0
+2518,I'm speechless from this surprise!,5
+2519,I'm frozen in fear.,4
+2520,"Wow, I didn't see that coming!",5
+2521,I'm so grateful for everything!,1
+2522,People are just the worst sometimes!,3
+2523,You complete me.,2
+2524,Everything is just perfect.,1
+2525,All I feel is emptiness.,0
+2526,This has blown my mind!,5
+2527,I can't stop shaking from fear.,4
+2528,I'm about to explode with anger.,3
+2529,The fear is overwhelming.,4
+2530,This is beyond frustrating.,3
+2531,Totally caught off guard by this!,5
+2532,Falling in love all over again.,2
+2533,This is absolutely unacceptable!,3
+2534,I can't stop shaking from fear.,4
+2535,Today is an amazing day!,1
+2536,Why does everything feel so hopeless?,0
+2537,"I can't breathe, I'm so scared.",4
+2538,I feel blessed!,1
+2539,This is terrifying!,4
+2540,This is terrifying!,4
+2541,Surprised in the best way possible!,5
+2542,You mean the world to me.,2
+2543,All I feel is emptiness.,0
+2544,I'm so frustrated right now!,3
+2545,You complete me.,2
+2546,Everything feels grey today.,0
+2547,What a wonderful day!,1
+2548,Feeling so down today.,0
+2549,You mean the world to me.,2
+2550,"Wow, I didn't see that coming!",5
+2551,I'm so scared right now.,4
+2552,Today is an amazing day!,1
+2553,I love you more than words can say.,2
+2554,Everything feels grey today.,0
+2555,I can't believe this just happened!,5
+2556,I'm so frustrated right now!,3
+2557,I can't believe this just happened!,5
+2558,I can't stop shaking from fear.,4
+2559,This is my worst nightmare.,4
+2560,I love you more than words can say.,2
+2561,This is absolutely unacceptable!,3
+2562,Falling in love all over again.,2
+2563,I feel blessed!,1
+2564,This is absolutely unacceptable!,3
+2565,Feeling on top of the world!,1
+2566,I can't believe this is happening!,3
+2567,I'm about to explode with anger.,3
+2568,I am so happy right now!,1
+2569,Love makes everything better.,2
+2570,You complete me.,2
+2571,I'm so grateful for everything!,1
+2572,So angry I could scream!,3
+2573,What a wonderful day!,1
+2574,I'm frozen in fear.,4
+2575,I can't stop shaking from fear.,4
+2576,Life is beautiful!,1
+2577,Love is all we need.,2
+2578,How can people be so inconsiderate?,3
+2579,Feeling so down today.,0
+2580,Everything is just perfect.,1
+2581,"I don't know what to do, I'm so afraid.",4
+2582,This is beyond frustrating.,3
+2583,So angry I could scream!,3
+2584,I never expected this outcome!,5
+2585,You mean the world to me.,2
+2586,Life is beautiful!,1
+2587,The fear is overwhelming.,4
+2588,I can't stop shaking from fear.,4
+2589,I am so happy right now!,1
+2590,Love is all we need.,2
+2591,Things never go my way.,0
+2592,What a wonderful day!,1
+2593,I can't imagine life without you.,2
+2594,"I can't breathe, I'm so scared.",4
+2595,This is my worst nightmare.,4
+2596,I can't take this anymore!,3
+2597,This is completely unexpected!,5
+2598,Falling in love all over again.,2
+2599,Everything feels grey today.,0
+2600,This is terrifying!,4
+2601,This has blown my mind!,5
+2602,What a shock!,5
+2603,I wish I could escape this sadness.,0
+2604,Can't stop smiling today!,1
+2605,I love you more than words can say.,2
+2606,I can't stop shaking from fear.,4
+2607,This is my worst nightmare.,4
+2608,People are just the worst sometimes!,3
+2609,This has blown my mind!,5
+2610,Everything is just perfect.,1
+2611,This is terrifying!,4
+2612,The fear is overwhelming.,4
+2613,Life is beautiful!,1
+2614,Everything feels grey today.,0
+2615,People are just the worst sometimes!,3
+2616,I can't take this anymore!,3
+2617,I can't stop shaking from fear.,4
+2618,This is absolutely unacceptable!,3
+2619,This has blown my mind!,5
+2620,I'm frozen in fear.,4
+2621,I wish I could escape this sadness.,0
+2622,I'm feeling low.,0
+2623,I'm feeling low.,0
+2624,What a pleasant surprise!,5
+2625,Things never go my way.,0
+2626,I'm so frustrated right now!,3
+2627,My heart skips a beat every time I see you.,2
+2628,I'm frozen in fear.,4
+2629,The fear is overwhelming.,4
+2630,I can't stop shaking from fear.,4
+2631,Falling in love all over again.,2
+2632,This has blown my mind!,5
+2633,I can't imagine life without you.,2
+2634,This is terrifying!,4
+2635,Life just feels so unfair right now.,0
+2636,I'm speechless from this surprise!,5
+2637,What a shock!,5
+2638,People are just the worst sometimes!,3
+2639,Things never go my way.,0
+2640,"I can't breathe, I'm so scared.",4
+2641,Totally caught off guard by this!,5
+2642,Love is the best feeling.,2
+2643,Why does fear control me like this?,4
+2644,Fear is taking over me.,4
+2645,I can't imagine life without you.,2
+2646,Life is beautiful!,1
+2647,I'm speechless from this surprise!,5
+2648,"I can't breathe, I'm so scared.",4
+2649,The fear is overwhelming.,4
+2650,Feeling so down today.,0
+2651,This is completely unexpected!,5
+2652,Missing those happy times.,0
+2653,I can't take this anymore!,3
+2654,Fear is taking over me.,4
+2655,This is absolutely unacceptable!,3
+2656,I can't believe this just happened!,5
+2657,So angry I could scream!,3
+2658,Why does everything feel so hopeless?,0
+2659,My heart is so full of love.,2
+2660,This has blown my mind!,5
+2661,Life is beautiful!,1
+2662,Today is an amazing day!,1
+2663,This has blown my mind!,5
+2664,Falling in love all over again.,2
+2665,Love is the best feeling.,2
+2666,Totally caught off guard by this!,5
+2667,I never expected this outcome!,5
+2668,I can't imagine life without you.,2
+2669,Why does fear control me like this?,4
+2670,This is my worst nightmare.,4
+2671,I'm so scared right now.,4
+2672,Today is an amazing day!,1
+2673,This is absolutely unacceptable!,3
+2674,I'm feeling low.,0
+2675,Love makes everything better.,2
+2676,"I can't breathe, I'm so scared.",4
+2677,I can't take this anymore!,3
+2678,This is completely unexpected!,5
+2679,Can't stop smiling today!,1
+2680,I'm speechless from this surprise!,5
+2681,Things never go my way.,0
+2682,This is absolutely unacceptable!,3
+2683,I never expected this outcome!,5
+2684,"I can't breathe, I'm so scared.",4
+2685,I can't believe this is happening!,3
+2686,Why does fear control me like this?,4
+2687,I can't imagine life without you.,2
+2688,I can't take this anymore!,3
+2689,Feeling on top of the world!,1
+2690,I never expected this outcome!,5
+2691,Everything feels grey today.,0
+2692,Love is the best feeling.,2
+2693,You complete me.,2
+2694,How can people be so inconsiderate?,3
+2695,This is completely unexpected!,5
+2696,Love makes everything better.,2
+2697,People are just the worst sometimes!,3
+2698,Totally caught off guard by this!,5
+2699,Surprised in the best way possible!,5
+2700,Life is beautiful!,1
+2701,I can't imagine life without you.,2
+2702,Feeling so down today.,0
+2703,What a pleasant surprise!,5
+2704,My heart skips a beat every time I see you.,2
+2705,"I don't know what to do, I'm so afraid.",4
+2706,Why does everything feel so hopeless?,0
+2707,Fear is taking over me.,4
+2708,Fear is taking over me.,4
+2709,This is my worst nightmare.,4
+2710,You complete me.,2
+2711,I can't imagine life without you.,2
+2712,Things never go my way.,0
+2713,This is infuriating!,3
+2714,I feel blessed!,1
+2715,Feeling so down today.,0
+2716,So angry I could scream!,3
+2717,What a pleasant surprise!,5
+2718,This is my worst nightmare.,4
+2719,Fear is taking over me.,4
+2720,You mean the world to me.,2
+2721,I'm so grateful for everything!,1
+2722,What a pleasant surprise!,5
+2723,I'm about to explode with anger.,3
+2724,Feeling on top of the world!,1
+2725,What a shock!,5
+2726,You complete me.,2
+2727,What a wonderful day!,1
+2728,What a shock!,5
+2729,My heart skips a beat every time I see you.,2
+2730,Surprised in the best way possible!,5
+2731,What a pleasant surprise!,5
+2732,Everything is just perfect.,1
+2733,Missing those happy times.,0
+2734,I can't stop crying.,0
+2735,Feeling on top of the world!,1
+2736,Everything is just perfect.,1
+2737,Why does everything feel so hopeless?,0
+2738,I am so happy right now!,1
+2739,Can't stop smiling today!,1
+2740,Missing those happy times.,0
+2741,Today is an amazing day!,1
+2742,My heart is so full of love.,2
+2743,What a pleasant surprise!,5
+2744,I'm so frustrated right now!,3
+2745,I love you more than words can say.,2
+2746,How can people be so inconsiderate?,3
+2747,All I feel is emptiness.,0
+2748,I'm feeling low.,0
+2749,My heart skips a beat every time I see you.,2
+2750,"I don't know what to do, I'm so afraid.",4
+2751,This is terrifying!,4
+2752,Feeling so down today.,0
+2753,Feeling so down today.,0
+2754,"I can't breathe, I'm so scared.",4
+2755,People are just the worst sometimes!,3
+2756,Love makes everything better.,2
+2757,This is terrifying!,4
+2758,This is terrifying!,4
+2759,My heart is so full of love.,2
+2760,Life just feels so unfair right now.,0
+2761,This is completely unexpected!,5
+2762,My heart skips a beat every time I see you.,2
+2763,So angry I could scream!,3
+2764,Totally caught off guard by this!,5
+2765,All I feel is emptiness.,0
+2766,I can't stop shaking from fear.,4
+2767,Today is an amazing day!,1
+2768,What a wonderful day!,1
+2769,My heart skips a beat every time I see you.,2
+2770,My heart skips a beat every time I see you.,2
+2771,I'm feeling low.,0
+2772,"I don't know what to do, I'm so afraid.",4
+2773,The fear is overwhelming.,4
+2774,Surprised in the best way possible!,5
+2775,Everything is just perfect.,1
+2776,Why does everything feel so hopeless?,0
+2777,I can't imagine life without you.,2
+2778,I'm so frustrated right now!,3
+2779,Feeling so down today.,0
+2780,All I feel is emptiness.,0
+2781,What a shock!,5
+2782,What a pleasant surprise!,5
+2783,This is completely unexpected!,5
+2784,This is beyond frustrating.,3
+2785,This is terrifying!,4
+2786,Life is beautiful!,1
+2787,All I feel is emptiness.,0
+2788,I can't take this anymore!,3
+2789,What a wonderful day!,1
+2790,I can't stop shaking from fear.,4
+2791,I am so happy right now!,1
+2792,I can't stop crying.,0
+2793,I can't believe this just happened!,5
+2794,I'm feeling low.,0
+2795,I wish I could escape this sadness.,0
+2796,People are just the worst sometimes!,3
+2797,My heart skips a beat every time I see you.,2
+2798,Love is all we need.,2
+2799,This is completely unexpected!,5
+2800,I'm frozen in fear.,4
+2801,I can't believe this is happening!,3
+2802,I love you more than words can say.,2
+2803,I can't stop shaking from fear.,4
+2804,Why does everything feel so hopeless?,0
+2805,Everything feels grey today.,0
+2806,Today is an amazing day!,1
+2807,Feeling on top of the world!,1
+2808,People are just the worst sometimes!,3
+2809,I'm feeling low.,0
+2810,This is beyond frustrating.,3
+2811,I'm frozen in fear.,4
+2812,I can't believe this is happening!,3
+2813,Love is the best feeling.,2
+2814,My heart is so full of love.,2
+2815,I can't believe this is happening!,3
+2816,Missing those happy times.,0
+2817,"I can't breathe, I'm so scared.",4
+2818,What a shock!,5
+2819,I'm frozen in fear.,4
+2820,My heart is so full of love.,2
+2821,Life is beautiful!,1
+2822,Why does everything feel so hopeless?,0
+2823,Fear is taking over me.,4
+2824,I'm so scared right now.,4
+2825,How can people be so inconsiderate?,3
+2826,Falling in love all over again.,2
+2827,I never expected this outcome!,5
+2828,Everything is just perfect.,1
+2829,Things never go my way.,0
+2830,This is completely unexpected!,5
+2831,I can't imagine life without you.,2
+2832,I'm so frustrated right now!,3
+2833,I am so happy right now!,1
+2834,What a shock!,5
+2835,I'm so grateful for everything!,1
+2836,"I don't know what to do, I'm so afraid.",4
+2837,I can't stop crying.,0
+2838,I am so happy right now!,1
+2839,Things never go my way.,0
+2840,I can't believe this just happened!,5
+2841,I can't take this anymore!,3
+2842,I'm so scared right now.,4
+2843,Feeling so down today.,0
+2844,This is infuriating!,3
+2845,I can't believe this is happening!,3
+2846,I can't imagine life without you.,2
+2847,My heart skips a beat every time I see you.,2
+2848,Life just feels so unfair right now.,0
+2849,I can't stop crying.,0
+2850,You complete me.,2
+2851,I can't stop crying.,0
+2852,I am so happy right now!,1
+2853,Surprised in the best way possible!,5
+2854,I am so happy right now!,1
+2855,I love you more than words can say.,2
+2856,My heart skips a beat every time I see you.,2
+2857,This has blown my mind!,5
+2858,I can't stop crying.,0
+2859,Things never go my way.,0
+2860,Things never go my way.,0
+2861,You complete me.,2
+2862,I can't believe this is happening!,3
+2863,Can't stop smiling today!,1
+2864,"I don't know what to do, I'm so afraid.",4
+2865,I'm frozen in fear.,4
+2866,Things never go my way.,0
+2867,I'm about to explode with anger.,3
+2868,Today is an amazing day!,1
+2869,This is my worst nightmare.,4
+2870,Totally caught off guard by this!,5
+2871,People are just the worst sometimes!,3
+2872,"Wow, I didn't see that coming!",5
+2873,Everything feels grey today.,0
+2874,How can people be so inconsiderate?,3
+2875,Fear is taking over me.,4
+2876,This is infuriating!,3
+2877,This is beyond frustrating.,3
+2878,I can't believe this just happened!,5
+2879,Falling in love all over again.,2
+2880,What a wonderful day!,1
+2881,I can't take this anymore!,3
+2882,I can't stop shaking from fear.,4
+2883,Surprised in the best way possible!,5
+2884,You complete me.,2
+2885,I am so happy right now!,1
+2886,I never expected this outcome!,5
+2887,What a wonderful day!,1
+2888,Feeling on top of the world!,1
+2889,I'm frozen in fear.,4
+2890,This has blown my mind!,5
+2891,"Wow, I didn't see that coming!",5
+2892,What a shock!,5
+2893,I never expected this outcome!,5
+2894,I can't believe this just happened!,5
+2895,I'm frozen in fear.,4
+2896,So angry I could scream!,3
+2897,I can't stop crying.,0
+2898,Missing those happy times.,0
+2899,Feeling on top of the world!,1
+2900,Everything feels grey today.,0
+2901,I'm so frustrated right now!,3
+2902,Today is an amazing day!,1
+2903,Fear is taking over me.,4
+2904,I can't take this anymore!,3
+2905,This has blown my mind!,5
+2906,Life just feels so unfair right now.,0
+2907,I'm feeling low.,0
+2908,Falling in love all over again.,2
+2909,People are just the worst sometimes!,3
+2910,Why does fear control me like this?,4
+2911,Feeling on top of the world!,1
+2912,Everything feels grey today.,0
+2913,Love is all we need.,2
+2914,Everything is just perfect.,1
+2915,I am so happy right now!,1
+2916,I can't believe this is happening!,3
+2917,I can't stop shaking from fear.,4
+2918,Can't stop smiling today!,1
+2919,What a pleasant surprise!,5
+2920,Love is all we need.,2
+2921,I'm feeling low.,0
+2922,What a wonderful day!,1
+2923,"I don't know what to do, I'm so afraid.",4
+2924,How can people be so inconsiderate?,3
+2925,Happiness is all around!,1
+2926,I feel blessed!,1
+2927,Feeling on top of the world!,1
+2928,Everything is just perfect.,1
+2929,"I don't know what to do, I'm so afraid.",4
+2930,Falling in love all over again.,2
+2931,Happiness is all around!,1
+2932,Surprised in the best way possible!,5
+2933,Love makes everything better.,2
+2934,Happiness is all around!,1
+2935,Falling in love all over again.,2
+2936,The fear is overwhelming.,4
+2937,This is absolutely unacceptable!,3
+2938,I can't take this anymore!,3
+2939,Love is the best feeling.,2
+2940,Feeling on top of the world!,1
+2941,Love is the best feeling.,2
+2942,I love you more than words can say.,2
+2943,What a pleasant surprise!,5
+2944,Can't stop smiling today!,1
+2945,Feeling on top of the world!,1
+2946,Happiness is all around!,1
+2947,Everything is just perfect.,1
+2948,All I feel is emptiness.,0
+2949,I am so happy right now!,1
+2950,Life is beautiful!,1
+2951,You mean the world to me.,2
+2952,My heart skips a beat every time I see you.,2
+2953,I'm so frustrated right now!,3
+2954,This is beyond frustrating.,3
+2955,The fear is overwhelming.,4
+2956,This is beyond frustrating.,3
+2957,How can people be so inconsiderate?,3
+2958,Feeling so down today.,0
+2959,So angry I could scream!,3
+2960,I'm so grateful for everything!,1
+2961,What a wonderful day!,1
+2962,I'm frozen in fear.,4
+2963,This is my worst nightmare.,4
+2964,I am so happy right now!,1
+2965,Why does everything feel so hopeless?,0
+2966,Everything is just perfect.,1
+2967,What a wonderful day!,1
+2968,Why does fear control me like this?,4
+2969,Happiness is all around!,1
+2970,I'm so scared right now.,4
+2971,My heart is so full of love.,2
+2972,Things never go my way.,0
+2973,Love is the best feeling.,2
+2974,My heart skips a beat every time I see you.,2
+2975,I'm feeling low.,0
+2976,Missing those happy times.,0
+2977,Falling in love all over again.,2
+2978,Life is beautiful!,1
+2979,This is beyond frustrating.,3
+2980,I can't believe this is happening!,3
+2981,The fear is overwhelming.,4
+2982,What a shock!,5
+2983,Today is an amazing day!,1
+2984,So angry I could scream!,3
+2985,What a shock!,5
+2986,Love is the best feeling.,2
+2987,How can people be so inconsiderate?,3
+2988,Love is the best feeling.,2
+2989,What a shock!,5
+2990,This is beyond frustrating.,3
+2991,This is terrifying!,4
+2992,How can people be so inconsiderate?,3
+2993,Falling in love all over again.,2
+2994,Life just feels so unfair right now.,0
+2995,This is terrifying!,4
+2996,This is beyond frustrating.,3
+2997,Feeling so down today.,0
+2998,Life just feels so unfair right now.,0
+2999,You complete me.,2
+3000,Falling in love all over again.,2
+3001,I can't stop shaking from fear.,4
+3002,The fear is overwhelming.,4
+3003,Love is the best feeling.,2
+3004,Why does everything feel so hopeless?,0
+3005,Love is all we need.,2
+3006,How can people be so inconsiderate?,3
+3007,I feel blessed!,1
+3008,Fear is taking over me.,4
+3009,All I feel is emptiness.,0
+3010,I love you more than words can say.,2
+3011,Love is all we need.,2
+3012,Happiness is all around!,1
+3013,Everything feels grey today.,0
+3014,This is terrifying!,4
+3015,I'm so grateful for everything!,1
+3016,This is my worst nightmare.,4
+3017,This has blown my mind!,5
+3018,Fear is taking over me.,4
+3019,This is beyond frustrating.,3
+3020,I'm frozen in fear.,4
+3021,I'm feeling low.,0
+3022,I wish I could escape this sadness.,0
+3023,How can people be so inconsiderate?,3
+3024,Life is beautiful!,1
+3025,Everything feels grey today.,0
+3026,I can't take this anymore!,3
+3027,Life just feels so unfair right now.,0
+3028,I love you more than words can say.,2
+3029,So angry I could scream!,3
+3030,Love is the best feeling.,2
+3031,This is my worst nightmare.,4
+3032,What a pleasant surprise!,5
+3033,Can't stop smiling today!,1
+3034,I can't believe this is happening!,3
+3035,I can't stop crying.,0
+3036,I'm about to explode with anger.,3
+3037,"I can't breathe, I'm so scared.",4
+3038,"I can't breathe, I'm so scared.",4
+3039,So angry I could scream!,3
+3040,This has blown my mind!,5
+3041,I'm about to explode with anger.,3
+3042,You complete me.,2
+3043,Everything feels grey today.,0
+3044,I can't believe this is happening!,3
+3045,I can't take this anymore!,3
+3046,Life just feels so unfair right now.,0
+3047,I'm so frustrated right now!,3
+3048,Why does fear control me like this?,4
+3049,"I can't breathe, I'm so scared.",4
+3050,Feeling on top of the world!,1
+3051,I'm so grateful for everything!,1
+3052,People are just the worst sometimes!,3
+3053,My heart is so full of love.,2
+3054,"I can't breathe, I'm so scared.",4
+3055,So angry I could scream!,3
+3056,Happiness is all around!,1
+3057,What a shock!,5
+3058,Why does everything feel so hopeless?,0
+3059,Everything is just perfect.,1
+3060,Love makes everything better.,2
+3061,I can't imagine life without you.,2
+3062,"I can't breathe, I'm so scared.",4
+3063,You complete me.,2
+3064,"I don't know what to do, I'm so afraid.",4
+3065,I love you more than words can say.,2
+3066,Love is the best feeling.,2
+3067,I'm so scared right now.,4
+3068,I wish I could escape this sadness.,0
+3069,"I don't know what to do, I'm so afraid.",4
+3070,I'm about to explode with anger.,3
+3071,"I don't know what to do, I'm so afraid.",4
+3072,This is my worst nightmare.,4
+3073,I'm speechless from this surprise!,5
+3074,How can people be so inconsiderate?,3
+3075,Totally caught off guard by this!,5
+3076,I am so happy right now!,1
+3077,Love is all we need.,2
+3078,Surprised in the best way possible!,5
+3079,I'm speechless from this surprise!,5
+3080,Why does everything feel so hopeless?,0
+3081,I wish I could escape this sadness.,0
+3082,People are just the worst sometimes!,3
+3083,Falling in love all over again.,2
+3084,What a pleasant surprise!,5
+3085,Falling in love all over again.,2
+3086,I'm so frustrated right now!,3
+3087,I'm so scared right now.,4
+3088,I can't believe this is happening!,3
+3089,Feeling so down today.,0
+3090,I'm about to explode with anger.,3
+3091,This is terrifying!,4
+3092,Happiness is all around!,1
+3093,I love you more than words can say.,2
+3094,Everything is just perfect.,1
+3095,What a wonderful day!,1
+3096,Love is the best feeling.,2
+3097,This is infuriating!,3
+3098,This is infuriating!,3
+3099,I'm feeling low.,0
+3100,Falling in love all over again.,2
+3101,I'm feeling low.,0
+3102,I feel blessed!,1
+3103,You mean the world to me.,2
+3104,This is completely unexpected!,5
+3105,Happiness is all around!,1
+3106,I feel blessed!,1
+3107,Everything feels grey today.,0
+3108,I can't take this anymore!,3
+3109,The fear is overwhelming.,4
+3110,"I can't breathe, I'm so scared.",4
+3111,My heart skips a beat every time I see you.,2
+3112,What a shock!,5
+3113,Life just feels so unfair right now.,0
+3114,Everything is just perfect.,1
+3115,I can't take this anymore!,3
+3116,This is absolutely unacceptable!,3
+3117,I wish I could escape this sadness.,0
+3118,This has blown my mind!,5
+3119,I wish I could escape this sadness.,0
+3120,I can't imagine life without you.,2
+3121,Totally caught off guard by this!,5
+3122,I can't stop shaking from fear.,4
+3123,So angry I could scream!,3
+3124,I'm speechless from this surprise!,5
+3125,I can't imagine life without you.,2
+3126,I love you more than words can say.,2
+3127,I love you more than words can say.,2
+3128,Surprised in the best way possible!,5
+3129,I never expected this outcome!,5
+3130,Happiness is all around!,1
+3131,I can't take this anymore!,3
+3132,I feel blessed!,1
+3133,I can't stop crying.,0
+3134,I can't take this anymore!,3
+3135,Life is beautiful!,1
+3136,Everything is just perfect.,1
+3137,I love you more than words can say.,2
+3138,"I can't breathe, I'm so scared.",4
+3139,This is absolutely unacceptable!,3
+3140,"I don't know what to do, I'm so afraid.",4
+3141,I can't believe this is happening!,3
+3142,I'm so grateful for everything!,1
+3143,Can't stop smiling today!,1
+3144,Why does fear control me like this?,4
+3145,Fear is taking over me.,4
+3146,This is absolutely unacceptable!,3
+3147,I never expected this outcome!,5
+3148,Why does fear control me like this?,4
+3149,So angry I could scream!,3
+3150,My heart skips a beat every time I see you.,2
+3151,I'm frozen in fear.,4
+3152,I'm so scared right now.,4
+3153,I'm about to explode with anger.,3
+3154,You mean the world to me.,2
+3155,I'm so grateful for everything!,1
+3156,What a pleasant surprise!,5
+3157,I'm about to explode with anger.,3
+3158,Surprised in the best way possible!,5
+3159,I'm so grateful for everything!,1
+3160,This is beyond frustrating.,3
+3161,What a shock!,5
+3162,I am so happy right now!,1
+3163,I wish I could escape this sadness.,0
+3164,This is absolutely unacceptable!,3
+3165,Today is an amazing day!,1
+3166,I'm so scared right now.,4
+3167,Things never go my way.,0
+3168,I can't stop shaking from fear.,4
+3169,Can't stop smiling today!,1
+3170,I wish I could escape this sadness.,0
+3171,I'm so frustrated right now!,3
+3172,This is completely unexpected!,5
+3173,I can't believe this is happening!,3
+3174,I'm so grateful for everything!,1
+3175,This is completely unexpected!,5
+3176,I can't believe this is happening!,3
+3177,Surprised in the best way possible!,5
+3178,What a wonderful day!,1
+3179,Life just feels so unfair right now.,0
+3180,I can't stop crying.,0
+3181,I can't believe this just happened!,5
+3182,"I don't know what to do, I'm so afraid.",4
+3183,I can't imagine life without you.,2
+3184,Totally caught off guard by this!,5
+3185,I wish I could escape this sadness.,0
+3186,Missing those happy times.,0
+3187,I'm about to explode with anger.,3
+3188,This is infuriating!,3
+3189,I'm about to explode with anger.,3
+3190,Why does everything feel so hopeless?,0
+3191,"Wow, I didn't see that coming!",5
+3192,Everything feels grey today.,0
+3193,How can people be so inconsiderate?,3
+3194,I'm about to explode with anger.,3
+3195,My heart is so full of love.,2
+3196,I wish I could escape this sadness.,0
+3197,I'm so frustrated right now!,3
+3198,This is beyond frustrating.,3
+3199,I can't believe this just happened!,5
+3200,I can't imagine life without you.,2
+3201,I never expected this outcome!,5
+3202,All I feel is emptiness.,0
+3203,I feel blessed!,1
+3204,I can't believe this just happened!,5
+3205,Happiness is all around!,1
+3206,I'm frozen in fear.,4
+3207,This has blown my mind!,5
+3208,What a shock!,5
+3209,I love you more than words can say.,2
+3210,Today is an amazing day!,1
+3211,Missing those happy times.,0
+3212,"I don't know what to do, I'm so afraid.",4
+3213,This is terrifying!,4
+3214,I'm so frustrated right now!,3
+3215,You mean the world to me.,2
+3216,I can't stop crying.,0
+3217,Happiness is all around!,1
+3218,"Wow, I didn't see that coming!",5
+3219,Missing those happy times.,0
+3220,This is beyond frustrating.,3
+3221,Why does fear control me like this?,4
+3222,I'm about to explode with anger.,3
+3223,All I feel is emptiness.,0
+3224,I can't believe this just happened!,5
+3225,Everything feels grey today.,0
+3226,Feeling on top of the world!,1
+3227,The fear is overwhelming.,4
+3228,So angry I could scream!,3
+3229,"Wow, I didn't see that coming!",5
+3230,This is infuriating!,3
+3231,Things never go my way.,0
+3232,Today is an amazing day!,1
+3233,"Wow, I didn't see that coming!",5
+3234,Why does fear control me like this?,4
+3235,I never expected this outcome!,5
+3236,All I feel is emptiness.,0
+3237,Can't stop smiling today!,1
+3238,This is infuriating!,3
+3239,The fear is overwhelming.,4
+3240,Love is the best feeling.,2
+3241,This is completely unexpected!,5
+3242,This has blown my mind!,5
+3243,"I can't breathe, I'm so scared.",4
+3244,This is terrifying!,4
+3245,Love is all we need.,2
+3246,I can't believe this is happening!,3
+3247,Life is beautiful!,1
+3248,This is beyond frustrating.,3
+3249,This is my worst nightmare.,4
+3250,I'm so grateful for everything!,1
+3251,People are just the worst sometimes!,3
+3252,So angry I could scream!,3
+3253,Love is the best feeling.,2
+3254,I feel blessed!,1
+3255,I'm so scared right now.,4
+3256,My heart skips a beat every time I see you.,2
+3257,Life just feels so unfair right now.,0
+3258,Falling in love all over again.,2
+3259,"I don't know what to do, I'm so afraid.",4
+3260,Love is all we need.,2
+3261,Surprised in the best way possible!,5
+3262,You mean the world to me.,2
+3263,This is beyond frustrating.,3
+3264,I can't stop crying.,0
+3265,Fear is taking over me.,4
+3266,I can't take this anymore!,3
+3267,This is infuriating!,3
+3268,"I don't know what to do, I'm so afraid.",4
+3269,Missing those happy times.,0
+3270,I can't stop crying.,0
+3271,"I can't breathe, I'm so scared.",4
+3272,This is terrifying!,4
+3273,Feeling so down today.,0
+3274,I'm so grateful for everything!,1
+3275,Life just feels so unfair right now.,0
+3276,I wish I could escape this sadness.,0
+3277,Everything feels grey today.,0
+3278,You mean the world to me.,2
+3279,What a shock!,5
+3280,Things never go my way.,0
+3281,I can't believe this is happening!,3
+3282,Why does everything feel so hopeless?,0
+3283,This is my worst nightmare.,4
+3284,I can't stop crying.,0
+3285,This is terrifying!,4
+3286,"Wow, I didn't see that coming!",5
+3287,This is my worst nightmare.,4
+3288,I can't believe this just happened!,5
+3289,I wish I could escape this sadness.,0
+3290,You mean the world to me.,2
+3291,I'm so scared right now.,4
+3292,I'm so frustrated right now!,3
+3293,Fear is taking over me.,4
+3294,I am so happy right now!,1
+3295,"Wow, I didn't see that coming!",5
+3296,This is terrifying!,4
+3297,This is beyond frustrating.,3
+3298,This is terrifying!,4
+3299,What a pleasant surprise!,5
+3300,Things never go my way.,0
+3301,My heart is so full of love.,2
+3302,"Wow, I didn't see that coming!",5
+3303,Why does everything feel so hopeless?,0
+3304,Totally caught off guard by this!,5
+3305,Happiness is all around!,1
+3306,This is my worst nightmare.,4
+3307,This is my worst nightmare.,4
+3308,Life is beautiful!,1
+3309,I'm about to explode with anger.,3
+3310,Everything feels grey today.,0
+3311,I'm speechless from this surprise!,5
+3312,I'm speechless from this surprise!,5
+3313,The fear is overwhelming.,4
+3314,I can't imagine life without you.,2
+3315,I can't take this anymore!,3
+3316,This is infuriating!,3
+3317,This is my worst nightmare.,4
+3318,This is terrifying!,4
+3319,You complete me.,2
+3320,Falling in love all over again.,2
+3321,Things never go my way.,0
+3322,I'm speechless from this surprise!,5
+3323,This is terrifying!,4
+3324,I wish I could escape this sadness.,0
+3325,Surprised in the best way possible!,5
+3326,Falling in love all over again.,2
+3327,What a pleasant surprise!,5
+3328,Falling in love all over again.,2
+3329,Life is beautiful!,1
+3330,Today is an amazing day!,1
+3331,I'm so grateful for everything!,1
+3332,Love is all we need.,2
+3333,Feeling so down today.,0
+3334,Life is beautiful!,1
+3335,Love is the best feeling.,2
+3336,This is infuriating!,3
+3337,I never expected this outcome!,5
+3338,Totally caught off guard by this!,5
+3339,"Wow, I didn't see that coming!",5
+3340,Love is the best feeling.,2
+3341,I never expected this outcome!,5
+3342,Everything feels grey today.,0
+3343,This is infuriating!,3
+3344,I wish I could escape this sadness.,0
+3345,What a shock!,5
+3346,This is infuriating!,3
+3347,I can't believe this just happened!,5
+3348,I am so happy right now!,1
+3349,People are just the worst sometimes!,3
+3350,I'm so grateful for everything!,1
+3351,Feeling on top of the world!,1
+3352,I never expected this outcome!,5
+3353,Feeling so down today.,0
+3354,I'm about to explode with anger.,3
+3355,Love makes everything better.,2
+3356,This is absolutely unacceptable!,3
+3357,I am so happy right now!,1
+3358,Today is an amazing day!,1
+3359,My heart skips a beat every time I see you.,2
+3360,My heart is so full of love.,2
+3361,I can't stop crying.,0
+3362,My heart skips a beat every time I see you.,2
+3363,I can't stop shaking from fear.,4
+3364,I can't believe this just happened!,5
+3365,I can't believe this is happening!,3
+3366,I can't take this anymore!,3
+3367,This is my worst nightmare.,4
+3368,People are just the worst sometimes!,3
+3369,Totally caught off guard by this!,5
+3370,My heart skips a beat every time I see you.,2
+3371,This has blown my mind!,5
+3372,This is completely unexpected!,5
+3373,Everything is just perfect.,1
+3374,Feeling so down today.,0
+3375,"Wow, I didn't see that coming!",5
+3376,Why does everything feel so hopeless?,0
+3377,Feeling so down today.,0
+3378,Love makes everything better.,2
+3379,What a wonderful day!,1
+3380,Feeling on top of the world!,1
+3381,Can't stop smiling today!,1
+3382,I can't believe this just happened!,5
+3383,Why does fear control me like this?,4
+3384,My heart is so full of love.,2
+3385,Love is all we need.,2
+3386,What a pleasant surprise!,5
+3387,You mean the world to me.,2
+3388,I'm so scared right now.,4
+3389,Today is an amazing day!,1
+3390,Totally caught off guard by this!,5
+3391,This has blown my mind!,5
+3392,I'm about to explode with anger.,3
+3393,What a pleasant surprise!,5
+3394,Love makes everything better.,2
+3395,What a wonderful day!,1
+3396,I'm frozen in fear.,4
+3397,This is terrifying!,4
+3398,My heart is so full of love.,2
+3399,Happiness is all around!,1
+3400,Totally caught off guard by this!,5
+3401,My heart is so full of love.,2
+3402,I'm about to explode with anger.,3
+3403,Fear is taking over me.,4
+3404,Everything feels grey today.,0
+3405,I can't believe this is happening!,3
+3406,So angry I could scream!,3
+3407,I'm about to explode with anger.,3
+3408,Life just feels so unfair right now.,0
+3409,I'm feeling low.,0
+3410,Missing those happy times.,0
+3411,Life is beautiful!,1
+3412,My heart is so full of love.,2
+3413,I am so happy right now!,1
+3414,Can't stop smiling today!,1
+3415,This is absolutely unacceptable!,3
+3416,I'm so frustrated right now!,3
+3417,I never expected this outcome!,5
+3418,I never expected this outcome!,5
+3419,Love makes everything better.,2
+3420,What a wonderful day!,1
+3421,I'm speechless from this surprise!,5
+3422,This is terrifying!,4
+3423,People are just the worst sometimes!,3
+3424,Everything feels grey today.,0
+3425,I can't take this anymore!,3
+3426,I am so happy right now!,1
+3427,Fear is taking over me.,4
+3428,"I can't breathe, I'm so scared.",4
+3429,I can't believe this is happening!,3
+3430,Why does everything feel so hopeless?,0
+3431,Feeling on top of the world!,1
+3432,I can't stop crying.,0
+3433,Missing those happy times.,0
+3434,You mean the world to me.,2
+3435,I'm feeling low.,0
+3436,I'm so scared right now.,4
+3437,Surprised in the best way possible!,5
+3438,I'm so scared right now.,4
+3439,This has blown my mind!,5
+3440,Totally caught off guard by this!,5
+3441,I'm speechless from this surprise!,5
+3442,Why does fear control me like this?,4
+3443,All I feel is emptiness.,0
+3444,This is absolutely unacceptable!,3
+3445,So angry I could scream!,3
+3446,I can't believe this just happened!,5
+3447,Life just feels so unfair right now.,0
+3448,I can't believe this is happening!,3
+3449,I'm frozen in fear.,4
+3450,This is my worst nightmare.,4
+3451,Fear is taking over me.,4
+3452,The fear is overwhelming.,4
+3453,Feeling on top of the world!,1
+3454,I can't stop shaking from fear.,4
+3455,Love makes everything better.,2
+3456,Everything feels grey today.,0
+3457,This is my worst nightmare.,4
+3458,I can't take this anymore!,3
+3459,What a wonderful day!,1
+3460,Everything feels grey today.,0
+3461,I'm speechless from this surprise!,5
+3462,Totally caught off guard by this!,5
+3463,I can't believe this is happening!,3
+3464,My heart is so full of love.,2
+3465,I'm about to explode with anger.,3
+3466,"I can't breathe, I'm so scared.",4
+3467,I'm so grateful for everything!,1
+3468,My heart skips a beat every time I see you.,2
+3469,I never expected this outcome!,5
+3470,I wish I could escape this sadness.,0
+3471,I'm so scared right now.,4
+3472,This is completely unexpected!,5
+3473,The fear is overwhelming.,4
+3474,I never expected this outcome!,5
+3475,Totally caught off guard by this!,5
+3476,"I don't know what to do, I'm so afraid.",4
+3477,I'm feeling low.,0
+3478,I can't believe this is happening!,3
+3479,Feeling so down today.,0
+3480,Love is all we need.,2
+3481,I wish I could escape this sadness.,0
+3482,I can't believe this just happened!,5
+3483,I'm frozen in fear.,4
+3484,I can't imagine life without you.,2
+3485,I can't stop crying.,0
+3486,People are just the worst sometimes!,3
+3487,This has blown my mind!,5
+3488,I'm feeling low.,0
+3489,This is beyond frustrating.,3
+3490,You complete me.,2
+3491,What a pleasant surprise!,5
+3492,This is my worst nightmare.,4
+3493,What a pleasant surprise!,5
+3494,Everything is just perfect.,1
+3495,I love you more than words can say.,2
+3496,So angry I could scream!,3
+3497,You complete me.,2
+3498,I feel blessed!,1
+3499,Today is an amazing day!,1
+3500,Why does fear control me like this?,4
+3501,Life just feels so unfair right now.,0
+3502,This has blown my mind!,5
+3503,This is completely unexpected!,5
+3504,What a shock!,5
+3505,All I feel is emptiness.,0
+3506,This is absolutely unacceptable!,3
+3507,I'm so frustrated right now!,3
+3508,I love you more than words can say.,2
+3509,I can't believe this just happened!,5
+3510,Love makes everything better.,2
+3511,"I can't breathe, I'm so scared.",4
+3512,Things never go my way.,0
+3513,People are just the worst sometimes!,3
+3514,Life is beautiful!,1
+3515,Love is all we need.,2
+3516,Missing those happy times.,0
+3517,This is terrifying!,4
+3518,I'm speechless from this surprise!,5
+3519,I'm so grateful for everything!,1
+3520,I'm speechless from this surprise!,5
+3521,Things never go my way.,0
+3522,I love you more than words can say.,2
+3523,"Wow, I didn't see that coming!",5
+3524,I can't believe this just happened!,5
+3525,All I feel is emptiness.,0
+3526,Happiness is all around!,1
+3527,Things never go my way.,0
+3528,Everything feels grey today.,0
+3529,I'm speechless from this surprise!,5
+3530,Life is beautiful!,1
+3531,Fear is taking over me.,4
+3532,This is completely unexpected!,5
+3533,I can't take this anymore!,3
+3534,Feeling so down today.,0
+3535,Why does fear control me like this?,4
+3536,This has blown my mind!,5
+3537,Can't stop smiling today!,1
+3538,What a shock!,5
+3539,Why does everything feel so hopeless?,0
+3540,Everything is just perfect.,1
+3541,This is terrifying!,4
+3542,This is terrifying!,4
+3543,The fear is overwhelming.,4
+3544,Love is all we need.,2
+3545,Life is beautiful!,1
+3546,I can't believe this just happened!,5
+3547,I can't take this anymore!,3
+3548,I am so happy right now!,1
+3549,My heart is so full of love.,2
+3550,Life just feels so unfair right now.,0
+3551,People are just the worst sometimes!,3
+3552,Everything is just perfect.,1
+3553,"Wow, I didn't see that coming!",5
+3554,This is infuriating!,3
+3555,Life just feels so unfair right now.,0
+3556,Surprised in the best way possible!,5
+3557,I love you more than words can say.,2
+3558,I'm so frustrated right now!,3
+3559,People are just the worst sometimes!,3
+3560,"I can't breathe, I'm so scared.",4
+3561,I'm about to explode with anger.,3
+3562,Feeling so down today.,0
+3563,Feeling on top of the world!,1
+3564,Everything is just perfect.,1
+3565,Life is beautiful!,1
+3566,"I can't breathe, I'm so scared.",4
+3567,What a wonderful day!,1
+3568,I feel blessed!,1
+3569,Why does everything feel so hopeless?,0
+3570,Missing those happy times.,0
+3571,All I feel is emptiness.,0
+3572,What a wonderful day!,1
+3573,I can't take this anymore!,3
+3574,This is completely unexpected!,5
+3575,This is terrifying!,4
+3576,Today is an amazing day!,1
+3577,Can't stop smiling today!,1
+3578,Why does fear control me like this?,4
+3579,Today is an amazing day!,1
+3580,Life is beautiful!,1
+3581,Feeling on top of the world!,1
+3582,Why does fear control me like this?,4
+3583,I love you more than words can say.,2
+3584,My heart skips a beat every time I see you.,2
+3585,Today is an amazing day!,1
+3586,Missing those happy times.,0
+3587,Everything feels grey today.,0
+3588,I feel blessed!,1
+3589,This is infuriating!,3
+3590,I am so happy right now!,1
+3591,Love makes everything better.,2
+3592,People are just the worst sometimes!,3
+3593,Life just feels so unfair right now.,0
+3594,I'm frozen in fear.,4
+3595,Why does fear control me like this?,4
+3596,Today is an amazing day!,1
+3597,This is absolutely unacceptable!,3
+3598,Surprised in the best way possible!,5
+3599,Things never go my way.,0
+3600,I feel blessed!,1
+3601,My heart is so full of love.,2
+3602,Why does everything feel so hopeless?,0
+3603,My heart is so full of love.,2
+3604,How can people be so inconsiderate?,3
+3605,My heart skips a beat every time I see you.,2
+3606,I can't believe this just happened!,5
+3607,What a pleasant surprise!,5
+3608,"Wow, I didn't see that coming!",5
+3609,I'm so scared right now.,4
+3610,Why does everything feel so hopeless?,0
+3611,This has blown my mind!,5
+3612,I can't believe this just happened!,5
+3613,You complete me.,2
+3614,What a wonderful day!,1
+3615,Feeling on top of the world!,1
+3616,I can't stop crying.,0
+3617,Missing those happy times.,0
+3618,Missing those happy times.,0
+3619,The fear is overwhelming.,4
+3620,I'm so scared right now.,4
+3621,I can't stop shaking from fear.,4
+3622,Why does fear control me like this?,4
+3623,Everything is just perfect.,1
+3624,I can't stop shaking from fear.,4
+3625,Fear is taking over me.,4
+3626,This is absolutely unacceptable!,3
+3627,Everything is just perfect.,1
+3628,Happiness is all around!,1
+3629,I can't stop crying.,0
+3630,The fear is overwhelming.,4
+3631,Falling in love all over again.,2
+3632,Falling in love all over again.,2
+3633,This is infuriating!,3
+3634,Love makes everything better.,2
+3635,What a pleasant surprise!,5
+3636,Everything is just perfect.,1
+3637,Today is an amazing day!,1
+3638,My heart is so full of love.,2
+3639,How can people be so inconsiderate?,3
+3640,All I feel is emptiness.,0
+3641,I'm so scared right now.,4
+3642,What a shock!,5
+3643,"Wow, I didn't see that coming!",5
+3644,Everything is just perfect.,1
+3645,Happiness is all around!,1
+3646,All I feel is emptiness.,0
+3647,Surprised in the best way possible!,5
+3648,I'm feeling low.,0
+3649,The fear is overwhelming.,4
+3650,You complete me.,2
+3651,I'm about to explode with anger.,3
+3652,Today is an amazing day!,1
+3653,Happiness is all around!,1
+3654,"I can't breathe, I'm so scared.",4
+3655,Love is the best feeling.,2
+3656,I can't stop crying.,0
+3657,Love is the best feeling.,2
+3658,Totally caught off guard by this!,5
+3659,I'm so scared right now.,4
+3660,Feeling so down today.,0
+3661,Love makes everything better.,2
+3662,You complete me.,2
+3663,Life is beautiful!,1
+3664,This is my worst nightmare.,4
+3665,Totally caught off guard by this!,5
+3666,This is completely unexpected!,5
+3667,I'm so frustrated right now!,3
+3668,Love is all we need.,2
+3669,Feeling so down today.,0
+3670,This is completely unexpected!,5
+3671,Fear is taking over me.,4
+3672,This is beyond frustrating.,3
+3673,Love makes everything better.,2
+3674,You complete me.,2
+3675,Happiness is all around!,1
+3676,Life just feels so unfair right now.,0
+3677,"I don't know what to do, I'm so afraid.",4
+3678,I love you more than words can say.,2
+3679,This is beyond frustrating.,3
+3680,This is terrifying!,4
+3681,I'm about to explode with anger.,3
+3682,Surprised in the best way possible!,5
+3683,Love makes everything better.,2
+3684,Fear is taking over me.,4
+3685,Today is an amazing day!,1
+3686,All I feel is emptiness.,0
+3687,I'm so frustrated right now!,3
+3688,Totally caught off guard by this!,5
+3689,Love is all we need.,2
+3690,So angry I could scream!,3
+3691,I love you more than words can say.,2
+3692,How can people be so inconsiderate?,3
+3693,Love makes everything better.,2
+3694,I love you more than words can say.,2
+3695,You complete me.,2
+3696,Life is beautiful!,1
+3697,What a shock!,5
+3698,What a shock!,5
+3699,Why does everything feel so hopeless?,0
+3700,I am so happy right now!,1
+3701,This is absolutely unacceptable!,3
+3702,What a shock!,5
+3703,Everything feels grey today.,0
+3704,You complete me.,2
+3705,The fear is overwhelming.,4
+3706,How can people be so inconsiderate?,3
+3707,I can't believe this just happened!,5
+3708,"I don't know what to do, I'm so afraid.",4
+3709,What a pleasant surprise!,5
+3710,How can people be so inconsiderate?,3
+3711,People are just the worst sometimes!,3
+3712,I feel blessed!,1
+3713,Life is beautiful!,1
+3714,I can't believe this is happening!,3
+3715,"I don't know what to do, I'm so afraid.",4
+3716,The fear is overwhelming.,4
+3717,I'm so frustrated right now!,3
+3718,Why does fear control me like this?,4
+3719,This has blown my mind!,5
+3720,My heart skips a beat every time I see you.,2
+3721,I can't imagine life without you.,2
+3722,Things never go my way.,0
+3723,You complete me.,2
+3724,Things never go my way.,0
+3725,You mean the world to me.,2
+3726,Love makes everything better.,2
+3727,You complete me.,2
+3728,Can't stop smiling today!,1
+3729,Why does fear control me like this?,4
+3730,I wish I could escape this sadness.,0
+3731,I am so happy right now!,1
+3732,This is infuriating!,3
+3733,People are just the worst sometimes!,3
+3734,Fear is taking over me.,4
+3735,Love is all we need.,2
+3736,I wish I could escape this sadness.,0
+3737,I can't stop shaking from fear.,4
+3738,I can't stop crying.,0
+3739,I wish I could escape this sadness.,0
+3740,"I can't breathe, I'm so scared.",4
+3741,Falling in love all over again.,2
+3742,How can people be so inconsiderate?,3
+3743,I'm so frustrated right now!,3
+3744,I'm so scared right now.,4
+3745,Happiness is all around!,1
+3746,Love makes everything better.,2
+3747,People are just the worst sometimes!,3
+3748,I'm so frustrated right now!,3
+3749,Can't stop smiling today!,1
+3750,I'm speechless from this surprise!,5
+3751,All I feel is emptiness.,0
+3752,Missing those happy times.,0
+3753,Today is an amazing day!,1
+3754,This is completely unexpected!,5
+3755,Today is an amazing day!,1
+3756,I can't believe this just happened!,5
+3757,Happiness is all around!,1
+3758,I never expected this outcome!,5
+3759,Happiness is all around!,1
+3760,Missing those happy times.,0
+3761,Missing those happy times.,0
+3762,I'm about to explode with anger.,3
+3763,Why does everything feel so hopeless?,0
+3764,Love is the best feeling.,2
+3765,How can people be so inconsiderate?,3
+3766,"Wow, I didn't see that coming!",5
+3767,The fear is overwhelming.,4
+3768,Why does everything feel so hopeless?,0
+3769,Feeling so down today.,0
+3770,I feel blessed!,1
+3771,You mean the world to me.,2
+3772,This is infuriating!,3
+3773,I can't imagine life without you.,2
+3774,I love you more than words can say.,2
+3775,Can't stop smiling today!,1
+3776,This is infuriating!,3
+3777,How can people be so inconsiderate?,3
+3778,I never expected this outcome!,5
+3779,I never expected this outcome!,5
+3780,I'm feeling low.,0
+3781,What a pleasant surprise!,5
+3782,This is infuriating!,3
+3783,I'm speechless from this surprise!,5
+3784,Love is all we need.,2
+3785,So angry I could scream!,3
+3786,People are just the worst sometimes!,3
+3787,"I don't know what to do, I'm so afraid.",4
+3788,This is absolutely unacceptable!,3
+3789,This is absolutely unacceptable!,3
+3790,Surprised in the best way possible!,5
+3791,I'm about to explode with anger.,3
+3792,You mean the world to me.,2
+3793,I'm so scared right now.,4
+3794,Can't stop smiling today!,1
+3795,Why does fear control me like this?,4
+3796,I can't believe this just happened!,5
+3797,What a wonderful day!,1
+3798,Why does fear control me like this?,4
+3799,I'm so frustrated right now!,3
+3800,Fear is taking over me.,4
+3801,I can't stop shaking from fear.,4
+3802,I'm so frustrated right now!,3
+3803,"Wow, I didn't see that coming!",5
+3804,What a wonderful day!,1
+3805,I can't stop crying.,0
+3806,Things never go my way.,0
+3807,Surprised in the best way possible!,5
+3808,You mean the world to me.,2
+3809,Everything is just perfect.,1
+3810,I feel blessed!,1
+3811,Love is the best feeling.,2
+3812,This has blown my mind!,5
+3813,Love is all we need.,2
+3814,I can't believe this is happening!,3
+3815,This is completely unexpected!,5
+3816,People are just the worst sometimes!,3
+3817,I'm frozen in fear.,4
+3818,Life just feels so unfair right now.,0
+3819,I am so happy right now!,1
+3820,I wish I could escape this sadness.,0
+3821,I can't stop crying.,0
+3822,This is infuriating!,3
+3823,I love you more than words can say.,2
+3824,I'm speechless from this surprise!,5
+3825,Falling in love all over again.,2
+3826,What a pleasant surprise!,5
+3827,Totally caught off guard by this!,5
+3828,I wish I could escape this sadness.,0
+3829,I'm so scared right now.,4
+3830,I'm feeling low.,0
+3831,This is my worst nightmare.,4
+3832,You complete me.,2
+3833,How can people be so inconsiderate?,3
+3834,I'm frozen in fear.,4
+3835,Fear is taking over me.,4
+3836,I am so happy right now!,1
+3837,Why does fear control me like this?,4
+3838,I never expected this outcome!,5
+3839,People are just the worst sometimes!,3
+3840,I wish I could escape this sadness.,0
+3841,I can't believe this just happened!,5
+3842,I can't believe this is happening!,3
+3843,Life is beautiful!,1
+3844,How can people be so inconsiderate?,3
+3845,The fear is overwhelming.,4
+3846,Everything is just perfect.,1
+3847,Missing those happy times.,0
+3848,So angry I could scream!,3
+3849,Things never go my way.,0
+3850,You complete me.,2
+3851,So angry I could scream!,3
+3852,Feeling on top of the world!,1
+3853,I'm so grateful for everything!,1
+3854,All I feel is emptiness.,0
+3855,You mean the world to me.,2
+3856,Things never go my way.,0
+3857,Today is an amazing day!,1
+3858,Feeling so down today.,0
+3859,This is infuriating!,3
+3860,My heart is so full of love.,2
+3861,I can't stop shaking from fear.,4
+3862,This is infuriating!,3
+3863,So angry I could scream!,3
+3864,This has blown my mind!,5
+3865,Happiness is all around!,1
+3866,Can't stop smiling today!,1
+3867,My heart is so full of love.,2
+3868,"I don't know what to do, I'm so afraid.",4
+3869,The fear is overwhelming.,4
+3870,Love is the best feeling.,2
+3871,Happiness is all around!,1
+3872,All I feel is emptiness.,0
+3873,Feeling on top of the world!,1
+3874,I'm frozen in fear.,4
+3875,I love you more than words can say.,2
+3876,I'm so frustrated right now!,3
+3877,Surprised in the best way possible!,5
+3878,Why does fear control me like this?,4
+3879,I can't stop shaking from fear.,4
+3880,This is my worst nightmare.,4
+3881,Can't stop smiling today!,1
+3882,Things never go my way.,0
+3883,Why does fear control me like this?,4
+3884,Today is an amazing day!,1
+3885,Feeling so down today.,0
+3886,I am so happy right now!,1
+3887,I'm speechless from this surprise!,5
+3888,My heart is so full of love.,2
+3889,I'm so scared right now.,4
+3890,Feeling so down today.,0
+3891,Feeling on top of the world!,1
+3892,Things never go my way.,0
+3893,I'm so grateful for everything!,1
+3894,I'm so grateful for everything!,1
+3895,My heart skips a beat every time I see you.,2
+3896,Love is all we need.,2
+3897,Surprised in the best way possible!,5
+3898,I'm so grateful for everything!,1
+3899,I'm feeling low.,0
+3900,I love you more than words can say.,2
+3901,I'm so grateful for everything!,1
+3902,The fear is overwhelming.,4
+3903,Fear is taking over me.,4
+3904,Love is all we need.,2
+3905,I never expected this outcome!,5
+3906,I wish I could escape this sadness.,0
+3907,I'm so frustrated right now!,3
+3908,This is my worst nightmare.,4
+3909,"I don't know what to do, I'm so afraid.",4
+3910,This is my worst nightmare.,4
+3911,What a wonderful day!,1
+3912,"I can't breathe, I'm so scared.",4
+3913,You mean the world to me.,2
+3914,Missing those happy times.,0
+3915,I'm feeling low.,0
+3916,Surprised in the best way possible!,5
+3917,Missing those happy times.,0
+3918,All I feel is emptiness.,0
+3919,I'm frozen in fear.,4
+3920,This is my worst nightmare.,4
+3921,This is infuriating!,3
+3922,I can't believe this just happened!,5
+3923,Surprised in the best way possible!,5
+3924,Totally caught off guard by this!,5
+3925,So angry I could scream!,3
+3926,Life just feels so unfair right now.,0
+3927,What a wonderful day!,1
+3928,Love is the best feeling.,2
+3929,I'm so scared right now.,4
+3930,Love is all we need.,2
+3931,Feeling so down today.,0
+3932,This is absolutely unacceptable!,3
+3933,This is infuriating!,3
+3934,Everything feels grey today.,0
+3935,I can't imagine life without you.,2
+3936,I can't believe this just happened!,5
+3937,Fear is taking over me.,4
+3938,I can't stop crying.,0
+3939,This is absolutely unacceptable!,3
+3940,You mean the world to me.,2
+3941,All I feel is emptiness.,0
+3942,I feel blessed!,1
+3943,I can't stop crying.,0
+3944,Falling in love all over again.,2
+3945,I never expected this outcome!,5
+3946,Totally caught off guard by this!,5
+3947,This is completely unexpected!,5
+3948,My heart skips a beat every time I see you.,2
+3949,I can't imagine life without you.,2
+3950,I'm so frustrated right now!,3
+3951,Feeling so down today.,0
+3952,All I feel is emptiness.,0
+3953,Surprised in the best way possible!,5
+3954,I wish I could escape this sadness.,0
+3955,I can't stop crying.,0
+3956,You complete me.,2
+3957,I love you more than words can say.,2
+3958,I can't imagine life without you.,2
+3959,I can't believe this just happened!,5
+3960,You mean the world to me.,2
+3961,The fear is overwhelming.,4
+3962,I'm about to explode with anger.,3
+3963,This is absolutely unacceptable!,3
+3964,This has blown my mind!,5
+3965,I'm so scared right now.,4
+3966,I feel blessed!,1
+3967,This is terrifying!,4
+3968,Missing those happy times.,0
+3969,This is absolutely unacceptable!,3
+3970,This is terrifying!,4
+3971,I can't stop crying.,0
+3972,Happiness is all around!,1
+3973,I'm so grateful for everything!,1
+3974,I'm so scared right now.,4
+3975,I can't believe this is happening!,3
+3976,I'm frozen in fear.,4
+3977,Totally caught off guard by this!,5
+3978,I'm about to explode with anger.,3
+3979,How can people be so inconsiderate?,3
+3980,Feeling on top of the world!,1
+3981,Totally caught off guard by this!,5
+3982,I can't take this anymore!,3
+3983,You mean the world to me.,2
+3984,This is absolutely unacceptable!,3
+3985,Feeling on top of the world!,1
+3986,Fear is taking over me.,4
+3987,Today is an amazing day!,1
+3988,People are just the worst sometimes!,3
+3989,This is completely unexpected!,5
+3990,I can't believe this is happening!,3
+3991,I'm so scared right now.,4
+3992,Love makes everything better.,2
+3993,Love is the best feeling.,2
+3994,"I can't breathe, I'm so scared.",4
+3995,My heart is so full of love.,2
+3996,I'm so frustrated right now!,3
+3997,All I feel is emptiness.,0
+3998,Things never go my way.,0
+3999,Love is the best feeling.,2
+4000,This is my worst nightmare.,4
+4001,Things never go my way.,0
+4002,I'm so frustrated right now!,3
+4003,So angry I could scream!,3
+4004,This is infuriating!,3
+4005,Life is beautiful!,1
+4006,How can people be so inconsiderate?,3
+4007,Love is all we need.,2
+4008,People are just the worst sometimes!,3
+4009,My heart skips a beat every time I see you.,2
+4010,I feel blessed!,1
+4011,Why does fear control me like this?,4
+4012,Things never go my way.,0
+4013,I'm so frustrated right now!,3
+4014,Love is all we need.,2
+4015,This is absolutely unacceptable!,3
+4016,I can't stop shaking from fear.,4
+4017,Everything feels grey today.,0
+4018,Happiness is all around!,1
+4019,I can't take this anymore!,3
+4020,I wish I could escape this sadness.,0
+4021,Can't stop smiling today!,1
+4022,"I don't know what to do, I'm so afraid.",4
+4023,Love makes everything better.,2
+4024,Love is all we need.,2
+4025,This has blown my mind!,5
+4026,I can't believe this just happened!,5
+4027,I can't take this anymore!,3
+4028,I'm feeling low.,0
+4029,I'm so grateful for everything!,1
+4030,People are just the worst sometimes!,3
+4031,Today is an amazing day!,1
+4032,"I don't know what to do, I'm so afraid.",4
+4033,Why does fear control me like this?,4
+4034,This is completely unexpected!,5
+4035,Surprised in the best way possible!,5
+4036,What a pleasant surprise!,5
+4037,All I feel is emptiness.,0
+4038,I can't take this anymore!,3
+4039,You mean the world to me.,2
+4040,Feeling on top of the world!,1
+4041,Why does fear control me like this?,4
+4042,Missing those happy times.,0
+4043,I'm so frustrated right now!,3
+4044,This is beyond frustrating.,3
+4045,I'm speechless from this surprise!,5
+4046,Things never go my way.,0
+4047,Feeling on top of the world!,1
+4048,What a shock!,5
+4049,Feeling so down today.,0
+4050,Life is beautiful!,1
+4051,My heart skips a beat every time I see you.,2
+4052,All I feel is emptiness.,0
+4053,So angry I could scream!,3
+4054,What a pleasant surprise!,5
+4055,I'm so grateful for everything!,1
+4056,People are just the worst sometimes!,3
+4057,So angry I could scream!,3
+4058,Life is beautiful!,1
+4059,Love is the best feeling.,2
+4060,Can't stop smiling today!,1
+4061,"Wow, I didn't see that coming!",5
+4062,I am so happy right now!,1
+4063,I feel blessed!,1
+4064,This is my worst nightmare.,4
+4065,People are just the worst sometimes!,3
+4066,I'm speechless from this surprise!,5
+4067,I can't stop crying.,0
+4068,This is beyond frustrating.,3
+4069,I can't believe this just happened!,5
+4070,People are just the worst sometimes!,3
+4071,I can't believe this just happened!,5
+4072,This is terrifying!,4
+4073,This is completely unexpected!,5
+4074,I'm feeling low.,0
+4075,I'm frozen in fear.,4
+4076,Feeling so down today.,0
+4077,I'm frozen in fear.,4
+4078,Surprised in the best way possible!,5
+4079,Feeling so down today.,0
+4080,This has blown my mind!,5
+4081,I can't take this anymore!,3
+4082,"I don't know what to do, I'm so afraid.",4
+4083,I can't take this anymore!,3
+4084,Why does everything feel so hopeless?,0
+4085,Fear is taking over me.,4
+4086,Falling in love all over again.,2
+4087,I feel blessed!,1
+4088,So angry I could scream!,3
+4089,Totally caught off guard by this!,5
+4090,I can't take this anymore!,3
+4091,My heart skips a beat every time I see you.,2
+4092,I never expected this outcome!,5
+4093,This is infuriating!,3
+4094,"I can't breathe, I'm so scared.",4
+4095,I'm frozen in fear.,4
+4096,This is absolutely unacceptable!,3
+4097,What a wonderful day!,1
+4098,I'm feeling low.,0
+4099,How can people be so inconsiderate?,3
+4100,All I feel is emptiness.,0
+4101,Missing those happy times.,0
+4102,This is completely unexpected!,5
+4103,I can't imagine life without you.,2
+4104,Surprised in the best way possible!,5
+4105,My heart is so full of love.,2
+4106,Totally caught off guard by this!,5
+4107,I'm so scared right now.,4
+4108,This is terrifying!,4
+4109,Love is the best feeling.,2
+4110,You mean the world to me.,2
+4111,Love makes everything better.,2
+4112,You complete me.,2
+4113,Why does everything feel so hopeless?,0
+4114,I feel blessed!,1
+4115,This has blown my mind!,5
+4116,Love is the best feeling.,2
+4117,You complete me.,2
+4118,You complete me.,2
+4119,I feel blessed!,1
+4120,I'm so frustrated right now!,3
+4121,I feel blessed!,1
+4122,Love is all we need.,2
+4123,Surprised in the best way possible!,5
+4124,"Wow, I didn't see that coming!",5
+4125,I love you more than words can say.,2
+4126,I'm speechless from this surprise!,5
+4127,I'm frozen in fear.,4
+4128,You mean the world to me.,2
+4129,My heart is so full of love.,2
+4130,I love you more than words can say.,2
+4131,I can't take this anymore!,3
+4132,Everything is just perfect.,1
+4133,I feel blessed!,1
+4134,"Wow, I didn't see that coming!",5
+4135,I never expected this outcome!,5
+4136,I wish I could escape this sadness.,0
+4137,This is absolutely unacceptable!,3
+4138,You complete me.,2
+4139,Feeling so down today.,0
+4140,Happiness is all around!,1
+4141,Can't stop smiling today!,1
+4142,So angry I could scream!,3
+4143,All I feel is emptiness.,0
+4144,Totally caught off guard by this!,5
+4145,This is my worst nightmare.,4
+4146,I can't believe this is happening!,3
+4147,My heart is so full of love.,2
+4148,Fear is taking over me.,4
+4149,What a pleasant surprise!,5
+4150,I can't believe this is happening!,3
+4151,My heart skips a beat every time I see you.,2
+4152,Can't stop smiling today!,1
+4153,I'm so grateful for everything!,1
+4154,I'm so frustrated right now!,3
+4155,I'm frozen in fear.,4
+4156,"I don't know what to do, I'm so afraid.",4
+4157,I'm speechless from this surprise!,5
+4158,I love you more than words can say.,2
+4159,I can't believe this is happening!,3
+4160,My heart is so full of love.,2
+4161,This is my worst nightmare.,4
+4162,How can people be so inconsiderate?,3
+4163,"Wow, I didn't see that coming!",5
+4164,Things never go my way.,0
+4165,This is terrifying!,4
+4166,What a wonderful day!,1
+4167,I love you more than words can say.,2
+4168,Life is beautiful!,1
+4169,I can't believe this just happened!,5
+4170,Feeling so down today.,0
+4171,"Wow, I didn't see that coming!",5
+4172,This is beyond frustrating.,3
+4173,My heart skips a beat every time I see you.,2
+4174,Things never go my way.,0
+4175,This has blown my mind!,5
+4176,I love you more than words can say.,2
+4177,I'm so scared right now.,4
+4178,This is absolutely unacceptable!,3
+4179,Why does everything feel so hopeless?,0
+4180,The fear is overwhelming.,4
+4181,I am so happy right now!,1
+4182,Why does fear control me like this?,4
+4183,I'm frozen in fear.,4
+4184,Life just feels so unfair right now.,0
+4185,This is absolutely unacceptable!,3
+4186,I can't stop crying.,0
+4187,What a pleasant surprise!,5
+4188,"Wow, I didn't see that coming!",5
+4189,Falling in love all over again.,2
+4190,"I can't breathe, I'm so scared.",4
+4191,I can't imagine life without you.,2
+4192,I'm frozen in fear.,4
+4193,"I don't know what to do, I'm so afraid.",4
+4194,Feeling on top of the world!,1
+4195,Love is all we need.,2
+4196,Missing those happy times.,0
+4197,Today is an amazing day!,1
+4198,I feel blessed!,1
+4199,My heart is so full of love.,2
+4200,I love you more than words can say.,2
+4201,This is infuriating!,3
+4202,The fear is overwhelming.,4
+4203,People are just the worst sometimes!,3
+4204,Surprised in the best way possible!,5
+4205,Life just feels so unfair right now.,0
+4206,The fear is overwhelming.,4
+4207,I wish I could escape this sadness.,0
+4208,You complete me.,2
+4209,Life is beautiful!,1
+4210,Everything feels grey today.,0
+4211,What a pleasant surprise!,5
+4212,Today is an amazing day!,1
+4213,Life just feels so unfair right now.,0
+4214,Love is the best feeling.,2
+4215,I never expected this outcome!,5
+4216,Feeling on top of the world!,1
+4217,Life just feels so unfair right now.,0
+4218,"I don't know what to do, I'm so afraid.",4
+4219,I can't stop shaking from fear.,4
+4220,What a wonderful day!,1
+4221,This is my worst nightmare.,4
+4222,I wish I could escape this sadness.,0
+4223,I am so happy right now!,1
+4224,Love is the best feeling.,2
+4225,I am so happy right now!,1
+4226,I'm about to explode with anger.,3
+4227,Feeling so down today.,0
+4228,This is completely unexpected!,5
+4229,I am so happy right now!,1
+4230,My heart skips a beat every time I see you.,2
+4231,I can't believe this is happening!,3
+4232,This is infuriating!,3
+4233,I'm frozen in fear.,4
+4234,I can't imagine life without you.,2
+4235,Love is all we need.,2
+4236,You mean the world to me.,2
+4237,How can people be so inconsiderate?,3
+4238,Falling in love all over again.,2
+4239,All I feel is emptiness.,0
+4240,This is completely unexpected!,5
+4241,What a wonderful day!,1
+4242,How can people be so inconsiderate?,3
+4243,People are just the worst sometimes!,3
+4244,"Wow, I didn't see that coming!",5
+4245,You complete me.,2
+4246,I can't believe this is happening!,3
+4247,Fear is taking over me.,4
+4248,I can't stop shaking from fear.,4
+4249,Can't stop smiling today!,1
+4250,This is my worst nightmare.,4
+4251,I never expected this outcome!,5
+4252,Things never go my way.,0
+4253,Love is the best feeling.,2
+4254,My heart skips a beat every time I see you.,2
+4255,I can't believe this is happening!,3
+4256,Love is all we need.,2
+4257,I am so happy right now!,1
+4258,This has blown my mind!,5
+4259,So angry I could scream!,3
+4260,I'm so grateful for everything!,1
+4261,I'm feeling low.,0
+4262,I can't believe this is happening!,3
+4263,Missing those happy times.,0
+4264,You mean the world to me.,2
+4265,Today is an amazing day!,1
+4266,I feel blessed!,1
+4267,You complete me.,2
+4268,My heart is so full of love.,2
+4269,I wish I could escape this sadness.,0
+4270,This is my worst nightmare.,4
+4271,Everything is just perfect.,1
+4272,Falling in love all over again.,2
+4273,This has blown my mind!,5
+4274,Things never go my way.,0
+4275,What a pleasant surprise!,5
+4276,I am so happy right now!,1
+4277,This has blown my mind!,5
+4278,I can't stop crying.,0
+4279,I'm so scared right now.,4
+4280,The fear is overwhelming.,4
+4281,Life just feels so unfair right now.,0
+4282,This is completely unexpected!,5
+4283,Love is all we need.,2
+4284,All I feel is emptiness.,0
+4285,This is my worst nightmare.,4
+4286,All I feel is emptiness.,0
+4287,Things never go my way.,0
+4288,How can people be so inconsiderate?,3
+4289,Love is all we need.,2
+4290,You mean the world to me.,2
+4291,Can't stop smiling today!,1
+4292,Life is beautiful!,1
+4293,Life is beautiful!,1
+4294,All I feel is emptiness.,0
+4295,I wish I could escape this sadness.,0
+4296,I can't believe this just happened!,5
+4297,This is beyond frustrating.,3
+4298,My heart is so full of love.,2
+4299,My heart is so full of love.,2
+4300,I can't believe this just happened!,5
+4301,Life just feels so unfair right now.,0
+4302,"I can't breathe, I'm so scared.",4
+4303,I'm so frustrated right now!,3
+4304,You mean the world to me.,2
+4305,What a pleasant surprise!,5
+4306,I can't believe this is happening!,3
+4307,Everything is just perfect.,1
+4308,Everything is just perfect.,1
+4309,Falling in love all over again.,2
+4310,You mean the world to me.,2
+4311,The fear is overwhelming.,4
+4312,I'm about to explode with anger.,3
+4313,How can people be so inconsiderate?,3
+4314,Love is all we need.,2
+4315,Love is all we need.,2
+4316,My heart skips a beat every time I see you.,2
+4317,Surprised in the best way possible!,5
+4318,Things never go my way.,0
+4319,I'm so frustrated right now!,3
+4320,I'm about to explode with anger.,3
+4321,I'm feeling low.,0
+4322,I'm so scared right now.,4
+4323,Why does fear control me like this?,4
+4324,Missing those happy times.,0
+4325,What a pleasant surprise!,5
+4326,"I don't know what to do, I'm so afraid.",4
+4327,I can't believe this is happening!,3
+4328,The fear is overwhelming.,4
+4329,Today is an amazing day!,1
+4330,I love you more than words can say.,2
+4331,All I feel is emptiness.,0
+4332,I wish I could escape this sadness.,0
+4333,I am so happy right now!,1
+4334,I'm so grateful for everything!,1
+4335,Things never go my way.,0
+4336,Love makes everything better.,2
+4337,Everything is just perfect.,1
+4338,I can't imagine life without you.,2
+4339,I can't take this anymore!,3
+4340,This is completely unexpected!,5
+4341,What a wonderful day!,1
+4342,I'm speechless from this surprise!,5
+4343,I can't stop crying.,0
+4344,Everything is just perfect.,1
+4345,Everything feels grey today.,0
+4346,You mean the world to me.,2
+4347,I can't take this anymore!,3
+4348,Totally caught off guard by this!,5
+4349,People are just the worst sometimes!,3
+4350,Everything is just perfect.,1
+4351,Love is the best feeling.,2
+4352,The fear is overwhelming.,4
+4353,Feeling on top of the world!,1
+4354,This is absolutely unacceptable!,3
+4355,This is completely unexpected!,5
+4356,This is terrifying!,4
+4357,All I feel is emptiness.,0
+4358,Feeling on top of the world!,1
+4359,This is absolutely unacceptable!,3
+4360,You complete me.,2
+4361,Life just feels so unfair right now.,0
+4362,So angry I could scream!,3
+4363,All I feel is emptiness.,0
+4364,I can't take this anymore!,3
+4365,How can people be so inconsiderate?,3
+4366,Feeling on top of the world!,1
+4367,This has blown my mind!,5
+4368,What a pleasant surprise!,5
+4369,Feeling so down today.,0
+4370,Today is an amazing day!,1
+4371,I can't believe this is happening!,3
+4372,"I can't breathe, I'm so scared.",4
+4373,Missing those happy times.,0
+4374,This is infuriating!,3
+4375,Feeling on top of the world!,1
+4376,I'm so scared right now.,4
+4377,This is terrifying!,4
+4378,I love you more than words can say.,2
+4379,Totally caught off guard by this!,5
+4380,Everything feels grey today.,0
+4381,This is beyond frustrating.,3
+4382,This is my worst nightmare.,4
+4383,I'm so grateful for everything!,1
+4384,Love makes everything better.,2
+4385,Feeling on top of the world!,1
+4386,I am so happy right now!,1
+4387,I am so happy right now!,1
+4388,"I don't know what to do, I'm so afraid.",4
+4389,All I feel is emptiness.,0
+4390,I never expected this outcome!,5
+4391,I wish I could escape this sadness.,0
+4392,Everything is just perfect.,1
+4393,I can't believe this just happened!,5
+4394,I can't believe this is happening!,3
+4395,Why does fear control me like this?,4
+4396,This is terrifying!,4
+4397,Love is the best feeling.,2
+4398,Things never go my way.,0
+4399,I love you more than words can say.,2
+4400,Things never go my way.,0
+4401,My heart skips a beat every time I see you.,2
+4402,This is infuriating!,3
+4403,Why does everything feel so hopeless?,0
+4404,I can't stop crying.,0
+4405,Feeling on top of the world!,1
+4406,Love is all we need.,2
+4407,I wish I could escape this sadness.,0
+4408,People are just the worst sometimes!,3
+4409,Can't stop smiling today!,1
+4410,I can't imagine life without you.,2
+4411,Today is an amazing day!,1
+4412,Life just feels so unfair right now.,0
+4413,Life just feels so unfair right now.,0
+4414,What a shock!,5
+4415,I'm speechless from this surprise!,5
+4416,This is absolutely unacceptable!,3
+4417,Life is beautiful!,1
+4418,I never expected this outcome!,5
+4419,I'm about to explode with anger.,3
+4420,Everything is just perfect.,1
+4421,This is infuriating!,3
+4422,My heart skips a beat every time I see you.,2
+4423,I can't believe this just happened!,5
+4424,I can't believe this just happened!,5
+4425,So angry I could scream!,3
+4426,Can't stop smiling today!,1
+4427,This is completely unexpected!,5
+4428,People are just the worst sometimes!,3
+4429,Why does everything feel so hopeless?,0
+4430,"Wow, I didn't see that coming!",5
+4431,Why does fear control me like this?,4
+4432,This is terrifying!,4
+4433,I'm so grateful for everything!,1
+4434,Totally caught off guard by this!,5
+4435,Life just feels so unfair right now.,0
+4436,Fear is taking over me.,4
+4437,"I can't breathe, I'm so scared.",4
+4438,Things never go my way.,0
+4439,Surprised in the best way possible!,5
+4440,Everything is just perfect.,1
+4441,This is my worst nightmare.,4
+4442,You complete me.,2
+4443,I'm about to explode with anger.,3
+4444,This is terrifying!,4
+4445,Happiness is all around!,1
+4446,My heart is so full of love.,2
+4447,Love makes everything better.,2
+4448,You complete me.,2
+4449,Today is an amazing day!,1
+4450,All I feel is emptiness.,0
+4451,I feel blessed!,1
+4452,Everything feels grey today.,0
+4453,You mean the world to me.,2
+4454,My heart skips a beat every time I see you.,2
+4455,"I can't breathe, I'm so scared.",4
+4456,Life is beautiful!,1
+4457,This is my worst nightmare.,4
+4458,This is infuriating!,3
+4459,This is absolutely unacceptable!,3
+4460,This is terrifying!,4
+4461,My heart is so full of love.,2
+4462,I love you more than words can say.,2
+4463,So angry I could scream!,3
+4464,I wish I could escape this sadness.,0
+4465,Why does fear control me like this?,4
+4466,I can't stop shaking from fear.,4
+4467,What a shock!,5
+4468,This is absolutely unacceptable!,3
+4469,Why does everything feel so hopeless?,0
+4470,I'm so frustrated right now!,3
+4471,I am so happy right now!,1
+4472,Life just feels so unfair right now.,0
+4473,Today is an amazing day!,1
+4474,What a wonderful day!,1
+4475,I can't stop shaking from fear.,4
+4476,Everything feels grey today.,0
+4477,I can't believe this is happening!,3
+4478,Today is an amazing day!,1
+4479,I wish I could escape this sadness.,0
+4480,"I can't breathe, I'm so scared.",4
+4481,I can't stop crying.,0
+4482,I'm so scared right now.,4
+4483,People are just the worst sometimes!,3
+4484,What a pleasant surprise!,5
+4485,I wish I could escape this sadness.,0
+4486,I never expected this outcome!,5
+4487,This has blown my mind!,5
+4488,The fear is overwhelming.,4
+4489,You mean the world to me.,2
+4490,Surprised in the best way possible!,5
+4491,How can people be so inconsiderate?,3
+4492,Totally caught off guard by this!,5
+4493,Love is the best feeling.,2
+4494,Why does fear control me like this?,4
+4495,I'm frozen in fear.,4
+4496,I'm about to explode with anger.,3
+4497,Everything feels grey today.,0
+4498,Everything feels grey today.,0
+4499,Totally caught off guard by this!,5
+4500,"Wow, I didn't see that coming!",5
+4501,Can't stop smiling today!,1
+4502,Everything feels grey today.,0
+4503,My heart is so full of love.,2
+4504,What a wonderful day!,1
+4505,Missing those happy times.,0
+4506,Why does fear control me like this?,4
+4507,I can't stop shaking from fear.,4
+4508,Life just feels so unfair right now.,0
+4509,Can't stop smiling today!,1
+4510,This is absolutely unacceptable!,3
+4511,This is absolutely unacceptable!,3
+4512,Love is all we need.,2
+4513,Why does everything feel so hopeless?,0
+4514,"Wow, I didn't see that coming!",5
+4515,Falling in love all over again.,2
+4516,What a shock!,5
+4517,My heart skips a beat every time I see you.,2
+4518,Why does everything feel so hopeless?,0
+4519,I can't imagine life without you.,2
+4520,Falling in love all over again.,2
+4521,People are just the worst sometimes!,3
+4522,I feel blessed!,1
+4523,I'm feeling low.,0
+4524,People are just the worst sometimes!,3
+4525,I'm so grateful for everything!,1
+4526,My heart skips a beat every time I see you.,2
+4527,I can't stop shaking from fear.,4
+4528,I'm so grateful for everything!,1
+4529,I'm speechless from this surprise!,5
+4530,This is my worst nightmare.,4
+4531,What a shock!,5
+4532,Today is an amazing day!,1
+4533,Things never go my way.,0
+4534,I can't believe this is happening!,3
+4535,My heart skips a beat every time I see you.,2
+4536,I wish I could escape this sadness.,0
+4537,I can't believe this just happened!,5
+4538,This is absolutely unacceptable!,3
+4539,What a pleasant surprise!,5
+4540,This is completely unexpected!,5
+4541,I can't take this anymore!,3
+4542,You complete me.,2
+4543,I'm so scared right now.,4
+4544,I can't stop shaking from fear.,4
+4545,I can't stop shaking from fear.,4
+4546,"I can't breathe, I'm so scared.",4
+4547,Love is the best feeling.,2
+4548,How can people be so inconsiderate?,3
+4549,Feeling on top of the world!,1
+4550,Love is the best feeling.,2
+4551,"I can't breathe, I'm so scared.",4
+4552,Feeling so down today.,0
+4553,I never expected this outcome!,5
+4554,Life is beautiful!,1
+4555,How can people be so inconsiderate?,3
+4556,"I can't breathe, I'm so scared.",4
+4557,Totally caught off guard by this!,5
+4558,What a shock!,5
+4559,"I can't breathe, I'm so scared.",4
+4560,I can't stop shaking from fear.,4
+4561,How can people be so inconsiderate?,3
+4562,I can't stop crying.,0
+4563,Fear is taking over me.,4
+4564,I'm feeling low.,0
+4565,Falling in love all over again.,2
+4566,People are just the worst sometimes!,3
+4567,How can people be so inconsiderate?,3
+4568,I can't take this anymore!,3
+4569,Love makes everything better.,2
+4570,Everything is just perfect.,1
+4571,What a wonderful day!,1
+4572,"Wow, I didn't see that coming!",5
+4573,I'm frozen in fear.,4
+4574,I love you more than words can say.,2
+4575,I'm frozen in fear.,4
+4576,Love is all we need.,2
+4577,This is my worst nightmare.,4
+4578,I'm so scared right now.,4
+4579,Can't stop smiling today!,1
+4580,This is terrifying!,4
+4581,"Wow, I didn't see that coming!",5
+4582,I can't believe this just happened!,5
+4583,Fear is taking over me.,4
+4584,My heart skips a beat every time I see you.,2
+4585,This is completely unexpected!,5
+4586,Life just feels so unfair right now.,0
+4587,Life just feels so unfair right now.,0
+4588,Today is an amazing day!,1
+4589,This has blown my mind!,5
+4590,My heart skips a beat every time I see you.,2
+4591,My heart skips a beat every time I see you.,2
+4592,I can't take this anymore!,3
+4593,Love makes everything better.,2
+4594,Things never go my way.,0
+4595,I'm frozen in fear.,4
+4596,All I feel is emptiness.,0
+4597,I can't believe this just happened!,5
+4598,I can't stop shaking from fear.,4
+4599,I can't imagine life without you.,2
+4600,How can people be so inconsiderate?,3
+4601,"Wow, I didn't see that coming!",5
+4602,I never expected this outcome!,5
+4603,I'm so frustrated right now!,3
+4604,What a wonderful day!,1
+4605,I am so happy right now!,1
+4606,I can't believe this just happened!,5
+4607,Love makes everything better.,2
+4608,Missing those happy times.,0
+4609,This is infuriating!,3
+4610,What a shock!,5
+4611,I'm so grateful for everything!,1
+4612,Life is beautiful!,1
+4613,Things never go my way.,0
+4614,What a pleasant surprise!,5
+4615,The fear is overwhelming.,4
+4616,This has blown my mind!,5
+4617,Love is the best feeling.,2
+4618,I can't stop shaking from fear.,4
+4619,I'm so grateful for everything!,1
+4620,Fear is taking over me.,4
+4621,What a shock!,5
+4622,So angry I could scream!,3
+4623,You mean the world to me.,2
+4624,This is terrifying!,4
+4625,This is completely unexpected!,5
+4626,Falling in love all over again.,2
+4627,This is my worst nightmare.,4
+4628,I'm so grateful for everything!,1
+4629,I never expected this outcome!,5
+4630,This is infuriating!,3
+4631,Life is beautiful!,1
+4632,This is terrifying!,4
+4633,All I feel is emptiness.,0
+4634,I can't stop shaking from fear.,4
+4635,Happiness is all around!,1
+4636,All I feel is emptiness.,0
+4637,This is completely unexpected!,5
+4638,This is beyond frustrating.,3
+4639,Everything feels grey today.,0
+4640,Happiness is all around!,1
+4641,So angry I could scream!,3
+4642,All I feel is emptiness.,0
+4643,I'm about to explode with anger.,3
+4644,How can people be so inconsiderate?,3
+4645,Everything feels grey today.,0
+4646,I can't believe this is happening!,3
+4647,Why does fear control me like this?,4
+4648,I'm speechless from this surprise!,5
+4649,"I can't breathe, I'm so scared.",4
+4650,I can't believe this just happened!,5
+4651,I'm so scared right now.,4
+4652,What a pleasant surprise!,5
+4653,I'm so scared right now.,4
+4654,This is beyond frustrating.,3
+4655,"Wow, I didn't see that coming!",5
+4656,Why does everything feel so hopeless?,0
+4657,Falling in love all over again.,2
+4658,I'm so grateful for everything!,1
+4659,You complete me.,2
+4660,Life just feels so unfair right now.,0
+4661,What a wonderful day!,1
+4662,Love is the best feeling.,2
+4663,I'm frozen in fear.,4
+4664,You complete me.,2
+4665,I can't believe this just happened!,5
+4666,Why does everything feel so hopeless?,0
+4667,Totally caught off guard by this!,5
+4668,Things never go my way.,0
+4669,I can't stop crying.,0
+4670,I can't imagine life without you.,2
+4671,Falling in love all over again.,2
+4672,Feeling on top of the world!,1
+4673,I'm so scared right now.,4
+4674,This is absolutely unacceptable!,3
+4675,I'm so scared right now.,4
+4676,This is infuriating!,3
+4677,I'm frozen in fear.,4
+4678,This is absolutely unacceptable!,3
+4679,The fear is overwhelming.,4
+4680,What a wonderful day!,1
+4681,I am so happy right now!,1
+4682,Love makes everything better.,2
+4683,Totally caught off guard by this!,5
+4684,Why does everything feel so hopeless?,0
+4685,"I can't breathe, I'm so scared.",4
+4686,I'm so frustrated right now!,3
+4687,I am so happy right now!,1
+4688,This has blown my mind!,5
+4689,My heart is so full of love.,2
+4690,I'm so scared right now.,4
+4691,My heart skips a beat every time I see you.,2
+4692,So angry I could scream!,3
+4693,I can't take this anymore!,3
+4694,People are just the worst sometimes!,3
+4695,Why does fear control me like this?,4
+4696,What a pleasant surprise!,5
+4697,Missing those happy times.,0
+4698,I'm so scared right now.,4
+4699,Things never go my way.,0
+4700,This is beyond frustrating.,3
+4701,Surprised in the best way possible!,5
+4702,I never expected this outcome!,5
+4703,Life is beautiful!,1
+4704,Missing those happy times.,0
+4705,I wish I could escape this sadness.,0
+4706,Why does everything feel so hopeless?,0
+4707,I can't stop shaking from fear.,4
+4708,This is absolutely unacceptable!,3
+4709,This is beyond frustrating.,3
+4710,Love is the best feeling.,2
+4711,I can't believe this just happened!,5
+4712,I'm so grateful for everything!,1
+4713,Totally caught off guard by this!,5
+4714,My heart is so full of love.,2
+4715,Can't stop smiling today!,1
+4716,I'm speechless from this surprise!,5
+4717,Life just feels so unfair right now.,0
+4718,I can't believe this just happened!,5
+4719,Feeling on top of the world!,1
+4720,How can people be so inconsiderate?,3
+4721,I can't stop shaking from fear.,4
+4722,I can't believe this is happening!,3
+4723,This is beyond frustrating.,3
+4724,This is terrifying!,4
+4725,What a wonderful day!,1
+4726,I can't take this anymore!,3
+4727,"I don't know what to do, I'm so afraid.",4
+4728,I wish I could escape this sadness.,0
+4729,What a wonderful day!,1
+4730,Surprised in the best way possible!,5
+4731,Life is beautiful!,1
+4732,I'm speechless from this surprise!,5
+4733,What a wonderful day!,1
+4734,All I feel is emptiness.,0
+4735,"I can't breathe, I'm so scared.",4
+4736,How can people be so inconsiderate?,3
+4737,Why does everything feel so hopeless?,0
+4738,Happiness is all around!,1
+4739,Love is the best feeling.,2
+4740,Love is all we need.,2
+4741,"I can't breathe, I'm so scared.",4
+4742,Life is beautiful!,1
+4743,I wish I could escape this sadness.,0
+4744,This is completely unexpected!,5
+4745,This is terrifying!,4
+4746,Surprised in the best way possible!,5
+4747,Why does fear control me like this?,4
+4748,All I feel is emptiness.,0
+4749,People are just the worst sometimes!,3
+4750,Surprised in the best way possible!,5
+4751,Love makes everything better.,2
+4752,People are just the worst sometimes!,3
+4753,Feeling so down today.,0
+4754,I'm so grateful for everything!,1
+4755,Surprised in the best way possible!,5
+4756,Everything is just perfect.,1
+4757,How can people be so inconsiderate?,3
+4758,This is completely unexpected!,5
+4759,I'm speechless from this surprise!,5
+4760,I'm speechless from this surprise!,5
+4761,So angry I could scream!,3
+4762,This has blown my mind!,5
+4763,I can't believe this just happened!,5
+4764,People are just the worst sometimes!,3
+4765,What a shock!,5
+4766,This is beyond frustrating.,3
+4767,People are just the worst sometimes!,3
+4768,Love is the best feeling.,2
+4769,My heart skips a beat every time I see you.,2
+4770,This is my worst nightmare.,4
+4771,Life is beautiful!,1
+4772,I'm so scared right now.,4
+4773,All I feel is emptiness.,0
+4774,I'm speechless from this surprise!,5
+4775,I never expected this outcome!,5
+4776,I'm so scared right now.,4
+4777,This has blown my mind!,5
+4778,I'm so grateful for everything!,1
+4779,All I feel is emptiness.,0
+4780,I never expected this outcome!,5
+4781,I'm so frustrated right now!,3
+4782,This is terrifying!,4
+4783,I'm so scared right now.,4
+4784,Falling in love all over again.,2
+4785,Feeling on top of the world!,1
+4786,This is absolutely unacceptable!,3
+4787,I can't believe this just happened!,5
+4788,"I don't know what to do, I'm so afraid.",4
+4789,I can't take this anymore!,3
+4790,Life just feels so unfair right now.,0
+4791,I'm so scared right now.,4
+4792,Life is beautiful!,1
+4793,I wish I could escape this sadness.,0
+4794,You mean the world to me.,2
+4795,I love you more than words can say.,2
+4796,This is absolutely unacceptable!,3
+4797,I'm so scared right now.,4
+4798,What a pleasant surprise!,5
+4799,I can't believe this just happened!,5
+4800,"I don't know what to do, I'm so afraid.",4
+4801,I can't imagine life without you.,2
+4802,You complete me.,2
+4803,I'm so scared right now.,4
+4804,I never expected this outcome!,5
+4805,What a wonderful day!,1
+4806,I can't imagine life without you.,2
+4807,Totally caught off guard by this!,5
+4808,I feel blessed!,1
+4809,I'm speechless from this surprise!,5
+4810,I'm so scared right now.,4
+4811,Feeling so down today.,0
+4812,This is beyond frustrating.,3
+4813,Can't stop smiling today!,1
+4814,Life is beautiful!,1
+4815,What a pleasant surprise!,5
+4816,My heart skips a beat every time I see you.,2
+4817,Fear is taking over me.,4
+4818,This is infuriating!,3
+4819,What a pleasant surprise!,5
+4820,I'm so grateful for everything!,1
+4821,I'm about to explode with anger.,3
+4822,People are just the worst sometimes!,3
+4823,I love you more than words can say.,2
+4824,Surprised in the best way possible!,5
+4825,Everything is just perfect.,1
+4826,This is completely unexpected!,5
+4827,The fear is overwhelming.,4
+4828,"I don't know what to do, I'm so afraid.",4
+4829,I can't believe this is happening!,3
+4830,Feeling on top of the world!,1
+4831,This is absolutely unacceptable!,3
+4832,Everything is just perfect.,1
+4833,My heart skips a beat every time I see you.,2
+4834,All I feel is emptiness.,0
+4835,Why does everything feel so hopeless?,0
+4836,I can't take this anymore!,3
+4837,Everything feels grey today.,0
+4838,Feeling so down today.,0
+4839,Feeling on top of the world!,1
+4840,"I don't know what to do, I'm so afraid.",4
+4841,I can't believe this just happened!,5
+4842,I'm speechless from this surprise!,5
+4843,My heart is so full of love.,2
+4844,You mean the world to me.,2
+4845,I'm so frustrated right now!,3
+4846,"I can't breathe, I'm so scared.",4
+4847,This has blown my mind!,5
+4848,I can't believe this just happened!,5
+4849,Love is all we need.,2
+4850,I can't imagine life without you.,2
+4851,Love makes everything better.,2
+4852,So angry I could scream!,3
+4853,Love makes everything better.,2
+4854,Love is the best feeling.,2
+4855,Why does fear control me like this?,4
+4856,I'm so grateful for everything!,1
+4857,I can't stop shaking from fear.,4
+4858,My heart is so full of love.,2
+4859,This is infuriating!,3
+4860,Love is all we need.,2
+4861,Why does fear control me like this?,4
+4862,Why does everything feel so hopeless?,0
+4863,How can people be so inconsiderate?,3
+4864,"Wow, I didn't see that coming!",5
+4865,Feeling so down today.,0
+4866,This is completely unexpected!,5
+4867,Can't stop smiling today!,1
+4868,I can't stop shaking from fear.,4
+4869,"I don't know what to do, I'm so afraid.",4
+4870,This is my worst nightmare.,4
+4871,Life just feels so unfair right now.,0
+4872,I'm so frustrated right now!,3
+4873,Everything feels grey today.,0
+4874,Why does everything feel so hopeless?,0
+4875,This is beyond frustrating.,3
+4876,Fear is taking over me.,4
+4877,Fear is taking over me.,4
+4878,I never expected this outcome!,5
+4879,So angry I could scream!,3
+4880,This is completely unexpected!,5
+4881,This is completely unexpected!,5
+4882,I can't take this anymore!,3
+4883,I'm so scared right now.,4
+4884,"I can't breathe, I'm so scared.",4
+4885,I'm so frustrated right now!,3
+4886,I'm frozen in fear.,4
+4887,Everything feels grey today.,0
+4888,I love you more than words can say.,2
+4889,I wish I could escape this sadness.,0
+4890,I feel blessed!,1
+4891,Feeling on top of the world!,1
+4892,Life is beautiful!,1
+4893,This is my worst nightmare.,4
+4894,Feeling on top of the world!,1
+4895,Life is beautiful!,1
+4896,Love makes everything better.,2
+4897,This is absolutely unacceptable!,3
+4898,I'm so frustrated right now!,3
+4899,Falling in love all over again.,2
+4900,What a shock!,5
+4901,This is beyond frustrating.,3
+4902,Falling in love all over again.,2
+4903,This is terrifying!,4
+4904,I never expected this outcome!,5
+4905,Everything feels grey today.,0
+4906,Life just feels so unfair right now.,0
+4907,Why does fear control me like this?,4
+4908,How can people be so inconsiderate?,3
+4909,Totally caught off guard by this!,5
+4910,Surprised in the best way possible!,5
+4911,Love makes everything better.,2
+4912,Feeling so down today.,0
+4913,Feeling so down today.,0
+4914,How can people be so inconsiderate?,3
+4915,I never expected this outcome!,5
+4916,I can't believe this just happened!,5
+4917,What a shock!,5
+4918,This is beyond frustrating.,3
+4919,My heart skips a beat every time I see you.,2
+4920,I'm feeling low.,0
+4921,Happiness is all around!,1
+4922,Love makes everything better.,2
+4923,I can't believe this is happening!,3
+4924,I wish I could escape this sadness.,0
+4925,Love makes everything better.,2
+4926,I feel blessed!,1
+4927,This is beyond frustrating.,3
+4928,I can't stop crying.,0
+4929,Love makes everything better.,2
+4930,I am so happy right now!,1
+4931,Falling in love all over again.,2
+4932,I feel blessed!,1
+4933,I love you more than words can say.,2
+4934,Life just feels so unfair right now.,0
+4935,I wish I could escape this sadness.,0
+4936,I'm so grateful for everything!,1
+4937,I never expected this outcome!,5
+4938,I'm feeling low.,0
+4939,I love you more than words can say.,2
+4940,People are just the worst sometimes!,3
+4941,Totally caught off guard by this!,5
+4942,Can't stop smiling today!,1
+4943,"I don't know what to do, I'm so afraid.",4
+4944,I can't stop crying.,0
+4945,Happiness is all around!,1
+4946,This is absolutely unacceptable!,3
+4947,Love is all we need.,2
+4948,Love is the best feeling.,2
+4949,Life is beautiful!,1
+4950,You mean the world to me.,2
+4951,The fear is overwhelming.,4
+4952,Everything feels grey today.,0
+4953,I can't believe this is happening!,3
+4954,Everything is just perfect.,1
+4955,I can't imagine life without you.,2
+4956,Happiness is all around!,1
+4957,I can't believe this just happened!,5
+4958,What a pleasant surprise!,5
+4959,You complete me.,2
+4960,Love makes everything better.,2
+4961,Love makes everything better.,2
+4962,This is infuriating!,3
+4963,Everything is just perfect.,1
+4964,Everything is just perfect.,1
+4965,What a shock!,5
+4966,"I don't know what to do, I'm so afraid.",4
+4967,My heart skips a beat every time I see you.,2
+4968,How can people be so inconsiderate?,3
+4969,Surprised in the best way possible!,5
+4970,Life is beautiful!,1
+4971,Things never go my way.,0
+4972,Feeling on top of the world!,1
+4973,Things never go my way.,0
+4974,Love makes everything better.,2
+4975,Falling in love all over again.,2
+4976,I'm about to explode with anger.,3
+4977,Falling in love all over again.,2
+4978,My heart skips a beat every time I see you.,2
+4979,I can't stop shaking from fear.,4
+4980,Happiness is all around!,1
+4981,Happiness is all around!,1
+4982,My heart skips a beat every time I see you.,2
+4983,All I feel is emptiness.,0
+4984,"I can't breathe, I'm so scared.",4
+4985,Feeling so down today.,0
+4986,What a wonderful day!,1
+4987,Today is an amazing day!,1
+4988,What a shock!,5
+4989,How can people be so inconsiderate?,3
+4990,Life is beautiful!,1
+4991,I'm so frustrated right now!,3
+4992,My heart is so full of love.,2
+4993,How can people be so inconsiderate?,3
+4994,Feeling so down today.,0
+4995,I can't imagine life without you.,2
+4996,Why does fear control me like this?,4
+4997,What a shock!,5
+4998,So angry I could scream!,3
+4999,I feel blessed!,1
