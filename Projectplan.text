@@ -1,0 +1,41 @@
+# Project Plan for Emotion Analysis Project with ChatGPT
+
+## 1. Project Setup
+- []  Set up conda environment
+- [x] Initialize Git repository
+- [x] Set up virtual environment
+- [x] Create empty .py files for structure
+- [x] Initial commit to GitHub https://github.com/Phips92/Adavanced_Data_Analysis_Project
+
+## 2. Data Preprocessing
+- [ ] Create dataset with 5000 entries from ChatGPT
+- [x] Preprocess data (cleaning, tokenization, stopword removal)
+- [x] Save preprocessed data for future steps
+- [x] Implement Bag-of-Words vectorization
+- [x] Implement TF-IDF vectorization
+- [ ] Compare results of BoW and TF-IDF to choose between them
+
+## 3. Feature Extraction
+- [ ] Implement LSA to capture relationships between terms and documents (using SVD)
+- [ ] Implementing LDA 
+- [ ] Save the created topic vectors to train models
+
+## 4. Model Training
+- [ ] Implement Logistic Regression model
+- [ ] Implement Random Forest model
+- [ ] Implement other models (SVM, Naive Bayes, GBM)
+- [ ] Train these models on saved lsa/lda vectors
+- [ ] Cross-validation
+
+## 5. Evaluation & Comparison
+- [ ] Implement evaluation metrics (Accuracy, F1-Score, Classification Report)
+- [ ] Compare performance of different models
+- [ ] Compare LSA vs. LDA topic vectors for training
+- [ ] Document results
+
+## 6. Final Steps
+- [ ] Optimize model (hyperparameter tuning)
+- [ ] Model interpretation using SHAP or LIME ?
+- [ ] Summarize findings in a report
+- [ ] Final commit and push to GitHub
+- [ ] 1/2 DIN A4 page with explanation of the procedure (+link of the GitHub repo)
