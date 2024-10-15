@@ -3,11 +3,12 @@ from data_preprocessing import DataPreprocessor
 from feature_extraction import FeatureExtractor
 from model_training import ModelTrainer
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, classification_report
+from evaluation_and_comparison import ModelEvaluator
 
 preprocessor = DataPreprocessor()
 featurizer = FeatureExtractor()
 trainer = ModelTrainer()
+evaluator = ModelEvaluator()
 
 df = pd.read_csv("synthetic_unique_tweets_dataset_chatgpt.csv")
 df["Text"] = df["Text"].apply(preprocessor.clean_text)
@@ -44,12 +45,9 @@ X_train_tfidf, X_test_tfidf, y_train, y_test = train_test_split(lsa_tfidf_vector
 model_lsa_tfidf = trainer.train(X_train_tfidf, y_train, model_type="logistic_regression")
 
 #make prediction
-y_pred_tfidf = model_lsa_tfidf.predict(X_test_tfidf)
+report, accuracy = evaluator.evaluate(model_lsa_tfidf, X_test_tfidf, y_test)
 
 #results
-accuracy = accuracy_score(y_test, y_pred_tfidf)
 print(f"Accuracy: {accuracy}")
-
-report = classification_report(y_test, y_pred_tfidf)
-print("Classification Report:")
 print(report)
+
