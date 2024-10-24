@@ -9,22 +9,26 @@ class FeatureExtractor:
         self.vectorizer = None
 
 
-    def vectorize(self, corpus, method="tfidf"):
+    def vectorize(self, corpus, method="tfidf", return_model=False):
 
         if method == "tfidf":
             self.vectorizer = TfidfVectorizer()
-            vectors = self.vectorizer.fit_transform(corpus)
-            return vectors
+
         elif method == "bow":
             self.vectorizer = CountVectorizer()
-            vectors = self.vectorizer.fit_transform(corpus)
-            return vectors
         else:
             raise ValueError(f"Method ’{method}’ not supported. Use ’tfidf’ or ’bow’.")
 
+        vectors = self.vectorizer.fit_transform(corpus)
+
+        if return_model:
+
+            return self.vectorizer  
+
+        return vectors
 
     #usually performs better with TF-IDF
-    def use_lsa(self, vectors, n_topics=6, return_model = False):
+    def use_lsa(self, vectors, n_topics=6, return_model=False):
 
         svd_model = TruncatedSVD(n_components=n_topics, algorithm="randomized", random_state=42)
         lsa_vectors = svd_model.fit_transform(vectors)
