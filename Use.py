@@ -10,44 +10,86 @@ featurizer = FeatureExtractor()
 trainer = ModelTrainer()
 evaluator = ModelEvaluator()
 
-df = pd.read_csv("synthetic_unique_tweets_dataset_chatgpt.csv")
-df["Text"] = df["Text"].apply(preprocessor.clean_text)
-df.to_csv("cleaned_tweets.csv", index=False)
+#synthetic data set
+#lamda to convert to string
+df_train = pd.read_csv("synthetic_unique_tweets_dataset_chatgpt.csv")
+df_train["Text"] = df_train["Text"].apply(preprocessor.clean_text)
+df_train["Text"] = df_train["Text"].apply(lambda x: " ".join(preprocessor.tokenize(x)))
 
-df = pd.read_csv("cleaned_tweets.csv")
-df["Text"] = df["Text"].apply(preprocessor.tokenize)
-df.to_csv("tokenized_cleaned_test_tweets.csv", index=False)
+corpus_train = df_train["Text"].values.tolist()
+labels_train = df_train["Label"].values
 
-df = pd.read_csv("tokenized_cleaned_test_tweets.csv")
-corpus = df["Text"].values.tolist()
-labels = df["Label"].values
-vectors_tfidf = featurizer.vectorize(corpus, method="tfidf")
-vectors_bow = featurizer.vectorize(corpus, method="bow")
+#Kagel data set for testing
+df_test = pd.read_csv("Kagel_dataset_tweets.csv")
+df_test["Text"] = df_test["Text"].apply(preprocessor.clean_text)
+df_test["Text"] = df_test["Text"].apply(lambda x: " ".join(preprocessor.tokenize(x)))
 
-#safe vectors
-tfidf_array = vectors_tfidf.toarray()
-bow_array = vectors_bow.toarray()
-pd.DataFrame(tfidf_array).to_csv("TF-IDF_vectors.csv", index=False)
-pd.DataFrame(bow_array).to_csv("BoW_vectors.csv", index=False)
+corpus_test = df_test["Text"].values.tolist()
+labels_test = df_test["Label"].values
 
-#lsa with tfidf and bow
-lsa_tfidf_vectors = featurizer.use_lsa(vectors_tfidf, n_topics=6)
-#print(lsa_tfidf_vectors)
-lsa_bow_vectors = featurizer.use_lsa(vectors_bow, n_topics=6)
-#print(lsa_bow_vectors)
+#print(corpus_train)
 
-#lda with bow
-lda_bow_vectors = featurizer.apply_lda(vectors_bow, n_topics=6)
-#print(lda_bow_vectors)
+#vectorize
+tfidf_vectorizer = featurizer.vectorize(corpus_train, method="tfidf",return_model=True)
+bow_vectorizer =  featurizer.vectorize(corpus_train, method="bow", return_model=True)
 
-#train regression model with lsa (tfidf and bow) and lda (bow)
-X_train_tfidf, X_test_tfidf, y_train, y_test = train_test_split(lsa_tfidf_vectors, labels, test_size=0.2, random_state=20)
-model_lsa_tfidf = trainer.train(X_train_tfidf, y_train, model_type="logistic_regression")
+#train TF-IDF on synthetic data set
+vectors_tfidf_train = tfidf_vectorizer.fit_transform(corpus_train)
+vectors_tfidf_test = tfidf_vectorizer.transform(corpus_test)
+
+#train bow on synthetic data set
+vectors_bow_train = bow_vectorizer.fit_transform(corpus_train)
+vectors_bow_test = bow_vectorizer.transform(corpus_test)
+
+
+# LSA with TF-IDF 
+svd_model_tfidf = featurizer.use_lsa(vectors_tfidf_train, n_topics=6, return_model=True)
+lsa_tfidf_vectors_train = svd_model_tfidf.transform(vectors_tfidf_train)
+lsa_tfidf_vectors_test = svd_model_tfidf.transform(vectors_tfidf_test)
+
+# LSA with BoW 
+svd_model_bow = featurizer.use_lsa(vectors_bow_train, n_topics=6, return_model=True)
+lsa_bow_vectors_train = svd_model_bow.transform(vectors_bow_train)
+lsa_bow_vectors_test = svd_model_bow.transform(vectors_bow_test)
+
+# LDA 
+lda_bow_vectors_train = featurizer.apply_lda(vectors_bow_train, n_topics=6)
+lda_bow_vectors_test = featurizer.apply_lda(vectors_bow_test, n_topics=6)
+
+#train regression model with lsa_tfidf
+model_lsa_tfidf = trainer.train(lsa_tfidf_vectors_train, labels_train, model_type="logistic_regression")
 
 #make prediction
-report, accuracy = evaluator.evaluate(model_lsa_tfidf, X_test_tfidf, y_test)
+report, accuracy = evaluator.evaluate(model_lsa_tfidf, lsa_tfidf_vectors_test, labels_test)
 
-#results
+#results lsa_tfidf
+print("LSA with TF-IDF")
 print(f"Accuracy: {accuracy}")
 print(report)
+
+#train regression model with lsa_bow
+model_lsa_bow = trainer.train(lsa_bow_vectors_train, labels_train, model_type="logistic_regression")
+
+#make prediction
+report, accuracy = evaluator.evaluate(model_lsa_bow, lsa_bow_vectors_test, labels_test)
+
+#results lsa_bow
+print("LSA with BoW")
+print(f"Accuracy: {accuracy}")
+print(report)
+
+#train regression model with lda_bow
+model_lda = trainer.train(lda_bow_vectors_train, labels_train, model_type="logistic_regression")
+
+#make prediction
+report, accuracy = evaluator.evaluate(model_lda, lda_bow_vectors_test, labels_test)
+
+#results lda_bow
+print("LDA with BoW")
+print(f"Accuracy: {accuracy}")
+print(report)
+
+
+
+
 
