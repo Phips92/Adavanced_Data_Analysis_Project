@@ -1,0 +1,5001 @@
+Index,Text,Label
+0,Anger is all I feel right now!,3
+1,The sadness feels overwhelming.,0
+2,I just want to feel safe.,4
+3,Wish things would get better.,0
+4,Why is everything so annoying?,3
+5,I can't stand this nonsense.,3
+6,What an incredible twist!,5
+7,"Heart feels heavy, can't shake it off.",0
+8,I didn't think this would happen!,5
+9,Everything is going my way!,1
+10,I'm overwhelmed by fear.,4
+11,"Surprise of the year, for sure!",5
+12,In love with life!,1
+13,I can't believe how happy I am!,1
+14,Life's beautiful when you're in love.,2
+15,This is a surprise I wasn't ready for!,5
+16,Feeling incredibly blessed.,1
+17,Life is weighing on me heavily.,0
+18,There's so much to be thankful for!,1
+19,I adore you beyond words.,2
+20,"It's a tough day, feeling so lost.",0
+21,Love you more with each day.,2
+22,The world feels dark right now.,0
+23,Our love is a wonderful journey.,2
+24,Life is such a gift!,1
+25,This dread won't go away.,4
+26,"I can't think, I'm so scared.",4
+27,Totally blindsided by this!,5
+28,Every day feels harder.,0
+29,I'm at my limit with this!,3
+30,Can't stop the fear from rising.,4
+31,So irritated right now!,3
+32,Infuriated doesn't even describe it!,3
+33,Never expected this at all!,5
+34,You are my forever.,2
+35,All I feel is fear today.,4
+36,So stunned I can't even react!,5
+37,Couldn't imagine a day without you.,2
+38,Today feels like a dream come true.,1
+39,Tears come too easily today.,0
+40,"I'm frozen, fear is taking over.",4
+41,Joy is filling my soul!,1
+42,Just can't stop this smile.,1
+43,How could this get any worse?,3
+44,Why can't I stop this panic?,4
+45,This is too much to handle!,3
+46,So grateful for today!,1
+47,I'm beyond done with this.,3
+48,Everything seems frightening right now.,4
+49,This anxiety is unbearable.,4
+50,Speechless from this surprise.,5
+51,I'm struggling to see a way forward.,0
+52,Can't find joy anywhere.,0
+53,You make my heart soar.,2
+54,Being with you makes life beautiful.,2
+55,Didn't see that coming at all!,5
+56,This day has been nothing but frustration!,3
+57,Love is everything with you.,2
+58,My heart overflows with love.,2
+59,I'm shocked beyond words!,5
+60,I adore you beyond words.,2
+61,Life is weighing on me heavily.,0
+62,Never expected this at all!,5
+63,Everything seems frightening right now.,4
+64,This dread won't go away.,4
+65,Can't find joy anywhere.,0
+66,My heart overflows with love.,2
+67,Tears come too easily today.,0
+68,All I feel is fear today.,4
+69,I'm overwhelmed by fear.,4
+70,I can't believe how happy I am!,1
+71,Can't stop the fear from rising.,4
+72,Love you more with each day.,2
+73,So grateful for today!,1
+74,Just can't stop this smile.,1
+75,Why is everything so annoying?,3
+76,"I'm frozen, fear is taking over.",4
+77,Totally blindsided by this!,5
+78,"Heart feels heavy, can't shake it off.",0
+79,So stunned I can't even react!,5
+80,Everything is going my way!,1
+81,I'm shocked beyond words!,5
+82,How could this get any worse?,3
+83,Wish things would get better.,0
+84,This is a surprise I wasn't ready for!,5
+85,I'm struggling to see a way forward.,0
+86,I just want to feel safe.,4
+87,"I can't think, I'm so scared.",4
+88,I'm at my limit with this!,3
+89,Why can't I stop this panic?,4
+90,The sadness feels overwhelming.,0
+91,This day has been nothing but frustration!,3
+92,Our love is a wonderful journey.,2
+93,What an incredible twist!,5
+94,"Surprise of the year, for sure!",5
+95,Anger is all I feel right now!,3
+96,I can't stand this nonsense.,3
+97,Joy is filling my soul!,1
+98,Love is everything with you.,2
+99,The world feels dark right now.,0
+100,I didn't think this would happen!,5
+101,You make my heart soar.,2
+102,Infuriated doesn't even describe it!,3
+103,There's so much to be thankful for!,1
+104,Every day feels harder.,0
+105,Couldn't imagine a day without you.,2
+106,Feeling incredibly blessed.,1
+107,Speechless from this surprise.,5
+108,So irritated right now!,3
+109,Didn't see that coming at all!,5
+110,Today feels like a dream come true.,1
+111,This is too much to handle!,3
+112,You are my forever.,2
+113,"It's a tough day, feeling so lost.",0
+114,Life's beautiful when you're in love.,2
+115,In love with life!,1
+116,Life is such a gift!,1
+117,I'm beyond done with this.,3
+118,This anxiety is unbearable.,4
+119,Being with you makes life beautiful.,2
+120,I'm at my limit with this!,3
+121,Life is weighing on me heavily.,0
+122,This anxiety is unbearable.,4
+123,Can't stop the fear from rising.,4
+124,In love with life!,1
+125,Joy is filling my soul!,1
+126,Life is such a gift!,1
+127,Everything is going my way!,1
+128,You are my forever.,2
+129,How could this get any worse?,3
+130,I'm struggling to see a way forward.,0
+131,I just want to feel safe.,4
+132,This is too much to handle!,3
+133,This day has been nothing but frustration!,3
+134,Why is everything so annoying?,3
+135,Just can't stop this smile.,1
+136,The sadness feels overwhelming.,0
+137,"Surprise of the year, for sure!",5
+138,Everything seems frightening right now.,4
+139,Couldn't imagine a day without you.,2
+140,Everything is going my way!,1
+141,The sadness feels overwhelming.,0
+142,"I'm frozen, fear is taking over.",4
+143,This is a surprise I wasn't ready for!,5
+144,Everything seems frightening right now.,4
+145,I didn't think this would happen!,5
+146,"I can't think, I'm so scared.",4
+147,Today feels like a dream come true.,1
+148,Life is such a gift!,1
+149,Wish things would get better.,0
+150,Tears come too easily today.,0
+151,"I can't think, I'm so scared.",4
+152,Never expected this at all!,5
+153,Can't stop the fear from rising.,4
+154,You make my heart soar.,2
+155,I'm overwhelmed by fear.,4
+156,Speechless from this surprise.,5
+157,I'm beyond done with this.,3
+158,Being with you makes life beautiful.,2
+159,"I'm frozen, fear is taking over.",4
+160,Every day feels harder.,0
+161,Anger is all I feel right now!,3
+162,Just can't stop this smile.,1
+163,There's so much to be thankful for!,1
+164,My heart overflows with love.,2
+165,I can't believe how happy I am!,1
+166,I'm beyond done with this.,3
+167,I adore you beyond words.,2
+168,I can't stand this nonsense.,3
+169,There's so much to be thankful for!,1
+170,Totally blindsided by this!,5
+171,So irritated right now!,3
+172,"Surprise of the year, for sure!",5
+173,So stunned I can't even react!,5
+174,This day has been nothing but frustration!,3
+175,Tears come too easily today.,0
+176,Our love is a wonderful journey.,2
+177,Life is weighing on me heavily.,0
+178,The world feels dark right now.,0
+179,I adore you beyond words.,2
+180,Joy is filling my soul!,1
+181,How could this get any worse?,3
+182,You are my forever.,2
+183,I'm shocked beyond words!,5
+184,I'm overwhelmed by fear.,4
+185,Anger is all I feel right now!,3
+186,This is too much to handle!,3
+187,I didn't think this would happen!,5
+188,"Heart feels heavy, can't shake it off.",0
+189,I'm shocked beyond words!,5
+190,Wish things would get better.,0
+191,Speechless from this surprise.,5
+192,In love with life!,1
+193,Never expected this at all!,5
+194,Today feels like a dream come true.,1
+195,"It's a tough day, feeling so lost.",0
+196,You make my heart soar.,2
+197,All I feel is fear today.,4
+198,Life's beautiful when you're in love.,2
+199,Love you more with each day.,2
+200,Being with you makes life beautiful.,2
+201,So stunned I can't even react!,5
+202,Our love is a wonderful journey.,2
+203,I'm at my limit with this!,3
+204,Love is everything with you.,2
+205,This dread won't go away.,4
+206,Can't find joy anywhere.,0
+207,All I feel is fear today.,4
+208,Infuriated doesn't even describe it!,3
+209,Love is everything with you.,2
+210,"Heart feels heavy, can't shake it off.",0
+211,Couldn't imagine a day without you.,2
+212,So irritated right now!,3
+213,I'm struggling to see a way forward.,0
+214,What an incredible twist!,5
+215,Didn't see that coming at all!,5
+216,Love you more with each day.,2
+217,This dread won't go away.,4
+218,The world feels dark right now.,0
+219,Infuriated doesn't even describe it!,3
+220,Didn't see that coming at all!,5
+221,I can't believe how happy I am!,1
+222,So grateful for today!,1
+223,My heart overflows with love.,2
+224,Why can't I stop this panic?,4
+225,Feeling incredibly blessed.,1
+226,Why is everything so annoying?,3
+227,Every day feels harder.,0
+228,I just want to feel safe.,4
+229,Totally blindsided by this!,5
+230,"It's a tough day, feeling so lost.",0
+231,What an incredible twist!,5
+232,I can't stand this nonsense.,3
+233,So grateful for today!,1
+234,Feeling incredibly blessed.,1
+235,Can't find joy anywhere.,0
+236,This is a surprise I wasn't ready for!,5
+237,Why can't I stop this panic?,4
+238,Life's beautiful when you're in love.,2
+239,This anxiety is unbearable.,4
+240,How could this get any worse?,3
+241,Love you more with each day.,2
+242,Everything is going my way!,1
+243,Infuriated doesn't even describe it!,3
+244,I adore you beyond words.,2
+245,So stunned I can't even react!,5
+246,My heart overflows with love.,2
+247,I adore you beyond words.,2
+248,Everything is going my way!,1
+249,Wish things would get better.,0
+250,"Surprise of the year, for sure!",5
+251,I'm struggling to see a way forward.,0
+252,I didn't think this would happen!,5
+253,Love you more with each day.,2
+254,Everything seems frightening right now.,4
+255,Didn't see that coming at all!,5
+256,Speechless from this surprise.,5
+257,Our love is a wonderful journey.,2
+258,What an incredible twist!,5
+259,So irritated right now!,3
+260,Being with you makes life beautiful.,2
+261,What an incredible twist!,5
+262,Just can't stop this smile.,1
+263,All I feel is fear today.,4
+264,Love you more with each day.,2
+265,Tears come too easily today.,0
+266,I just want to feel safe.,4
+267,The sadness feels overwhelming.,0
+268,I didn't think this would happen!,5
+269,How could this get any worse?,3
+270,You make my heart soar.,2
+271,I'm at my limit with this!,3
+272,I didn't think this would happen!,5
+273,Today feels like a dream come true.,1
+274,Love is everything with you.,2
+275,"Surprise of the year, for sure!",5
+276,Life's beautiful when you're in love.,2
+277,Why can't I stop this panic?,4
+278,Anger is all I feel right now!,3
+279,I can't believe how happy I am!,1
+280,This anxiety is unbearable.,4
+281,My heart overflows with love.,2
+282,All I feel is fear today.,4
+283,"It's a tough day, feeling so lost.",0
+284,Why is everything so annoying?,3
+285,Why is everything so annoying?,3
+286,I adore you beyond words.,2
+287,Can't find joy anywhere.,0
+288,Everything seems frightening right now.,4
+289,In love with life!,1
+290,Everything seems frightening right now.,4
+291,Can't find joy anywhere.,0
+292,Tears come too easily today.,0
+293,Just can't stop this smile.,1
+294,Feeling incredibly blessed.,1
+295,So grateful for today!,1
+296,You make my heart soar.,2
+297,This anxiety is unbearable.,4
+298,You make my heart soar.,2
+299,So stunned I can't even react!,5
+300,Couldn't imagine a day without you.,2
+301,Totally blindsided by this!,5
+302,Anger is all I feel right now!,3
+303,"Heart feels heavy, can't shake it off.",0
+304,I'm struggling to see a way forward.,0
+305,I'm beyond done with this.,3
+306,The world feels dark right now.,0
+307,In love with life!,1
+308,I'm at my limit with this!,3
+309,Never expected this at all!,5
+310,Every day feels harder.,0
+311,Infuriated doesn't even describe it!,3
+312,"I'm frozen, fear is taking over.",4
+313,Speechless from this surprise.,5
+314,"I can't think, I'm so scared.",4
+315,Why can't I stop this panic?,4
+316,I can't stand this nonsense.,3
+317,This is too much to handle!,3
+318,The world feels dark right now.,0
+319,I'm beyond done with this.,3
+320,Feeling incredibly blessed.,1
+321,I can't stand this nonsense.,3
+322,I'm at my limit with this!,3
+323,I can't believe how happy I am!,1
+324,Being with you makes life beautiful.,2
+325,Our love is a wonderful journey.,2
+326,Life is such a gift!,1
+327,Can't find joy anywhere.,0
+328,Wish things would get better.,0
+329,"Heart feels heavy, can't shake it off.",0
+330,Can't stop the fear from rising.,4
+331,In love with life!,1
+332,Never expected this at all!,5
+333,This anxiety is unbearable.,4
+334,How could this get any worse?,3
+335,"I'm frozen, fear is taking over.",4
+336,I'm overwhelmed by fear.,4
+337,Today feels like a dream come true.,1
+338,What an incredible twist!,5
+339,Love is everything with you.,2
+340,Wish things would get better.,0
+341,Every day feels harder.,0
+342,Every day feels harder.,0
+343,I'm shocked beyond words!,5
+344,"Heart feels heavy, can't shake it off.",0
+345,Why can't I stop this panic?,4
+346,Couldn't imagine a day without you.,2
+347,Why is everything so annoying?,3
+348,Why is everything so annoying?,3
+349,Everything seems frightening right now.,4
+350,Never expected this at all!,5
+351,I'm struggling to see a way forward.,0
+352,Joy is filling my soul!,1
+353,I can't believe how happy I am!,1
+354,This day has been nothing but frustration!,3
+355,Life is such a gift!,1
+356,You are my forever.,2
+357,Never expected this at all!,5
+358,Joy is filling my soul!,1
+359,The sadness feels overwhelming.,0
+360,This day has been nothing but frustration!,3
+361,I'm overwhelmed by fear.,4
+362,I'm shocked beyond words!,5
+363,My heart overflows with love.,2
+364,Just can't stop this smile.,1
+365,Being with you makes life beautiful.,2
+366,Love you more with each day.,2
+367,You make my heart soar.,2
+368,"Heart feels heavy, can't shake it off.",0
+369,"I'm frozen, fear is taking over.",4
+370,I just want to feel safe.,4
+371,Infuriated doesn't even describe it!,3
+372,Totally blindsided by this!,5
+373,This is too much to handle!,3
+374,Life is such a gift!,1
+375,Life's beautiful when you're in love.,2
+376,So stunned I can't even react!,5
+377,Tears come too easily today.,0
+378,Joy is filling my soul!,1
+379,Our love is a wonderful journey.,2
+380,There's so much to be thankful for!,1
+381,Life is weighing on me heavily.,0
+382,You are my forever.,2
+383,Why can't I stop this panic?,4
+384,Today feels like a dream come true.,1
+385,"I can't think, I'm so scared.",4
+386,The sadness feels overwhelming.,0
+387,I'm overwhelmed by fear.,4
+388,So stunned I can't even react!,5
+389,Didn't see that coming at all!,5
+390,This dread won't go away.,4
+391,"It's a tough day, feeling so lost.",0
+392,I didn't think this would happen!,5
+393,I just want to feel safe.,4
+394,I just want to feel safe.,4
+395,Life is weighing on me heavily.,0
+396,This dread won't go away.,4
+397,Everything is going my way!,1
+398,Can't stop the fear from rising.,4
+399,This is a surprise I wasn't ready for!,5
+400,In love with life!,1
+401,There's so much to be thankful for!,1
+402,"It's a tough day, feeling so lost.",0
+403,All I feel is fear today.,4
+404,This is a surprise I wasn't ready for!,5
+405,Didn't see that coming at all!,5
+406,This anxiety is unbearable.,4
+407,Our love is a wonderful journey.,2
+408,This day has been nothing but frustration!,3
+409,This day has been nothing but frustration!,3
+410,Life's beautiful when you're in love.,2
+411,"I can't think, I'm so scared.",4
+412,All I feel is fear today.,4
+413,Love is everything with you.,2
+414,You are my forever.,2
+415,"I can't think, I'm so scared.",4
+416,Can't find joy anywhere.,0
+417,Life is such a gift!,1
+418,Life is weighing on me heavily.,0
+419,Love is everything with you.,2
+420,Just can't stop this smile.,1
+421,So grateful for today!,1
+422,This is too much to handle!,3
+423,Anger is all I feel right now!,3
+424,Infuriated doesn't even describe it!,3
+425,I can't believe how happy I am!,1
+426,The world feels dark right now.,0
+427,Speechless from this surprise.,5
+428,This dread won't go away.,4
+429,You are my forever.,2
+430,I'm beyond done with this.,3
+431,Joy is filling my soul!,1
+432,Can't stop the fear from rising.,4
+433,Being with you makes life beautiful.,2
+434,Totally blindsided by this!,5
+435,I can't stand this nonsense.,3
+436,So irritated right now!,3
+437,How could this get any worse?,3
+438,I'm beyond done with this.,3
+439,I can't stand this nonsense.,3
+440,Didn't see that coming at all!,5
+441,"Surprise of the year, for sure!",5
+442,What an incredible twist!,5
+443,Anger is all I feel right now!,3
+444,Feeling incredibly blessed.,1
+445,Couldn't imagine a day without you.,2
+446,The sadness feels overwhelming.,0
+447,Every day feels harder.,0
+448,This is a surprise I wasn't ready for!,5
+449,"It's a tough day, feeling so lost.",0
+450,Feeling incredibly blessed.,1
+451,This is a surprise I wasn't ready for!,5
+452,I'm shocked beyond words!,5
+453,I adore you beyond words.,2
+454,I'm at my limit with this!,3
+455,Life's beautiful when you're in love.,2
+456,Can't stop the fear from rising.,4
+457,Everything is going my way!,1
+458,This dread won't go away.,4
+459,So grateful for today!,1
+460,I'm shocked beyond words!,5
+461,Totally blindsided by this!,5
+462,Couldn't imagine a day without you.,2
+463,Wish things would get better.,0
+464,So irritated right now!,3
+465,Today feels like a dream come true.,1
+466,"Surprise of the year, for sure!",5
+467,Speechless from this surprise.,5
+468,There's so much to be thankful for!,1
+469,The world feels dark right now.,0
+470,There's so much to be thankful for!,1
+471,Life is weighing on me heavily.,0
+472,Tears come too easily today.,0
+473,So irritated right now!,3
+474,This is too much to handle!,3
+475,My heart overflows with love.,2
+476,I'm overwhelmed by fear.,4
+477,So grateful for today!,1
+478,"I'm frozen, fear is taking over.",4
+479,I'm struggling to see a way forward.,0
+480,"I can't think, I'm so scared.",4
+481,I didn't think this would happen!,5
+482,In love with life!,1
+483,Didn't see that coming at all!,5
+484,This day has been nothing but frustration!,3
+485,Infuriated doesn't even describe it!,3
+486,This is a surprise I wasn't ready for!,5
+487,Tears come too easily today.,0
+488,I can't believe how happy I am!,1
+489,You make my heart soar.,2
+490,"It's a tough day, feeling so lost.",0
+491,Can't stop the fear from rising.,4
+492,Being with you makes life beautiful.,2
+493,Didn't see that coming at all!,5
+494,Life's beautiful when you're in love.,2
+495,Can't stop the fear from rising.,4
+496,Every day feels harder.,0
+497,Love you more with each day.,2
+498,Anger is all I feel right now!,3
+499,Love you more with each day.,2
+500,Infuriated doesn't even describe it!,3
+501,Life's beautiful when you're in love.,2
+502,Couldn't imagine a day without you.,2
+503,Our love is a wonderful journey.,2
+504,Just can't stop this smile.,1
+505,Speechless from this surprise.,5
+506,So stunned I can't even react!,5
+507,Everything seems frightening right now.,4
+508,I adore you beyond words.,2
+509,Life's beautiful when you're in love.,2
+510,What an incredible twist!,5
+511,I'm struggling to see a way forward.,0
+512,So irritated right now!,3
+513,Can't stop the fear from rising.,4
+514,I can't stand this nonsense.,3
+515,Never expected this at all!,5
+516,I can't believe how happy I am!,1
+517,Totally blindsided by this!,5
+518,This is too much to handle!,3
+519,I'm beyond done with this.,3
+520,I'm beyond done with this.,3
+521,The world feels dark right now.,0
+522,Life's beautiful when you're in love.,2
+523,I'm shocked beyond words!,5
+524,This is too much to handle!,3
+525,This day has been nothing but frustration!,3
+526,"It's a tough day, feeling so lost.",0
+527,All I feel is fear today.,4
+528,Every day feels harder.,0
+529,Life is weighing on me heavily.,0
+530,You are my forever.,2
+531,I'm shocked beyond words!,5
+532,Everything seems frightening right now.,4
+533,Anger is all I feel right now!,3
+534,All I feel is fear today.,4
+535,So stunned I can't even react!,5
+536,There's so much to be thankful for!,1
+537,So irritated right now!,3
+538,Never expected this at all!,5
+539,The world feels dark right now.,0
+540,Can't find joy anywhere.,0
+541,Totally blindsided by this!,5
+542,Our love is a wonderful journey.,2
+543,"I can't think, I'm so scared.",4
+544,The sadness feels overwhelming.,0
+545,There's so much to be thankful for!,1
+546,I didn't think this would happen!,5
+547,What an incredible twist!,5
+548,I'm overwhelmed by fear.,4
+549,Why is everything so annoying?,3
+550,I'm struggling to see a way forward.,0
+551,I'm shocked beyond words!,5
+552,This is too much to handle!,3
+553,I adore you beyond words.,2
+554,You make my heart soar.,2
+555,Love you more with each day.,2
+556,You make my heart soar.,2
+557,I'm beyond done with this.,3
+558,Being with you makes life beautiful.,2
+559,Joy is filling my soul!,1
+560,So grateful for today!,1
+561,Everything seems frightening right now.,4
+562,So grateful for today!,1
+563,I'm struggling to see a way forward.,0
+564,Why can't I stop this panic?,4
+565,This dread won't go away.,4
+566,So stunned I can't even react!,5
+567,Why is everything so annoying?,3
+568,I just want to feel safe.,4
+569,Life is weighing on me heavily.,0
+570,Everything is going my way!,1
+571,The sadness feels overwhelming.,0
+572,Couldn't imagine a day without you.,2
+573,I adore you beyond words.,2
+574,This dread won't go away.,4
+575,"Surprise of the year, for sure!",5
+576,I just want to feel safe.,4
+577,Couldn't imagine a day without you.,2
+578,"Heart feels heavy, can't shake it off.",0
+579,Everything is going my way!,1
+580,I'm overwhelmed by fear.,4
+581,Just can't stop this smile.,1
+582,Life is weighing on me heavily.,0
+583,Feeling incredibly blessed.,1
+584,There's so much to be thankful for!,1
+585,"Surprise of the year, for sure!",5
+586,I'm shocked beyond words!,5
+587,This anxiety is unbearable.,4
+588,This is a surprise I wasn't ready for!,5
+589,The world feels dark right now.,0
+590,Feeling incredibly blessed.,1
+591,Can't stop the fear from rising.,4
+592,My heart overflows with love.,2
+593,I can't stand this nonsense.,3
+594,Love is everything with you.,2
+595,All I feel is fear today.,4
+596,I'm at my limit with this!,3
+597,How could this get any worse?,3
+598,I'm beyond done with this.,3
+599,This dread won't go away.,4
+600,I'm overwhelmed by fear.,4
+601,My heart overflows with love.,2
+602,Feeling incredibly blessed.,1
+603,Can't find joy anywhere.,0
+604,The sadness feels overwhelming.,0
+605,Love you more with each day.,2
+606,Why is everything so annoying?,3
+607,Couldn't imagine a day without you.,2
+608,Anger is all I feel right now!,3
+609,Totally blindsided by this!,5
+610,I'm at my limit with this!,3
+611,Life is such a gift!,1
+612,Today feels like a dream come true.,1
+613,I'm overwhelmed by fear.,4
+614,All I feel is fear today.,4
+615,You make my heart soar.,2
+616,This dread won't go away.,4
+617,Joy is filling my soul!,1
+618,I'm at my limit with this!,3
+619,So stunned I can't even react!,5
+620,Speechless from this surprise.,5
+621,What an incredible twist!,5
+622,Love you more with each day.,2
+623,In love with life!,1
+624,Tears come too easily today.,0
+625,All I feel is fear today.,4
+626,You are my forever.,2
+627,I didn't think this would happen!,5
+628,Can't stop the fear from rising.,4
+629,Every day feels harder.,0
+630,Feeling incredibly blessed.,1
+631,I'm shocked beyond words!,5
+632,I'm struggling to see a way forward.,0
+633,"I'm frozen, fear is taking over.",4
+634,You are my forever.,2
+635,This anxiety is unbearable.,4
+636,Didn't see that coming at all!,5
+637,In love with life!,1
+638,The world feels dark right now.,0
+639,I didn't think this would happen!,5
+640,Didn't see that coming at all!,5
+641,"I'm frozen, fear is taking over.",4
+642,The world feels dark right now.,0
+643,Joy is filling my soul!,1
+644,Just can't stop this smile.,1
+645,Totally blindsided by this!,5
+646,Our love is a wonderful journey.,2
+647,So grateful for today!,1
+648,You are my forever.,2
+649,Just can't stop this smile.,1
+650,Didn't see that coming at all!,5
+651,Everything is going my way!,1
+652,Infuriated doesn't even describe it!,3
+653,So grateful for today!,1
+654,In love with life!,1
+655,Why is everything so annoying?,3
+656,Infuriated doesn't even describe it!,3
+657,I'm at my limit with this!,3
+658,Just can't stop this smile.,1
+659,Everything seems frightening right now.,4
+660,Why is everything so annoying?,3
+661,This anxiety is unbearable.,4
+662,Can't stop the fear from rising.,4
+663,This dread won't go away.,4
+664,You make my heart soar.,2
+665,"Heart feels heavy, can't shake it off.",0
+666,Never expected this at all!,5
+667,Life is such a gift!,1
+668,"I can't think, I'm so scared.",4
+669,"I can't think, I'm so scared.",4
+670,Today feels like a dream come true.,1
+671,Our love is a wonderful journey.,2
+672,There's so much to be thankful for!,1
+673,Totally blindsided by this!,5
+674,Life is weighing on me heavily.,0
+675,Today feels like a dream come true.,1
+676,So stunned I can't even react!,5
+677,Can't find joy anywhere.,0
+678,This day has been nothing but frustration!,3
+679,So irritated right now!,3
+680,My heart overflows with love.,2
+681,I can't stand this nonsense.,3
+682,Being with you makes life beautiful.,2
+683,"It's a tough day, feeling so lost.",0
+684,Couldn't imagine a day without you.,2
+685,I'm beyond done with this.,3
+686,I'm struggling to see a way forward.,0
+687,I can't believe how happy I am!,1
+688,Why is everything so annoying?,3
+689,You make my heart soar.,2
+690,Joy is filling my soul!,1
+691,"I'm frozen, fear is taking over.",4
+692,I'm struggling to see a way forward.,0
+693,I'm overwhelmed by fear.,4
+694,So grateful for today!,1
+695,This is a surprise I wasn't ready for!,5
+696,Joy is filling my soul!,1
+697,What an incredible twist!,5
+698,Infuriated doesn't even describe it!,3
+699,So stunned I can't even react!,5
+700,What an incredible twist!,5
+701,"Surprise of the year, for sure!",5
+702,Love is everything with you.,2
+703,Our love is a wonderful journey.,2
+704,Every day feels harder.,0
+705,How could this get any worse?,3
+706,Life is weighing on me heavily.,0
+707,Everything is going my way!,1
+708,Life's beautiful when you're in love.,2
+709,How could this get any worse?,3
+710,I just want to feel safe.,4
+711,Can't stop the fear from rising.,4
+712,Just can't stop this smile.,1
+713,Just can't stop this smile.,1
+714,"Surprise of the year, for sure!",5
+715,"Heart feels heavy, can't shake it off.",0
+716,Life is weighing on me heavily.,0
+717,Life is such a gift!,1
+718,"Surprise of the year, for sure!",5
+719,There's so much to be thankful for!,1
+720,This is too much to handle!,3
+721,I adore you beyond words.,2
+722,Tears come too easily today.,0
+723,"I'm frozen, fear is taking over.",4
+724,All I feel is fear today.,4
+725,Today feels like a dream come true.,1
+726,Infuriated doesn't even describe it!,3
+727,Wish things would get better.,0
+728,There's so much to be thankful for!,1
+729,Couldn't imagine a day without you.,2
+730,Can't stop the fear from rising.,4
+731,You are my forever.,2
+732,So irritated right now!,3
+733,Everything is going my way!,1
+734,Life's beautiful when you're in love.,2
+735,"Heart feels heavy, can't shake it off.",0
+736,All I feel is fear today.,4
+737,So stunned I can't even react!,5
+738,So irritated right now!,3
+739,I'm overwhelmed by fear.,4
+740,What an incredible twist!,5
+741,I didn't think this would happen!,5
+742,You are my forever.,2
+743,Everything is going my way!,1
+744,Love is everything with you.,2
+745,This is a surprise I wasn't ready for!,5
+746,How could this get any worse?,3
+747,So grateful for today!,1
+748,I can't believe how happy I am!,1
+749,Today feels like a dream come true.,1
+750,Joy is filling my soul!,1
+751,Tears come too easily today.,0
+752,This is too much to handle!,3
+753,Love is everything with you.,2
+754,The sadness feels overwhelming.,0
+755,Our love is a wonderful journey.,2
+756,Can't find joy anywhere.,0
+757,Tears come too easily today.,0
+758,Tears come too easily today.,0
+759,Why is everything so annoying?,3
+760,Why can't I stop this panic?,4
+761,This anxiety is unbearable.,4
+762,"Surprise of the year, for sure!",5
+763,This day has been nothing but frustration!,3
+764,Everything is going my way!,1
+765,Didn't see that coming at all!,5
+766,I'm struggling to see a way forward.,0
+767,"Heart feels heavy, can't shake it off.",0
+768,This is a surprise I wasn't ready for!,5
+769,How could this get any worse?,3
+770,Life is such a gift!,1
+771,I just want to feel safe.,4
+772,I just want to feel safe.,4
+773,I didn't think this would happen!,5
+774,The sadness feels overwhelming.,0
+775,"I can't think, I'm so scared.",4
+776,I'm overwhelmed by fear.,4
+777,This anxiety is unbearable.,4
+778,The world feels dark right now.,0
+779,Totally blindsided by this!,5
+780,In love with life!,1
+781,I'm beyond done with this.,3
+782,Love is everything with you.,2
+783,Love is everything with you.,2
+784,I didn't think this would happen!,5
+785,This day has been nothing but frustration!,3
+786,Wish things would get better.,0
+787,I'm beyond done with this.,3
+788,I'm shocked beyond words!,5
+789,"It's a tough day, feeling so lost.",0
+790,I adore you beyond words.,2
+791,Every day feels harder.,0
+792,"Heart feels heavy, can't shake it off.",0
+793,Couldn't imagine a day without you.,2
+794,My heart overflows with love.,2
+795,Love is everything with you.,2
+796,"Surprise of the year, for sure!",5
+797,Wish things would get better.,0
+798,I can't believe how happy I am!,1
+799,I can't believe how happy I am!,1
+800,Wish things would get better.,0
+801,This is a surprise I wasn't ready for!,5
+802,Being with you makes life beautiful.,2
+803,You make my heart soar.,2
+804,You are my forever.,2
+805,Wish things would get better.,0
+806,Feeling incredibly blessed.,1
+807,"I'm frozen, fear is taking over.",4
+808,Infuriated doesn't even describe it!,3
+809,This is too much to handle!,3
+810,Joy is filling my soul!,1
+811,Why can't I stop this panic?,4
+812,The sadness feels overwhelming.,0
+813,"I can't think, I'm so scared.",4
+814,The sadness feels overwhelming.,0
+815,"It's a tough day, feeling so lost.",0
+816,Totally blindsided by this!,5
+817,Anger is all I feel right now!,3
+818,All I feel is fear today.,4
+819,This anxiety is unbearable.,4
+820,I didn't think this would happen!,5
+821,Life's beautiful when you're in love.,2
+822,Life is such a gift!,1
+823,Every day feels harder.,0
+824,My heart overflows with love.,2
+825,Today feels like a dream come true.,1
+826,"It's a tough day, feeling so lost.",0
+827,Can't find joy anywhere.,0
+828,Why can't I stop this panic?,4
+829,I can't stand this nonsense.,3
+830,I'm at my limit with this!,3
+831,Anger is all I feel right now!,3
+832,Why can't I stop this panic?,4
+833,Our love is a wonderful journey.,2
+834,This is too much to handle!,3
+835,I'm shocked beyond words!,5
+836,I just want to feel safe.,4
+837,"Heart feels heavy, can't shake it off.",0
+838,This dread won't go away.,4
+839,Didn't see that coming at all!,5
+840,Life is such a gift!,1
+841,Speechless from this surprise.,5
+842,Why can't I stop this panic?,4
+843,Infuriated doesn't even describe it!,3
+844,Anger is all I feel right now!,3
+845,Never expected this at all!,5
+846,So irritated right now!,3
+847,Life is such a gift!,1
+848,"It's a tough day, feeling so lost.",0
+849,Didn't see that coming at all!,5
+850,Feeling incredibly blessed.,1
+851,The world feels dark right now.,0
+852,"I'm frozen, fear is taking over.",4
+853,Anger is all I feel right now!,3
+854,So stunned I can't even react!,5
+855,Love you more with each day.,2
+856,Everything is going my way!,1
+857,Love you more with each day.,2
+858,Everything seems frightening right now.,4
+859,Life is weighing on me heavily.,0
+860,Totally blindsided by this!,5
+861,Today feels like a dream come true.,1
+862,I can't stand this nonsense.,3
+863,Life is such a gift!,1
+864,This dread won't go away.,4
+865,Everything seems frightening right now.,4
+866,Every day feels harder.,0
+867,There's so much to be thankful for!,1
+868,I can't believe how happy I am!,1
+869,This day has been nothing but frustration!,3
+870,Couldn't imagine a day without you.,2
+871,My heart overflows with love.,2
+872,What an incredible twist!,5
+873,Being with you makes life beautiful.,2
+874,"I'm frozen, fear is taking over.",4
+875,"Surprise of the year, for sure!",5
+876,How could this get any worse?,3
+877,Joy is filling my soul!,1
+878,Anger is all I feel right now!,3
+879,Life is weighing on me heavily.,0
+880,Can't find joy anywhere.,0
+881,Never expected this at all!,5
+882,I'm overwhelmed by fear.,4
+883,I'm at my limit with this!,3
+884,Speechless from this surprise.,5
+885,Never expected this at all!,5
+886,Speechless from this surprise.,5
+887,"I can't think, I'm so scared.",4
+888,Never expected this at all!,5
+889,Never expected this at all!,5
+890,Every day feels harder.,0
+891,I adore you beyond words.,2
+892,So grateful for today!,1
+893,Can't find joy anywhere.,0
+894,Being with you makes life beautiful.,2
+895,This day has been nothing but frustration!,3
+896,Speechless from this surprise.,5
+897,Tears come too easily today.,0
+898,In love with life!,1
+899,Being with you makes life beautiful.,2
+900,"Heart feels heavy, can't shake it off.",0
+901,"It's a tough day, feeling so lost.",0
+902,Our love is a wonderful journey.,2
+903,In love with life!,1
+904,The sadness feels overwhelming.,0
+905,Feeling incredibly blessed.,1
+906,I adore you beyond words.,2
+907,This is a surprise I wasn't ready for!,5
+908,This day has been nothing but frustration!,3
+909,The world feels dark right now.,0
+910,What an incredible twist!,5
+911,How could this get any worse?,3
+912,So irritated right now!,3
+913,So irritated right now!,3
+914,This dread won't go away.,4
+915,Everything seems frightening right now.,4
+916,You make my heart soar.,2
+917,How could this get any worse?,3
+918,Speechless from this surprise.,5
+919,My heart overflows with love.,2
+920,I just want to feel safe.,4
+921,Why can't I stop this panic?,4
+922,I'm at my limit with this!,3
+923,I can't stand this nonsense.,3
+924,My heart overflows with love.,2
+925,Why is everything so annoying?,3
+926,I adore you beyond words.,2
+927,I'm struggling to see a way forward.,0
+928,Wish things would get better.,0
+929,Being with you makes life beautiful.,2
+930,Everything seems frightening right now.,4
+931,Can't find joy anywhere.,0
+932,Just can't stop this smile.,1
+933,"I can't think, I'm so scared.",4
+934,Speechless from this surprise.,5
+935,This is a surprise I wasn't ready for!,5
+936,Love you more with each day.,2
+937,You are my forever.,2
+938,Wish things would get better.,0
+939,This is too much to handle!,3
+940,"I'm frozen, fear is taking over.",4
+941,I'm shocked beyond words!,5
+942,I'm beyond done with this.,3
+943,Love is everything with you.,2
+944,I can't believe how happy I am!,1
+945,Feeling incredibly blessed.,1
+946,In love with life!,1
+947,Why can't I stop this panic?,4
+948,There's so much to be thankful for!,1
+949,Tears come too easily today.,0
+950,I just want to feel safe.,4
+951,This anxiety is unbearable.,4
+952,I can't stand this nonsense.,3
+953,I'm at my limit with this!,3
+954,I can't stand this nonsense.,3
+955,Today feels like a dream come true.,1
+956,So grateful for today!,1
+957,Wish things would get better.,0
+958,This anxiety is unbearable.,4
+959,Life's beautiful when you're in love.,2
+960,Love you more with each day.,2
+961,This is too much to handle!,3
+962,This anxiety is unbearable.,4
+963,Never expected this at all!,5
+964,Love is everything with you.,2
+965,Couldn't imagine a day without you.,2
+966,I didn't think this would happen!,5
+967,So grateful for today!,1
+968,Totally blindsided by this!,5
+969,Speechless from this surprise.,5
+970,I'm beyond done with this.,3
+971,Didn't see that coming at all!,5
+972,This is a surprise I wasn't ready for!,5
+973,I'm shocked beyond words!,5
+974,All I feel is fear today.,4
+975,You make my heart soar.,2
+976,"I can't think, I'm so scared.",4
+977,The sadness feels overwhelming.,0
+978,I adore you beyond words.,2
+979,The sadness feels overwhelming.,0
+980,My heart overflows with love.,2
+981,Just can't stop this smile.,1
+982,Our love is a wonderful journey.,2
+983,Never expected this at all!,5
+984,I'm shocked beyond words!,5
+985,So irritated right now!,3
+986,Life's beautiful when you're in love.,2
+987,I can't stand this nonsense.,3
+988,All I feel is fear today.,4
+989,This is a surprise I wasn't ready for!,5
+990,Infuriated doesn't even describe it!,3
+991,I'm struggling to see a way forward.,0
+992,I'm shocked beyond words!,5
+993,This is too much to handle!,3
+994,"Heart feels heavy, can't shake it off.",0
+995,You make my heart soar.,2
+996,Totally blindsided by this!,5
+997,This is too much to handle!,3
+998,I'm at my limit with this!,3
+999,All I feel is fear today.,4
+1000,So stunned I can't even react!,5
+1001,Anger is all I feel right now!,3
+1002,This dread won't go away.,4
+1003,Tears come too easily today.,0
+1004,Wish things would get better.,0
+1005,This day has been nothing but frustration!,3
+1006,Today feels like a dream come true.,1
+1007,Joy is filling my soul!,1
+1008,"Surprise of the year, for sure!",5
+1009,I'm beyond done with this.,3
+1010,I can't believe how happy I am!,1
+1011,Totally blindsided by this!,5
+1012,My heart overflows with love.,2
+1013,Wish things would get better.,0
+1014,Why can't I stop this panic?,4
+1015,Anger is all I feel right now!,3
+1016,Can't stop the fear from rising.,4
+1017,Being with you makes life beautiful.,2
+1018,Speechless from this surprise.,5
+1019,Life is such a gift!,1
+1020,So irritated right now!,3
+1021,Speechless from this surprise.,5
+1022,What an incredible twist!,5
+1023,Life is such a gift!,1
+1024,I just want to feel safe.,4
+1025,Wish things would get better.,0
+1026,This day has been nothing but frustration!,3
+1027,What an incredible twist!,5
+1028,Being with you makes life beautiful.,2
+1029,Didn't see that coming at all!,5
+1030,Totally blindsided by this!,5
+1031,I'm overwhelmed by fear.,4
+1032,You are my forever.,2
+1033,Tears come too easily today.,0
+1034,This dread won't go away.,4
+1035,In love with life!,1
+1036,Just can't stop this smile.,1
+1037,Tears come too easily today.,0
+1038,Joy is filling my soul!,1
+1039,You are my forever.,2
+1040,So grateful for today!,1
+1041,I'm beyond done with this.,3
+1042,I can't stand this nonsense.,3
+1043,My heart overflows with love.,2
+1044,Tears come too easily today.,0
+1045,My heart overflows with love.,2
+1046,Life is such a gift!,1
+1047,I'm struggling to see a way forward.,0
+1048,This is a surprise I wasn't ready for!,5
+1049,Everything seems frightening right now.,4
+1050,Speechless from this surprise.,5
+1051,Joy is filling my soul!,1
+1052,So stunned I can't even react!,5
+1053,Can't find joy anywhere.,0
+1054,I can't stand this nonsense.,3
+1055,Everything is going my way!,1
+1056,Life is weighing on me heavily.,0
+1057,Can't stop the fear from rising.,4
+1058,Totally blindsided by this!,5
+1059,Being with you makes life beautiful.,2
+1060,Why can't I stop this panic?,4
+1061,Can't find joy anywhere.,0
+1062,So irritated right now!,3
+1063,Why can't I stop this panic?,4
+1064,Infuriated doesn't even describe it!,3
+1065,This anxiety is unbearable.,4
+1066,I can't stand this nonsense.,3
+1067,You make my heart soar.,2
+1068,This is a surprise I wasn't ready for!,5
+1069,Couldn't imagine a day without you.,2
+1070,Love you more with each day.,2
+1071,Why can't I stop this panic?,4
+1072,I just want to feel safe.,4
+1073,"I can't think, I'm so scared.",4
+1074,Today feels like a dream come true.,1
+1075,Why is everything so annoying?,3
+1076,Our love is a wonderful journey.,2
+1077,How could this get any worse?,3
+1078,You make my heart soar.,2
+1079,Couldn't imagine a day without you.,2
+1080,"It's a tough day, feeling so lost.",0
+1081,So grateful for today!,1
+1082,All I feel is fear today.,4
+1083,I can't stand this nonsense.,3
+1084,Being with you makes life beautiful.,2
+1085,Never expected this at all!,5
+1086,This anxiety is unbearable.,4
+1087,How could this get any worse?,3
+1088,My heart overflows with love.,2
+1089,This is a surprise I wasn't ready for!,5
+1090,Why is everything so annoying?,3
+1091,Everything seems frightening right now.,4
+1092,Speechless from this surprise.,5
+1093,Can't stop the fear from rising.,4
+1094,This is too much to handle!,3
+1095,Can't stop the fear from rising.,4
+1096,I didn't think this would happen!,5
+1097,How could this get any worse?,3
+1098,Everything is going my way!,1
+1099,I'm struggling to see a way forward.,0
+1100,Wish things would get better.,0
+1101,Totally blindsided by this!,5
+1102,I adore you beyond words.,2
+1103,The sadness feels overwhelming.,0
+1104,Joy is filling my soul!,1
+1105,So stunned I can't even react!,5
+1106,Everything seems frightening right now.,4
+1107,Today feels like a dream come true.,1
+1108,All I feel is fear today.,4
+1109,Feeling incredibly blessed.,1
+1110,I can't believe how happy I am!,1
+1111,You are my forever.,2
+1112,You are my forever.,2
+1113,Love is everything with you.,2
+1114,I'm overwhelmed by fear.,4
+1115,Can't find joy anywhere.,0
+1116,I adore you beyond words.,2
+1117,Love you more with each day.,2
+1118,Tears come too easily today.,0
+1119,Totally blindsided by this!,5
+1120,Our love is a wonderful journey.,2
+1121,Feeling incredibly blessed.,1
+1122,I'm overwhelmed by fear.,4
+1123,What an incredible twist!,5
+1124,I didn't think this would happen!,5
+1125,Everything seems frightening right now.,4
+1126,This is a surprise I wasn't ready for!,5
+1127,Love is everything with you.,2
+1128,Everything is going my way!,1
+1129,So irritated right now!,3
+1130,This is a surprise I wasn't ready for!,5
+1131,Feeling incredibly blessed.,1
+1132,Infuriated doesn't even describe it!,3
+1133,Life is weighing on me heavily.,0
+1134,Didn't see that coming at all!,5
+1135,Tears come too easily today.,0
+1136,Couldn't imagine a day without you.,2
+1137,Feeling incredibly blessed.,1
+1138,The sadness feels overwhelming.,0
+1139,Infuriated doesn't even describe it!,3
+1140,My heart overflows with love.,2
+1141,Being with you makes life beautiful.,2
+1142,"It's a tough day, feeling so lost.",0
+1143,"Heart feels heavy, can't shake it off.",0
+1144,Everything is going my way!,1
+1145,Joy is filling my soul!,1
+1146,Everything is going my way!,1
+1147,Love you more with each day.,2
+1148,Just can't stop this smile.,1
+1149,Life's beautiful when you're in love.,2
+1150,Every day feels harder.,0
+1151,Why can't I stop this panic?,4
+1152,Every day feels harder.,0
+1153,I'm shocked beyond words!,5
+1154,You are my forever.,2
+1155,I just want to feel safe.,4
+1156,Love is everything with you.,2
+1157,Why is everything so annoying?,3
+1158,I'm overwhelmed by fear.,4
+1159,How could this get any worse?,3
+1160,Never expected this at all!,5
+1161,Speechless from this surprise.,5
+1162,Every day feels harder.,0
+1163,I'm shocked beyond words!,5
+1164,The sadness feels overwhelming.,0
+1165,The sadness feels overwhelming.,0
+1166,Life is weighing on me heavily.,0
+1167,You make my heart soar.,2
+1168,Couldn't imagine a day without you.,2
+1169,I adore you beyond words.,2
+1170,This is too much to handle!,3
+1171,In love with life!,1
+1172,How could this get any worse?,3
+1173,Just can't stop this smile.,1
+1174,Didn't see that coming at all!,5
+1175,In love with life!,1
+1176,Tears come too easily today.,0
+1177,Today feels like a dream come true.,1
+1178,So grateful for today!,1
+1179,I'm struggling to see a way forward.,0
+1180,This day has been nothing but frustration!,3
+1181,So stunned I can't even react!,5
+1182,I adore you beyond words.,2
+1183,Why is everything so annoying?,3
+1184,Didn't see that coming at all!,5
+1185,There's so much to be thankful for!,1
+1186,I didn't think this would happen!,5
+1187,Life is such a gift!,1
+1188,I'm shocked beyond words!,5
+1189,Why can't I stop this panic?,4
+1190,I'm at my limit with this!,3
+1191,Every day feels harder.,0
+1192,"It's a tough day, feeling so lost.",0
+1193,Every day feels harder.,0
+1194,"I'm frozen, fear is taking over.",4
+1195,This is too much to handle!,3
+1196,I adore you beyond words.,2
+1197,I'm overwhelmed by fear.,4
+1198,So stunned I can't even react!,5
+1199,Love you more with each day.,2
+1200,Being with you makes life beautiful.,2
+1201,Everything is going my way!,1
+1202,There's so much to be thankful for!,1
+1203,Life's beautiful when you're in love.,2
+1204,Feeling incredibly blessed.,1
+1205,How could this get any worse?,3
+1206,Life is such a gift!,1
+1207,"I'm frozen, fear is taking over.",4
+1208,You are my forever.,2
+1209,Just can't stop this smile.,1
+1210,Infuriated doesn't even describe it!,3
+1211,"Heart feels heavy, can't shake it off.",0
+1212,Tears come too easily today.,0
+1213,Why is everything so annoying?,3
+1214,Never expected this at all!,5
+1215,"I'm frozen, fear is taking over.",4
+1216,Love is everything with you.,2
+1217,"Surprise of the year, for sure!",5
+1218,I'm overwhelmed by fear.,4
+1219,In love with life!,1
+1220,How could this get any worse?,3
+1221,"It's a tough day, feeling so lost.",0
+1222,I'm struggling to see a way forward.,0
+1223,My heart overflows with love.,2
+1224,Everything is going my way!,1
+1225,"I can't think, I'm so scared.",4
+1226,This anxiety is unbearable.,4
+1227,Didn't see that coming at all!,5
+1228,Can't stop the fear from rising.,4
+1229,Our love is a wonderful journey.,2
+1230,Love is everything with you.,2
+1231,I'm overwhelmed by fear.,4
+1232,I'm overwhelmed by fear.,4
+1233,So grateful for today!,1
+1234,In love with life!,1
+1235,Infuriated doesn't even describe it!,3
+1236,Couldn't imagine a day without you.,2
+1237,I'm at my limit with this!,3
+1238,In love with life!,1
+1239,Every day feels harder.,0
+1240,I didn't think this would happen!,5
+1241,Love you more with each day.,2
+1242,Can't stop the fear from rising.,4
+1243,I just want to feel safe.,4
+1244,I'm at my limit with this!,3
+1245,Just can't stop this smile.,1
+1246,I'm beyond done with this.,3
+1247,Just can't stop this smile.,1
+1248,The world feels dark right now.,0
+1249,Anger is all I feel right now!,3
+1250,I can't stand this nonsense.,3
+1251,This anxiety is unbearable.,4
+1252,Everything seems frightening right now.,4
+1253,I just want to feel safe.,4
+1254,Feeling incredibly blessed.,1
+1255,Wish things would get better.,0
+1256,Anger is all I feel right now!,3
+1257,The sadness feels overwhelming.,0
+1258,This anxiety is unbearable.,4
+1259,Never expected this at all!,5
+1260,Couldn't imagine a day without you.,2
+1261,"Surprise of the year, for sure!",5
+1262,The sadness feels overwhelming.,0
+1263,This is too much to handle!,3
+1264,So grateful for today!,1
+1265,"Heart feels heavy, can't shake it off.",0
+1266,This dread won't go away.,4
+1267,Didn't see that coming at all!,5
+1268,Never expected this at all!,5
+1269,I'm struggling to see a way forward.,0
+1270,Love you more with each day.,2
+1271,I can't believe how happy I am!,1
+1272,So stunned I can't even react!,5
+1273,Anger is all I feel right now!,3
+1274,Can't find joy anywhere.,0
+1275,"It's a tough day, feeling so lost.",0
+1276,Life is such a gift!,1
+1277,You make my heart soar.,2
+1278,"I can't think, I'm so scared.",4
+1279,Joy is filling my soul!,1
+1280,Joy is filling my soul!,1
+1281,I'm shocked beyond words!,5
+1282,I didn't think this would happen!,5
+1283,Our love is a wonderful journey.,2
+1284,Today feels like a dream come true.,1
+1285,Life is weighing on me heavily.,0
+1286,Feeling incredibly blessed.,1
+1287,How could this get any worse?,3
+1288,Every day feels harder.,0
+1289,There's so much to be thankful for!,1
+1290,I just want to feel safe.,4
+1291,I can't stand this nonsense.,3
+1292,Totally blindsided by this!,5
+1293,Feeling incredibly blessed.,1
+1294,Our love is a wonderful journey.,2
+1295,So irritated right now!,3
+1296,Life is such a gift!,1
+1297,I just want to feel safe.,4
+1298,I'm at my limit with this!,3
+1299,This dread won't go away.,4
+1300,So grateful for today!,1
+1301,Everything seems frightening right now.,4
+1302,Couldn't imagine a day without you.,2
+1303,"I'm frozen, fear is taking over.",4
+1304,Today feels like a dream come true.,1
+1305,Totally blindsided by this!,5
+1306,"Surprise of the year, for sure!",5
+1307,Tears come too easily today.,0
+1308,Our love is a wonderful journey.,2
+1309,Didn't see that coming at all!,5
+1310,Everything is going my way!,1
+1311,This anxiety is unbearable.,4
+1312,Love you more with each day.,2
+1313,Can't find joy anywhere.,0
+1314,This dread won't go away.,4
+1315,I'm shocked beyond words!,5
+1316,My heart overflows with love.,2
+1317,In love with life!,1
+1318,I'm overwhelmed by fear.,4
+1319,Couldn't imagine a day without you.,2
+1320,Why is everything so annoying?,3
+1321,Every day feels harder.,0
+1322,So irritated right now!,3
+1323,You are my forever.,2
+1324,This anxiety is unbearable.,4
+1325,I can't believe how happy I am!,1
+1326,Life's beautiful when you're in love.,2
+1327,Life is such a gift!,1
+1328,Life's beautiful when you're in love.,2
+1329,Anger is all I feel right now!,3
+1330,The sadness feels overwhelming.,0
+1331,"Surprise of the year, for sure!",5
+1332,"Heart feels heavy, can't shake it off.",0
+1333,All I feel is fear today.,4
+1334,In love with life!,1
+1335,Anger is all I feel right now!,3
+1336,This is too much to handle!,3
+1337,This dread won't go away.,4
+1338,Love you more with each day.,2
+1339,This anxiety is unbearable.,4
+1340,You make my heart soar.,2
+1341,Infuriated doesn't even describe it!,3
+1342,"It's a tough day, feeling so lost.",0
+1343,Wish things would get better.,0
+1344,So stunned I can't even react!,5
+1345,What an incredible twist!,5
+1346,I'm struggling to see a way forward.,0
+1347,I'm struggling to see a way forward.,0
+1348,So irritated right now!,3
+1349,"Heart feels heavy, can't shake it off.",0
+1350,I can't believe how happy I am!,1
+1351,There's so much to be thankful for!,1
+1352,Why is everything so annoying?,3
+1353,Feeling incredibly blessed.,1
+1354,Didn't see that coming at all!,5
+1355,Speechless from this surprise.,5
+1356,Infuriated doesn't even describe it!,3
+1357,So stunned I can't even react!,5
+1358,Our love is a wonderful journey.,2
+1359,Our love is a wonderful journey.,2
+1360,All I feel is fear today.,4
+1361,So stunned I can't even react!,5
+1362,I'm beyond done with this.,3
+1363,I'm overwhelmed by fear.,4
+1364,This day has been nothing but frustration!,3
+1365,So grateful for today!,1
+1366,Didn't see that coming at all!,5
+1367,Love is everything with you.,2
+1368,I can't stand this nonsense.,3
+1369,Life is weighing on me heavily.,0
+1370,Why can't I stop this panic?,4
+1371,Anger is all I feel right now!,3
+1372,I didn't think this would happen!,5
+1373,"It's a tough day, feeling so lost.",0
+1374,My heart overflows with love.,2
+1375,You make my heart soar.,2
+1376,Couldn't imagine a day without you.,2
+1377,Everything is going my way!,1
+1378,What an incredible twist!,5
+1379,So grateful for today!,1
+1380,I can't stand this nonsense.,3
+1381,This dread won't go away.,4
+1382,I didn't think this would happen!,5
+1383,Everything is going my way!,1
+1384,You make my heart soar.,2
+1385,There's so much to be thankful for!,1
+1386,Just can't stop this smile.,1
+1387,I adore you beyond words.,2
+1388,Being with you makes life beautiful.,2
+1389,Everything seems frightening right now.,4
+1390,"Heart feels heavy, can't shake it off.",0
+1391,Speechless from this surprise.,5
+1392,Everything seems frightening right now.,4
+1393,You make my heart soar.,2
+1394,So stunned I can't even react!,5
+1395,Totally blindsided by this!,5
+1396,Life is weighing on me heavily.,0
+1397,Today feels like a dream come true.,1
+1398,I can't believe how happy I am!,1
+1399,You are my forever.,2
+1400,Life's beautiful when you're in love.,2
+1401,Wish things would get better.,0
+1402,Everything seems frightening right now.,4
+1403,In love with life!,1
+1404,Never expected this at all!,5
+1405,"I can't think, I'm so scared.",4
+1406,Being with you makes life beautiful.,2
+1407,How could this get any worse?,3
+1408,This is a surprise I wasn't ready for!,5
+1409,Wish things would get better.,0
+1410,You are my forever.,2
+1411,This is too much to handle!,3
+1412,"Heart feels heavy, can't shake it off.",0
+1413,There's so much to be thankful for!,1
+1414,Just can't stop this smile.,1
+1415,Couldn't imagine a day without you.,2
+1416,What an incredible twist!,5
+1417,Can't find joy anywhere.,0
+1418,I adore you beyond words.,2
+1419,Everything seems frightening right now.,4
+1420,Every day feels harder.,0
+1421,Speechless from this surprise.,5
+1422,I can't stand this nonsense.,3
+1423,The world feels dark right now.,0
+1424,In love with life!,1
+1425,So stunned I can't even react!,5
+1426,"Heart feels heavy, can't shake it off.",0
+1427,Can't find joy anywhere.,0
+1428,I'm beyond done with this.,3
+1429,Speechless from this surprise.,5
+1430,I'm beyond done with this.,3
+1431,Life is such a gift!,1
+1432,Wish things would get better.,0
+1433,I'm at my limit with this!,3
+1434,All I feel is fear today.,4
+1435,This is too much to handle!,3
+1436,Today feels like a dream come true.,1
+1437,Wish things would get better.,0
+1438,Why can't I stop this panic?,4
+1439,The world feels dark right now.,0
+1440,Couldn't imagine a day without you.,2
+1441,How could this get any worse?,3
+1442,Couldn't imagine a day without you.,2
+1443,What an incredible twist!,5
+1444,Feeling incredibly blessed.,1
+1445,Can't find joy anywhere.,0
+1446,Why is everything so annoying?,3
+1447,There's so much to be thankful for!,1
+1448,"I'm frozen, fear is taking over.",4
+1449,"Surprise of the year, for sure!",5
+1450,I adore you beyond words.,2
+1451,So stunned I can't even react!,5
+1452,Love is everything with you.,2
+1453,I'm beyond done with this.,3
+1454,There's so much to be thankful for!,1
+1455,My heart overflows with love.,2
+1456,I didn't think this would happen!,5
+1457,Today feels like a dream come true.,1
+1458,Life is such a gift!,1
+1459,All I feel is fear today.,4
+1460,Feeling incredibly blessed.,1
+1461,Totally blindsided by this!,5
+1462,I just want to feel safe.,4
+1463,Today feels like a dream come true.,1
+1464,So grateful for today!,1
+1465,I'm at my limit with this!,3
+1466,I'm shocked beyond words!,5
+1467,"Heart feels heavy, can't shake it off.",0
+1468,Anger is all I feel right now!,3
+1469,My heart overflows with love.,2
+1470,Being with you makes life beautiful.,2
+1471,Love is everything with you.,2
+1472,Just can't stop this smile.,1
+1473,"I can't think, I'm so scared.",4
+1474,Can't find joy anywhere.,0
+1475,I'm shocked beyond words!,5
+1476,Feeling incredibly blessed.,1
+1477,There's so much to be thankful for!,1
+1478,You are my forever.,2
+1479,What an incredible twist!,5
+1480,The sadness feels overwhelming.,0
+1481,So stunned I can't even react!,5
+1482,I can't stand this nonsense.,3
+1483,Joy is filling my soul!,1
+1484,I just want to feel safe.,4
+1485,All I feel is fear today.,4
+1486,The world feels dark right now.,0
+1487,I'm struggling to see a way forward.,0
+1488,My heart overflows with love.,2
+1489,I just want to feel safe.,4
+1490,Life is such a gift!,1
+1491,I just want to feel safe.,4
+1492,I'm struggling to see a way forward.,0
+1493,Couldn't imagine a day without you.,2
+1494,Everything is going my way!,1
+1495,Never expected this at all!,5
+1496,Anger is all I feel right now!,3
+1497,Never expected this at all!,5
+1498,I'm shocked beyond words!,5
+1499,The world feels dark right now.,0
+1500,Love you more with each day.,2
+1501,My heart overflows with love.,2
+1502,So grateful for today!,1
+1503,Love is everything with you.,2
+1504,Can't stop the fear from rising.,4
+1505,I'm overwhelmed by fear.,4
+1506,This anxiety is unbearable.,4
+1507,I'm shocked beyond words!,5
+1508,"I can't think, I'm so scared.",4
+1509,"I can't think, I'm so scared.",4
+1510,The sadness feels overwhelming.,0
+1511,The sadness feels overwhelming.,0
+1512,I'm beyond done with this.,3
+1513,The world feels dark right now.,0
+1514,Every day feels harder.,0
+1515,Can't stop the fear from rising.,4
+1516,Joy is filling my soul!,1
+1517,What an incredible twist!,5
+1518,I'm at my limit with this!,3
+1519,Love is everything with you.,2
+1520,Life is weighing on me heavily.,0
+1521,So grateful for today!,1
+1522,I can't believe how happy I am!,1
+1523,So grateful for today!,1
+1524,In love with life!,1
+1525,You are my forever.,2
+1526,Love is everything with you.,2
+1527,Just can't stop this smile.,1
+1528,This anxiety is unbearable.,4
+1529,Love is everything with you.,2
+1530,Everything is going my way!,1
+1531,Why can't I stop this panic?,4
+1532,You make my heart soar.,2
+1533,Today feels like a dream come true.,1
+1534,You are my forever.,2
+1535,I'm at my limit with this!,3
+1536,I can't stand this nonsense.,3
+1537,All I feel is fear today.,4
+1538,Just can't stop this smile.,1
+1539,Feeling incredibly blessed.,1
+1540,Our love is a wonderful journey.,2
+1541,All I feel is fear today.,4
+1542,There's so much to be thankful for!,1
+1543,This dread won't go away.,4
+1544,Wish things would get better.,0
+1545,This is a surprise I wasn't ready for!,5
+1546,Speechless from this surprise.,5
+1547,How could this get any worse?,3
+1548,I can't believe how happy I am!,1
+1549,This dread won't go away.,4
+1550,Everything seems frightening right now.,4
+1551,I'm at my limit with this!,3
+1552,I can't stand this nonsense.,3
+1553,Life is such a gift!,1
+1554,Just can't stop this smile.,1
+1555,"I'm frozen, fear is taking over.",4
+1556,Why can't I stop this panic?,4
+1557,"I'm frozen, fear is taking over.",4
+1558,Joy is filling my soul!,1
+1559,Life's beautiful when you're in love.,2
+1560,Our love is a wonderful journey.,2
+1561,Everything seems frightening right now.,4
+1562,Can't stop the fear from rising.,4
+1563,You make my heart soar.,2
+1564,Tears come too easily today.,0
+1565,This is too much to handle!,3
+1566,I'm struggling to see a way forward.,0
+1567,This dread won't go away.,4
+1568,So irritated right now!,3
+1569,"Surprise of the year, for sure!",5
+1570,I'm beyond done with this.,3
+1571,I didn't think this would happen!,5
+1572,I adore you beyond words.,2
+1573,Life's beautiful when you're in love.,2
+1574,You make my heart soar.,2
+1575,Joy is filling my soul!,1
+1576,This anxiety is unbearable.,4
+1577,Our love is a wonderful journey.,2
+1578,I'm shocked beyond words!,5
+1579,Love you more with each day.,2
+1580,The world feels dark right now.,0
+1581,"I'm frozen, fear is taking over.",4
+1582,"I'm frozen, fear is taking over.",4
+1583,Life's beautiful when you're in love.,2
+1584,"Surprise of the year, for sure!",5
+1585,So irritated right now!,3
+1586,Anger is all I feel right now!,3
+1587,In love with life!,1
+1588,I can't believe how happy I am!,1
+1589,I didn't think this would happen!,5
+1590,"It's a tough day, feeling so lost.",0
+1591,Today feels like a dream come true.,1
+1592,Love is everything with you.,2
+1593,The world feels dark right now.,0
+1594,Why can't I stop this panic?,4
+1595,"Heart feels heavy, can't shake it off.",0
+1596,Infuriated doesn't even describe it!,3
+1597,This is too much to handle!,3
+1598,Life is such a gift!,1
+1599,Love you more with each day.,2
+1600,Can't find joy anywhere.,0
+1601,You make my heart soar.,2
+1602,Tears come too easily today.,0
+1603,So irritated right now!,3
+1604,Couldn't imagine a day without you.,2
+1605,Life is weighing on me heavily.,0
+1606,Life's beautiful when you're in love.,2
+1607,"I'm frozen, fear is taking over.",4
+1608,"Heart feels heavy, can't shake it off.",0
+1609,Can't stop the fear from rising.,4
+1610,I'm overwhelmed by fear.,4
+1611,This day has been nothing but frustration!,3
+1612,There's so much to be thankful for!,1
+1613,I adore you beyond words.,2
+1614,Being with you makes life beautiful.,2
+1615,Joy is filling my soul!,1
+1616,There's so much to be thankful for!,1
+1617,Can't stop the fear from rising.,4
+1618,In love with life!,1
+1619,This is a surprise I wasn't ready for!,5
+1620,This dread won't go away.,4
+1621,"I'm frozen, fear is taking over.",4
+1622,How could this get any worse?,3
+1623,I adore you beyond words.,2
+1624,What an incredible twist!,5
+1625,Why can't I stop this panic?,4
+1626,Today feels like a dream come true.,1
+1627,Everything is going my way!,1
+1628,Infuriated doesn't even describe it!,3
+1629,The sadness feels overwhelming.,0
+1630,Joy is filling my soul!,1
+1631,I'm beyond done with this.,3
+1632,I just want to feel safe.,4
+1633,In love with life!,1
+1634,My heart overflows with love.,2
+1635,Every day feels harder.,0
+1636,I'm beyond done with this.,3
+1637,The world feels dark right now.,0
+1638,Love you more with each day.,2
+1639,"Surprise of the year, for sure!",5
+1640,In love with life!,1
+1641,This is a surprise I wasn't ready for!,5
+1642,Totally blindsided by this!,5
+1643,This anxiety is unbearable.,4
+1644,Why can't I stop this panic?,4
+1645,Just can't stop this smile.,1
+1646,I'm at my limit with this!,3
+1647,This day has been nothing but frustration!,3
+1648,Can't stop the fear from rising.,4
+1649,Can't find joy anywhere.,0
+1650,"I'm frozen, fear is taking over.",4
+1651,The world feels dark right now.,0
+1652,"Surprise of the year, for sure!",5
+1653,Everything seems frightening right now.,4
+1654,I can't stand this nonsense.,3
+1655,This day has been nothing but frustration!,3
+1656,Life is weighing on me heavily.,0
+1657,Feeling incredibly blessed.,1
+1658,I didn't think this would happen!,5
+1659,Life is weighing on me heavily.,0
+1660,I'm shocked beyond words!,5
+1661,Love you more with each day.,2
+1662,This day has been nothing but frustration!,3
+1663,Didn't see that coming at all!,5
+1664,I adore you beyond words.,2
+1665,I'm overwhelmed by fear.,4
+1666,"Heart feels heavy, can't shake it off.",0
+1667,I can't believe how happy I am!,1
+1668,Joy is filling my soul!,1
+1669,So grateful for today!,1
+1670,This is too much to handle!,3
+1671,Totally blindsided by this!,5
+1672,"Surprise of the year, for sure!",5
+1673,I just want to feel safe.,4
+1674,Tears come too easily today.,0
+1675,The sadness feels overwhelming.,0
+1676,Infuriated doesn't even describe it!,3
+1677,Totally blindsided by this!,5
+1678,Tears come too easily today.,0
+1679,My heart overflows with love.,2
+1680,What an incredible twist!,5
+1681,I can't believe how happy I am!,1
+1682,Joy is filling my soul!,1
+1683,Our love is a wonderful journey.,2
+1684,Life is such a gift!,1
+1685,Love you more with each day.,2
+1686,"It's a tough day, feeling so lost.",0
+1687,Life's beautiful when you're in love.,2
+1688,Infuriated doesn't even describe it!,3
+1689,All I feel is fear today.,4
+1690,Why is everything so annoying?,3
+1691,"I'm frozen, fear is taking over.",4
+1692,Can't stop the fear from rising.,4
+1693,How could this get any worse?,3
+1694,Anger is all I feel right now!,3
+1695,Why is everything so annoying?,3
+1696,"It's a tough day, feeling so lost.",0
+1697,How could this get any worse?,3
+1698,Anger is all I feel right now!,3
+1699,So irritated right now!,3
+1700,"I'm frozen, fear is taking over.",4
+1701,Can't find joy anywhere.,0
+1702,So stunned I can't even react!,5
+1703,Life is weighing on me heavily.,0
+1704,I just want to feel safe.,4
+1705,Our love is a wonderful journey.,2
+1706,The world feels dark right now.,0
+1707,How could this get any worse?,3
+1708,There's so much to be thankful for!,1
+1709,"I can't think, I'm so scared.",4
+1710,This is a surprise I wasn't ready for!,5
+1711,Everything seems frightening right now.,4
+1712,Everything is going my way!,1
+1713,Life is weighing on me heavily.,0
+1714,Life is weighing on me heavily.,0
+1715,Being with you makes life beautiful.,2
+1716,"It's a tough day, feeling so lost.",0
+1717,This day has been nothing but frustration!,3
+1718,So irritated right now!,3
+1719,Never expected this at all!,5
+1720,"I can't think, I'm so scared.",4
+1721,The world feels dark right now.,0
+1722,Wish things would get better.,0
+1723,This is too much to handle!,3
+1724,Just can't stop this smile.,1
+1725,I'm beyond done with this.,3
+1726,This anxiety is unbearable.,4
+1727,Everything is going my way!,1
+1728,So grateful for today!,1
+1729,I'm at my limit with this!,3
+1730,What an incredible twist!,5
+1731,So irritated right now!,3
+1732,I'm struggling to see a way forward.,0
+1733,I'm shocked beyond words!,5
+1734,Every day feels harder.,0
+1735,I'm beyond done with this.,3
+1736,So irritated right now!,3
+1737,Being with you makes life beautiful.,2
+1738,Didn't see that coming at all!,5
+1739,So stunned I can't even react!,5
+1740,I'm struggling to see a way forward.,0
+1741,Never expected this at all!,5
+1742,The world feels dark right now.,0
+1743,Why can't I stop this panic?,4
+1744,So irritated right now!,3
+1745,So irritated right now!,3
+1746,Can't find joy anywhere.,0
+1747,Being with you makes life beautiful.,2
+1748,I'm overwhelmed by fear.,4
+1749,I just want to feel safe.,4
+1750,"Surprise of the year, for sure!",5
+1751,This dread won't go away.,4
+1752,Never expected this at all!,5
+1753,Can't find joy anywhere.,0
+1754,Every day feels harder.,0
+1755,This dread won't go away.,4
+1756,I didn't think this would happen!,5
+1757,Speechless from this surprise.,5
+1758,"Heart feels heavy, can't shake it off.",0
+1759,I just want to feel safe.,4
+1760,Infuriated doesn't even describe it!,3
+1761,"Surprise of the year, for sure!",5
+1762,All I feel is fear today.,4
+1763,Didn't see that coming at all!,5
+1764,You make my heart soar.,2
+1765,Wish things would get better.,0
+1766,You are my forever.,2
+1767,I can't believe how happy I am!,1
+1768,I'm struggling to see a way forward.,0
+1769,I'm at my limit with this!,3
+1770,This day has been nothing but frustration!,3
+1771,Our love is a wonderful journey.,2
+1772,Didn't see that coming at all!,5
+1773,There's so much to be thankful for!,1
+1774,I adore you beyond words.,2
+1775,"Surprise of the year, for sure!",5
+1776,"Surprise of the year, for sure!",5
+1777,All I feel is fear today.,4
+1778,Anger is all I feel right now!,3
+1779,You are my forever.,2
+1780,I'm at my limit with this!,3
+1781,Today feels like a dream come true.,1
+1782,Joy is filling my soul!,1
+1783,I'm struggling to see a way forward.,0
+1784,I didn't think this would happen!,5
+1785,Can't stop the fear from rising.,4
+1786,Why can't I stop this panic?,4
+1787,I'm struggling to see a way forward.,0
+1788,Wish things would get better.,0
+1789,This is a surprise I wasn't ready for!,5
+1790,Infuriated doesn't even describe it!,3
+1791,"It's a tough day, feeling so lost.",0
+1792,This day has been nothing but frustration!,3
+1793,Being with you makes life beautiful.,2
+1794,Never expected this at all!,5
+1795,"I can't think, I'm so scared.",4
+1796,Can't stop the fear from rising.,4
+1797,Can't stop the fear from rising.,4
+1798,"I can't think, I'm so scared.",4
+1799,In love with life!,1
+1800,"I'm frozen, fear is taking over.",4
+1801,I can't believe how happy I am!,1
+1802,I can't stand this nonsense.,3
+1803,This is a surprise I wasn't ready for!,5
+1804,"I can't think, I'm so scared.",4
+1805,Life's beautiful when you're in love.,2
+1806,I'm overwhelmed by fear.,4
+1807,"It's a tough day, feeling so lost.",0
+1808,What an incredible twist!,5
+1809,I adore you beyond words.,2
+1810,This anxiety is unbearable.,4
+1811,This day has been nothing but frustration!,3
+1812,Tears come too easily today.,0
+1813,Being with you makes life beautiful.,2
+1814,Life's beautiful when you're in love.,2
+1815,So grateful for today!,1
+1816,Why is everything so annoying?,3
+1817,This anxiety is unbearable.,4
+1818,Every day feels harder.,0
+1819,I'm at my limit with this!,3
+1820,Couldn't imagine a day without you.,2
+1821,"I can't think, I'm so scared.",4
+1822,What an incredible twist!,5
+1823,Infuriated doesn't even describe it!,3
+1824,You make my heart soar.,2
+1825,Love is everything with you.,2
+1826,Totally blindsided by this!,5
+1827,Can't find joy anywhere.,0
+1828,This is too much to handle!,3
+1829,Didn't see that coming at all!,5
+1830,Our love is a wonderful journey.,2
+1831,"I can't think, I'm so scared.",4
+1832,Why can't I stop this panic?,4
+1833,Can't find joy anywhere.,0
+1834,Life is such a gift!,1
+1835,All I feel is fear today.,4
+1836,You are my forever.,2
+1837,The sadness feels overwhelming.,0
+1838,Never expected this at all!,5
+1839,I'm at my limit with this!,3
+1840,There's so much to be thankful for!,1
+1841,Why is everything so annoying?,3
+1842,I'm overwhelmed by fear.,4
+1843,"Surprise of the year, for sure!",5
+1844,The world feels dark right now.,0
+1845,Wish things would get better.,0
+1846,This day has been nothing but frustration!,3
+1847,What an incredible twist!,5
+1848,"It's a tough day, feeling so lost.",0
+1849,What an incredible twist!,5
+1850,Speechless from this surprise.,5
+1851,Life is such a gift!,1
+1852,Love is everything with you.,2
+1853,Why is everything so annoying?,3
+1854,Everything seems frightening right now.,4
+1855,Today feels like a dream come true.,1
+1856,How could this get any worse?,3
+1857,Life is weighing on me heavily.,0
+1858,Life is weighing on me heavily.,0
+1859,Being with you makes life beautiful.,2
+1860,"I'm frozen, fear is taking over.",4
+1861,I can't believe how happy I am!,1
+1862,I can't believe how happy I am!,1
+1863,I'm beyond done with this.,3
+1864,Speechless from this surprise.,5
+1865,The world feels dark right now.,0
+1866,Life's beautiful when you're in love.,2
+1867,Totally blindsided by this!,5
+1868,Didn't see that coming at all!,5
+1869,Feeling incredibly blessed.,1
+1870,The sadness feels overwhelming.,0
+1871,"It's a tough day, feeling so lost.",0
+1872,This is a surprise I wasn't ready for!,5
+1873,Life's beautiful when you're in love.,2
+1874,Speechless from this surprise.,5
+1875,Every day feels harder.,0
+1876,Why is everything so annoying?,3
+1877,Tears come too easily today.,0
+1878,"It's a tough day, feeling so lost.",0
+1879,Why is everything so annoying?,3
+1880,I'm beyond done with this.,3
+1881,Everything seems frightening right now.,4
+1882,"I can't think, I'm so scared.",4
+1883,This is a surprise I wasn't ready for!,5
+1884,Every day feels harder.,0
+1885,I adore you beyond words.,2
+1886,I can't stand this nonsense.,3
+1887,This day has been nothing but frustration!,3
+1888,"Heart feels heavy, can't shake it off.",0
+1889,Today feels like a dream come true.,1
+1890,This dread won't go away.,4
+1891,This day has been nothing but frustration!,3
+1892,This is too much to handle!,3
+1893,Wish things would get better.,0
+1894,So stunned I can't even react!,5
+1895,This dread won't go away.,4
+1896,This dread won't go away.,4
+1897,I can't believe how happy I am!,1
+1898,My heart overflows with love.,2
+1899,Anger is all I feel right now!,3
+1900,"Heart feels heavy, can't shake it off.",0
+1901,I didn't think this would happen!,5
+1902,Anger is all I feel right now!,3
+1903,I didn't think this would happen!,5
+1904,I'm shocked beyond words!,5
+1905,Love you more with each day.,2
+1906,Just can't stop this smile.,1
+1907,Why is everything so annoying?,3
+1908,Life is weighing on me heavily.,0
+1909,Speechless from this surprise.,5
+1910,Feeling incredibly blessed.,1
+1911,This day has been nothing but frustration!,3
+1912,Infuriated doesn't even describe it!,3
+1913,Never expected this at all!,5
+1914,Tears come too easily today.,0
+1915,Everything is going my way!,1
+1916,You are my forever.,2
+1917,Life's beautiful when you're in love.,2
+1918,There's so much to be thankful for!,1
+1919,The world feels dark right now.,0
+1920,I'm struggling to see a way forward.,0
+1921,Why is everything so annoying?,3
+1922,Love is everything with you.,2
+1923,I can't stand this nonsense.,3
+1924,This day has been nothing but frustration!,3
+1925,You make my heart soar.,2
+1926,Didn't see that coming at all!,5
+1927,Couldn't imagine a day without you.,2
+1928,Joy is filling my soul!,1
+1929,I'm beyond done with this.,3
+1930,I didn't think this would happen!,5
+1931,I'm struggling to see a way forward.,0
+1932,Speechless from this surprise.,5
+1933,Speechless from this surprise.,5
+1934,I didn't think this would happen!,5
+1935,You make my heart soar.,2
+1936,Infuriated doesn't even describe it!,3
+1937,Infuriated doesn't even describe it!,3
+1938,Everything seems frightening right now.,4
+1939,I didn't think this would happen!,5
+1940,There's so much to be thankful for!,1
+1941,Our love is a wonderful journey.,2
+1942,Can't find joy anywhere.,0
+1943,I'm shocked beyond words!,5
+1944,The sadness feels overwhelming.,0
+1945,I can't believe how happy I am!,1
+1946,"I'm frozen, fear is taking over.",4
+1947,Why can't I stop this panic?,4
+1948,Couldn't imagine a day without you.,2
+1949,Everything is going my way!,1
+1950,I just want to feel safe.,4
+1951,Infuriated doesn't even describe it!,3
+1952,This day has been nothing but frustration!,3
+1953,All I feel is fear today.,4
+1954,"I'm frozen, fear is taking over.",4
+1955,Being with you makes life beautiful.,2
+1956,Why is everything so annoying?,3
+1957,Totally blindsided by this!,5
+1958,Infuriated doesn't even describe it!,3
+1959,Anger is all I feel right now!,3
+1960,"Surprise of the year, for sure!",5
+1961,I didn't think this would happen!,5
+1962,I adore you beyond words.,2
+1963,Love is everything with you.,2
+1964,Couldn't imagine a day without you.,2
+1965,Never expected this at all!,5
+1966,I'm overwhelmed by fear.,4
+1967,You are my forever.,2
+1968,I didn't think this would happen!,5
+1969,Feeling incredibly blessed.,1
+1970,"I can't think, I'm so scared.",4
+1971,The sadness feels overwhelming.,0
+1972,Feeling incredibly blessed.,1
+1973,So stunned I can't even react!,5
+1974,"Surprise of the year, for sure!",5
+1975,"I'm frozen, fear is taking over.",4
+1976,This is a surprise I wasn't ready for!,5
+1977,Never expected this at all!,5
+1978,Can't find joy anywhere.,0
+1979,What an incredible twist!,5
+1980,So irritated right now!,3
+1981,How could this get any worse?,3
+1982,Why can't I stop this panic?,4
+1983,Being with you makes life beautiful.,2
+1984,How could this get any worse?,3
+1985,I can't stand this nonsense.,3
+1986,So irritated right now!,3
+1987,Love you more with each day.,2
+1988,Feeling incredibly blessed.,1
+1989,Never expected this at all!,5
+1990,This is a surprise I wasn't ready for!,5
+1991,So irritated right now!,3
+1992,The world feels dark right now.,0
+1993,So irritated right now!,3
+1994,This day has been nothing but frustration!,3
+1995,Can't find joy anywhere.,0
+1996,Love you more with each day.,2
+1997,Can't stop the fear from rising.,4
+1998,In love with life!,1
+1999,Everything is going my way!,1
+2000,This is a surprise I wasn't ready for!,5
+2001,"Surprise of the year, for sure!",5
+2002,Anger is all I feel right now!,3
+2003,"I'm frozen, fear is taking over.",4
+2004,Life's beautiful when you're in love.,2
+2005,Wish things would get better.,0
+2006,In love with life!,1
+2007,Today feels like a dream come true.,1
+2008,You make my heart soar.,2
+2009,This is a surprise I wasn't ready for!,5
+2010,Feeling incredibly blessed.,1
+2011,Every day feels harder.,0
+2012,I'm struggling to see a way forward.,0
+2013,Can't stop the fear from rising.,4
+2014,You are my forever.,2
+2015,So irritated right now!,3
+2016,You are my forever.,2
+2017,Feeling incredibly blessed.,1
+2018,Love is everything with you.,2
+2019,Can't find joy anywhere.,0
+2020,So irritated right now!,3
+2021,Joy is filling my soul!,1
+2022,The world feels dark right now.,0
+2023,I didn't think this would happen!,5
+2024,This anxiety is unbearable.,4
+2025,I'm at my limit with this!,3
+2026,Why is everything so annoying?,3
+2027,Life's beautiful when you're in love.,2
+2028,Everything seems frightening right now.,4
+2029,I'm at my limit with this!,3
+2030,Life's beautiful when you're in love.,2
+2031,You are my forever.,2
+2032,This is too much to handle!,3
+2033,I adore you beyond words.,2
+2034,The world feels dark right now.,0
+2035,Never expected this at all!,5
+2036,Life's beautiful when you're in love.,2
+2037,"I can't think, I'm so scared.",4
+2038,I'm beyond done with this.,3
+2039,You make my heart soar.,2
+2040,Love you more with each day.,2
+2041,This is a surprise I wasn't ready for!,5
+2042,Every day feels harder.,0
+2043,Love you more with each day.,2
+2044,All I feel is fear today.,4
+2045,Never expected this at all!,5
+2046,Anger is all I feel right now!,3
+2047,There's so much to be thankful for!,1
+2048,So grateful for today!,1
+2049,This is a surprise I wasn't ready for!,5
+2050,Our love is a wonderful journey.,2
+2051,Speechless from this surprise.,5
+2052,Everything is going my way!,1
+2053,Why is everything so annoying?,3
+2054,So grateful for today!,1
+2055,I'm overwhelmed by fear.,4
+2056,Wish things would get better.,0
+2057,"I can't think, I'm so scared.",4
+2058,"Surprise of the year, for sure!",5
+2059,Couldn't imagine a day without you.,2
+2060,Love you more with each day.,2
+2061,In love with life!,1
+2062,How could this get any worse?,3
+2063,"I can't think, I'm so scared.",4
+2064,Today feels like a dream come true.,1
+2065,"It's a tough day, feeling so lost.",0
+2066,This is a surprise I wasn't ready for!,5
+2067,Wish things would get better.,0
+2068,Being with you makes life beautiful.,2
+2069,You are my forever.,2
+2070,Wish things would get better.,0
+2071,You make my heart soar.,2
+2072,Feeling incredibly blessed.,1
+2073,I just want to feel safe.,4
+2074,Everything seems frightening right now.,4
+2075,Wish things would get better.,0
+2076,I can't believe how happy I am!,1
+2077,I'm shocked beyond words!,5
+2078,I adore you beyond words.,2
+2079,Life is such a gift!,1
+2080,Love you more with each day.,2
+2081,All I feel is fear today.,4
+2082,I'm struggling to see a way forward.,0
+2083,I just want to feel safe.,4
+2084,I'm struggling to see a way forward.,0
+2085,Can't stop the fear from rising.,4
+2086,Our love is a wonderful journey.,2
+2087,"It's a tough day, feeling so lost.",0
+2088,Didn't see that coming at all!,5
+2089,Never expected this at all!,5
+2090,"Surprise of the year, for sure!",5
+2091,Love you more with each day.,2
+2092,Everything is going my way!,1
+2093,"I'm frozen, fear is taking over.",4
+2094,So grateful for today!,1
+2095,Can't stop the fear from rising.,4
+2096,You make my heart soar.,2
+2097,This day has been nothing but frustration!,3
+2098,You make my heart soar.,2
+2099,Why is everything so annoying?,3
+2100,Infuriated doesn't even describe it!,3
+2101,My heart overflows with love.,2
+2102,I didn't think this would happen!,5
+2103,In love with life!,1
+2104,Why can't I stop this panic?,4
+2105,The sadness feels overwhelming.,0
+2106,So stunned I can't even react!,5
+2107,The sadness feels overwhelming.,0
+2108,Just can't stop this smile.,1
+2109,The sadness feels overwhelming.,0
+2110,Life is weighing on me heavily.,0
+2111,I just want to feel safe.,4
+2112,"I'm frozen, fear is taking over.",4
+2113,All I feel is fear today.,4
+2114,Infuriated doesn't even describe it!,3
+2115,Just can't stop this smile.,1
+2116,Why can't I stop this panic?,4
+2117,This day has been nothing but frustration!,3
+2118,So irritated right now!,3
+2119,Anger is all I feel right now!,3
+2120,This day has been nothing but frustration!,3
+2121,This day has been nothing but frustration!,3
+2122,This anxiety is unbearable.,4
+2123,I'm beyond done with this.,3
+2124,I'm at my limit with this!,3
+2125,Tears come too easily today.,0
+2126,In love with life!,1
+2127,I can't believe how happy I am!,1
+2128,I'm at my limit with this!,3
+2129,Life is weighing on me heavily.,0
+2130,Just can't stop this smile.,1
+2131,I'm overwhelmed by fear.,4
+2132,Feeling incredibly blessed.,1
+2133,I can't stand this nonsense.,3
+2134,Can't stop the fear from rising.,4
+2135,Joy is filling my soul!,1
+2136,This anxiety is unbearable.,4
+2137,Tears come too easily today.,0
+2138,This is a surprise I wasn't ready for!,5
+2139,I'm at my limit with this!,3
+2140,Life is such a gift!,1
+2141,Joy is filling my soul!,1
+2142,Joy is filling my soul!,1
+2143,Everything is going my way!,1
+2144,Feeling incredibly blessed.,1
+2145,I'm at my limit with this!,3
+2146,Can't find joy anywhere.,0
+2147,The sadness feels overwhelming.,0
+2148,"Surprise of the year, for sure!",5
+2149,I can't believe how happy I am!,1
+2150,Joy is filling my soul!,1
+2151,Everything is going my way!,1
+2152,Every day feels harder.,0
+2153,My heart overflows with love.,2
+2154,Just can't stop this smile.,1
+2155,Why is everything so annoying?,3
+2156,Can't find joy anywhere.,0
+2157,Joy is filling my soul!,1
+2158,So grateful for today!,1
+2159,So grateful for today!,1
+2160,"Surprise of the year, for sure!",5
+2161,"I'm frozen, fear is taking over.",4
+2162,Can't find joy anywhere.,0
+2163,I adore you beyond words.,2
+2164,This is too much to handle!,3
+2165,You make my heart soar.,2
+2166,Life is such a gift!,1
+2167,Anger is all I feel right now!,3
+2168,In love with life!,1
+2169,In love with life!,1
+2170,Everything seems frightening right now.,4
+2171,Today feels like a dream come true.,1
+2172,I didn't think this would happen!,5
+2173,Why is everything so annoying?,3
+2174,Our love is a wonderful journey.,2
+2175,"Surprise of the year, for sure!",5
+2176,Why is everything so annoying?,3
+2177,This is too much to handle!,3
+2178,Joy is filling my soul!,1
+2179,Life is weighing on me heavily.,0
+2180,The world feels dark right now.,0
+2181,I can't believe how happy I am!,1
+2182,I'm struggling to see a way forward.,0
+2183,You make my heart soar.,2
+2184,Wish things would get better.,0
+2185,"Heart feels heavy, can't shake it off.",0
+2186,"I can't think, I'm so scared.",4
+2187,I can't stand this nonsense.,3
+2188,Can't stop the fear from rising.,4
+2189,So stunned I can't even react!,5
+2190,Didn't see that coming at all!,5
+2191,Why can't I stop this panic?,4
+2192,Everything seems frightening right now.,4
+2193,"It's a tough day, feeling so lost.",0
+2194,Our love is a wonderful journey.,2
+2195,What an incredible twist!,5
+2196,Wish things would get better.,0
+2197,Tears come too easily today.,0
+2198,You make my heart soar.,2
+2199,So grateful for today!,1
+2200,Couldn't imagine a day without you.,2
+2201,So stunned I can't even react!,5
+2202,Totally blindsided by this!,5
+2203,So grateful for today!,1
+2204,Being with you makes life beautiful.,2
+2205,The sadness feels overwhelming.,0
+2206,Didn't see that coming at all!,5
+2207,My heart overflows with love.,2
+2208,I'm at my limit with this!,3
+2209,I'm struggling to see a way forward.,0
+2210,I'm shocked beyond words!,5
+2211,"Heart feels heavy, can't shake it off.",0
+2212,Life's beautiful when you're in love.,2
+2213,Infuriated doesn't even describe it!,3
+2214,"I can't think, I'm so scared.",4
+2215,Anger is all I feel right now!,3
+2216,You are my forever.,2
+2217,I'm shocked beyond words!,5
+2218,Today feels like a dream come true.,1
+2219,Why can't I stop this panic?,4
+2220,Can't stop the fear from rising.,4
+2221,Totally blindsided by this!,5
+2222,There's so much to be thankful for!,1
+2223,This day has been nothing but frustration!,3
+2224,Didn't see that coming at all!,5
+2225,Can't find joy anywhere.,0
+2226,I'm shocked beyond words!,5
+2227,You are my forever.,2
+2228,You are my forever.,2
+2229,Life is weighing on me heavily.,0
+2230,There's so much to be thankful for!,1
+2231,I just want to feel safe.,4
+2232,I'm at my limit with this!,3
+2233,Everything seems frightening right now.,4
+2234,In love with life!,1
+2235,This dread won't go away.,4
+2236,Being with you makes life beautiful.,2
+2237,Why can't I stop this panic?,4
+2238,This is a surprise I wasn't ready for!,5
+2239,I'm overwhelmed by fear.,4
+2240,Love is everything with you.,2
+2241,The sadness feels overwhelming.,0
+2242,Love you more with each day.,2
+2243,The sadness feels overwhelming.,0
+2244,Totally blindsided by this!,5
+2245,"It's a tough day, feeling so lost.",0
+2246,I'm at my limit with this!,3
+2247,How could this get any worse?,3
+2248,Anger is all I feel right now!,3
+2249,I just want to feel safe.,4
+2250,Never expected this at all!,5
+2251,This dread won't go away.,4
+2252,I didn't think this would happen!,5
+2253,Infuriated doesn't even describe it!,3
+2254,I didn't think this would happen!,5
+2255,I'm shocked beyond words!,5
+2256,The world feels dark right now.,0
+2257,All I feel is fear today.,4
+2258,I adore you beyond words.,2
+2259,This day has been nothing but frustration!,3
+2260,All I feel is fear today.,4
+2261,Life is weighing on me heavily.,0
+2262,I'm shocked beyond words!,5
+2263,Our love is a wonderful journey.,2
+2264,Tears come too easily today.,0
+2265,This anxiety is unbearable.,4
+2266,I'm beyond done with this.,3
+2267,Life's beautiful when you're in love.,2
+2268,"Surprise of the year, for sure!",5
+2269,What an incredible twist!,5
+2270,Every day feels harder.,0
+2271,Tears come too easily today.,0
+2272,All I feel is fear today.,4
+2273,Feeling incredibly blessed.,1
+2274,Didn't see that coming at all!,5
+2275,I can't stand this nonsense.,3
+2276,Today feels like a dream come true.,1
+2277,So grateful for today!,1
+2278,This is too much to handle!,3
+2279,Life is such a gift!,1
+2280,"It's a tough day, feeling so lost.",0
+2281,Love you more with each day.,2
+2282,Speechless from this surprise.,5
+2283,Didn't see that coming at all!,5
+2284,I'm beyond done with this.,3
+2285,Infuriated doesn't even describe it!,3
+2286,Just can't stop this smile.,1
+2287,So stunned I can't even react!,5
+2288,There's so much to be thankful for!,1
+2289,Couldn't imagine a day without you.,2
+2290,This day has been nothing but frustration!,3
+2291,Just can't stop this smile.,1
+2292,Anger is all I feel right now!,3
+2293,Life's beautiful when you're in love.,2
+2294,Life's beautiful when you're in love.,2
+2295,What an incredible twist!,5
+2296,So grateful for today!,1
+2297,Tears come too easily today.,0
+2298,What an incredible twist!,5
+2299,Being with you makes life beautiful.,2
+2300,Today feels like a dream come true.,1
+2301,Love you more with each day.,2
+2302,Joy is filling my soul!,1
+2303,I just want to feel safe.,4
+2304,I can't stand this nonsense.,3
+2305,Love is everything with you.,2
+2306,Our love is a wonderful journey.,2
+2307,Life is weighing on me heavily.,0
+2308,I just want to feel safe.,4
+2309,So stunned I can't even react!,5
+2310,Joy is filling my soul!,1
+2311,Can't stop the fear from rising.,4
+2312,Tears come too easily today.,0
+2313,Just can't stop this smile.,1
+2314,Being with you makes life beautiful.,2
+2315,"I'm frozen, fear is taking over.",4
+2316,This is too much to handle!,3
+2317,Can't find joy anywhere.,0
+2318,Life is such a gift!,1
+2319,Can't stop the fear from rising.,4
+2320,Tears come too easily today.,0
+2321,Feeling incredibly blessed.,1
+2322,There's so much to be thankful for!,1
+2323,Every day feels harder.,0
+2324,So grateful for today!,1
+2325,My heart overflows with love.,2
+2326,What an incredible twist!,5
+2327,I'm beyond done with this.,3
+2328,I'm shocked beyond words!,5
+2329,Tears come too easily today.,0
+2330,How could this get any worse?,3
+2331,I'm beyond done with this.,3
+2332,Speechless from this surprise.,5
+2333,"I'm frozen, fear is taking over.",4
+2334,This anxiety is unbearable.,4
+2335,Couldn't imagine a day without you.,2
+2336,Infuriated doesn't even describe it!,3
+2337,Everything seems frightening right now.,4
+2338,What an incredible twist!,5
+2339,Just can't stop this smile.,1
+2340,I adore you beyond words.,2
+2341,Every day feels harder.,0
+2342,"It's a tough day, feeling so lost.",0
+2343,How could this get any worse?,3
+2344,Just can't stop this smile.,1
+2345,How could this get any worse?,3
+2346,You make my heart soar.,2
+2347,All I feel is fear today.,4
+2348,Our love is a wonderful journey.,2
+2349,How could this get any worse?,3
+2350,Totally blindsided by this!,5
+2351,Every day feels harder.,0
+2352,You are my forever.,2
+2353,"I can't think, I'm so scared.",4
+2354,You are my forever.,2
+2355,Can't stop the fear from rising.,4
+2356,Couldn't imagine a day without you.,2
+2357,My heart overflows with love.,2
+2358,You make my heart soar.,2
+2359,This anxiety is unbearable.,4
+2360,All I feel is fear today.,4
+2361,Can't stop the fear from rising.,4
+2362,This dread won't go away.,4
+2363,I'm shocked beyond words!,5
+2364,Love you more with each day.,2
+2365,What an incredible twist!,5
+2366,Wish things would get better.,0
+2367,Life's beautiful when you're in love.,2
+2368,Couldn't imagine a day without you.,2
+2369,"I can't think, I'm so scared.",4
+2370,Tears come too easily today.,0
+2371,I didn't think this would happen!,5
+2372,The world feels dark right now.,0
+2373,Life's beautiful when you're in love.,2
+2374,This day has been nothing but frustration!,3
+2375,Can't stop the fear from rising.,4
+2376,I'm struggling to see a way forward.,0
+2377,I can't stand this nonsense.,3
+2378,Today feels like a dream come true.,1
+2379,Why can't I stop this panic?,4
+2380,I'm shocked beyond words!,5
+2381,There's so much to be thankful for!,1
+2382,Love you more with each day.,2
+2383,My heart overflows with love.,2
+2384,This is a surprise I wasn't ready for!,5
+2385,I'm overwhelmed by fear.,4
+2386,Tears come too easily today.,0
+2387,Joy is filling my soul!,1
+2388,I'm beyond done with this.,3
+2389,Being with you makes life beautiful.,2
+2390,"Heart feels heavy, can't shake it off.",0
+2391,Feeling incredibly blessed.,1
+2392,This is too much to handle!,3
+2393,Today feels like a dream come true.,1
+2394,Joy is filling my soul!,1
+2395,I'm at my limit with this!,3
+2396,Everything is going my way!,1
+2397,This is a surprise I wasn't ready for!,5
+2398,This anxiety is unbearable.,4
+2399,So grateful for today!,1
+2400,Wish things would get better.,0
+2401,My heart overflows with love.,2
+2402,Anger is all I feel right now!,3
+2403,Speechless from this surprise.,5
+2404,Every day feels harder.,0
+2405,Life is such a gift!,1
+2406,Every day feels harder.,0
+2407,Anger is all I feel right now!,3
+2408,I'm beyond done with this.,3
+2409,How could this get any worse?,3
+2410,"It's a tough day, feeling so lost.",0
+2411,You make my heart soar.,2
+2412,Joy is filling my soul!,1
+2413,So stunned I can't even react!,5
+2414,Life is such a gift!,1
+2415,So stunned I can't even react!,5
+2416,Love you more with each day.,2
+2417,I just want to feel safe.,4
+2418,You are my forever.,2
+2419,"I can't think, I'm so scared.",4
+2420,Our love is a wonderful journey.,2
+2421,Every day feels harder.,0
+2422,Everything seems frightening right now.,4
+2423,Can't find joy anywhere.,0
+2424,This dread won't go away.,4
+2425,My heart overflows with love.,2
+2426,I can't stand this nonsense.,3
+2427,Everything seems frightening right now.,4
+2428,What an incredible twist!,5
+2429,I'm overwhelmed by fear.,4
+2430,Life is weighing on me heavily.,0
+2431,You make my heart soar.,2
+2432,"Heart feels heavy, can't shake it off.",0
+2433,This is a surprise I wasn't ready for!,5
+2434,Life is weighing on me heavily.,0
+2435,"Heart feels heavy, can't shake it off.",0
+2436,Infuriated doesn't even describe it!,3
+2437,So stunned I can't even react!,5
+2438,Feeling incredibly blessed.,1
+2439,So stunned I can't even react!,5
+2440,Anger is all I feel right now!,3
+2441,The sadness feels overwhelming.,0
+2442,I'm overwhelmed by fear.,4
+2443,The world feels dark right now.,0
+2444,Everything seems frightening right now.,4
+2445,I'm shocked beyond words!,5
+2446,This is a surprise I wasn't ready for!,5
+2447,"It's a tough day, feeling so lost.",0
+2448,Everything seems frightening right now.,4
+2449,What an incredible twist!,5
+2450,Anger is all I feel right now!,3
+2451,This day has been nothing but frustration!,3
+2452,I can't stand this nonsense.,3
+2453,I can't stand this nonsense.,3
+2454,Couldn't imagine a day without you.,2
+2455,This is a surprise I wasn't ready for!,5
+2456,Why is everything so annoying?,3
+2457,This anxiety is unbearable.,4
+2458,"Heart feels heavy, can't shake it off.",0
+2459,I'm overwhelmed by fear.,4
+2460,Love you more with each day.,2
+2461,I can't believe how happy I am!,1
+2462,There's so much to be thankful for!,1
+2463,Infuriated doesn't even describe it!,3
+2464,This anxiety is unbearable.,4
+2465,Just can't stop this smile.,1
+2466,Every day feels harder.,0
+2467,I can't stand this nonsense.,3
+2468,This is too much to handle!,3
+2469,Our love is a wonderful journey.,2
+2470,This is too much to handle!,3
+2471,You make my heart soar.,2
+2472,Life's beautiful when you're in love.,2
+2473,Today feels like a dream come true.,1
+2474,Why can't I stop this panic?,4
+2475,I'm at my limit with this!,3
+2476,"I'm frozen, fear is taking over.",4
+2477,You are my forever.,2
+2478,Feeling incredibly blessed.,1
+2479,Everything seems frightening right now.,4
+2480,I can't believe how happy I am!,1
+2481,"Surprise of the year, for sure!",5
+2482,Can't find joy anywhere.,0
+2483,This day has been nothing but frustration!,3
+2484,Wish things would get better.,0
+2485,"Surprise of the year, for sure!",5
+2486,Wish things would get better.,0
+2487,The sadness feels overwhelming.,0
+2488,Wish things would get better.,0
+2489,I'm shocked beyond words!,5
+2490,I'm shocked beyond words!,5
+2491,Can't stop the fear from rising.,4
+2492,This is too much to handle!,3
+2493,"Heart feels heavy, can't shake it off.",0
+2494,Why can't I stop this panic?,4
+2495,I'm overwhelmed by fear.,4
+2496,Joy is filling my soul!,1
+2497,I just want to feel safe.,4
+2498,I just want to feel safe.,4
+2499,Our love is a wonderful journey.,2
+2500,Never expected this at all!,5
+2501,Feeling incredibly blessed.,1
+2502,Tears come too easily today.,0
+2503,I adore you beyond words.,2
+2504,Being with you makes life beautiful.,2
+2505,Being with you makes life beautiful.,2
+2506,Our love is a wonderful journey.,2
+2507,Why is everything so annoying?,3
+2508,All I feel is fear today.,4
+2509,Why can't I stop this panic?,4
+2510,The world feels dark right now.,0
+2511,Can't find joy anywhere.,0
+2512,I'm beyond done with this.,3
+2513,Our love is a wonderful journey.,2
+2514,My heart overflows with love.,2
+2515,This day has been nothing but frustration!,3
+2516,How could this get any worse?,3
+2517,This is too much to handle!,3
+2518,I'm shocked beyond words!,5
+2519,"I'm frozen, fear is taking over.",4
+2520,Life's beautiful when you're in love.,2
+2521,"I can't think, I'm so scared.",4
+2522,I can't stand this nonsense.,3
+2523,Just can't stop this smile.,1
+2524,The world feels dark right now.,0
+2525,I'm struggling to see a way forward.,0
+2526,Just can't stop this smile.,1
+2527,I just want to feel safe.,4
+2528,You are my forever.,2
+2529,Life is such a gift!,1
+2530,Everything is going my way!,1
+2531,This is a surprise I wasn't ready for!,5
+2532,Joy is filling my soul!,1
+2533,Didn't see that coming at all!,5
+2534,Infuriated doesn't even describe it!,3
+2535,Every day feels harder.,0
+2536,Everything is going my way!,1
+2537,The world feels dark right now.,0
+2538,All I feel is fear today.,4
+2539,You make my heart soar.,2
+2540,I can't stand this nonsense.,3
+2541,Why is everything so annoying?,3
+2542,"It's a tough day, feeling so lost.",0
+2543,Infuriated doesn't even describe it!,3
+2544,Why is everything so annoying?,3
+2545,I'm at my limit with this!,3
+2546,Speechless from this surprise.,5
+2547,Never expected this at all!,5
+2548,Life is such a gift!,1
+2549,The world feels dark right now.,0
+2550,This dread won't go away.,4
+2551,All I feel is fear today.,4
+2552,So irritated right now!,3
+2553,Anger is all I feel right now!,3
+2554,Everything seems frightening right now.,4
+2555,Feeling incredibly blessed.,1
+2556,Speechless from this surprise.,5
+2557,Speechless from this surprise.,5
+2558,You are my forever.,2
+2559,Wish things would get better.,0
+2560,Why is everything so annoying?,3
+2561,I can't stand this nonsense.,3
+2562,Our love is a wonderful journey.,2
+2563,I'm shocked beyond words!,5
+2564,I adore you beyond words.,2
+2565,Speechless from this surprise.,5
+2566,Couldn't imagine a day without you.,2
+2567,All I feel is fear today.,4
+2568,Everything is going my way!,1
+2569,I can't believe how happy I am!,1
+2570,Never expected this at all!,5
+2571,Our love is a wonderful journey.,2
+2572,In love with life!,1
+2573,All I feel is fear today.,4
+2574,So grateful for today!,1
+2575,"I can't think, I'm so scared.",4
+2576,Feeling incredibly blessed.,1
+2577,Tears come too easily today.,0
+2578,Today feels like a dream come true.,1
+2579,"It's a tough day, feeling so lost.",0
+2580,This anxiety is unbearable.,4
+2581,Why can't I stop this panic?,4
+2582,I just want to feel safe.,4
+2583,The world feels dark right now.,0
+2584,You are my forever.,2
+2585,Life is weighing on me heavily.,0
+2586,Tears come too easily today.,0
+2587,Our love is a wonderful journey.,2
+2588,I'm struggling to see a way forward.,0
+2589,This anxiety is unbearable.,4
+2590,Speechless from this surprise.,5
+2591,Can't find joy anywhere.,0
+2592,I'm beyond done with this.,3
+2593,So grateful for today!,1
+2594,Just can't stop this smile.,1
+2595,There's so much to be thankful for!,1
+2596,This dread won't go away.,4
+2597,I'm struggling to see a way forward.,0
+2598,I'm overwhelmed by fear.,4
+2599,All I feel is fear today.,4
+2600,Today feels like a dream come true.,1
+2601,Anger is all I feel right now!,3
+2602,In love with life!,1
+2603,Everything is going my way!,1
+2604,Life is weighing on me heavily.,0
+2605,"Surprise of the year, for sure!",5
+2606,You are my forever.,2
+2607,This day has been nothing but frustration!,3
+2608,"I'm frozen, fear is taking over.",4
+2609,Didn't see that coming at all!,5
+2610,In love with life!,1
+2611,I adore you beyond words.,2
+2612,Can't stop the fear from rising.,4
+2613,Totally blindsided by this!,5
+2614,Every day feels harder.,0
+2615,I'm beyond done with this.,3
+2616,This dread won't go away.,4
+2617,My heart overflows with love.,2
+2618,My heart overflows with love.,2
+2619,How could this get any worse?,3
+2620,"I'm frozen, fear is taking over.",4
+2621,Wish things would get better.,0
+2622,So irritated right now!,3
+2623,All I feel is fear today.,4
+2624,So stunned I can't even react!,5
+2625,There's so much to be thankful for!,1
+2626,Tears come too easily today.,0
+2627,In love with life!,1
+2628,Tears come too easily today.,0
+2629,I adore you beyond words.,2
+2630,You make my heart soar.,2
+2631,I can't stand this nonsense.,3
+2632,This is too much to handle!,3
+2633,Never expected this at all!,5
+2634,You are my forever.,2
+2635,I can't believe how happy I am!,1
+2636,Being with you makes life beautiful.,2
+2637,Being with you makes life beautiful.,2
+2638,Couldn't imagine a day without you.,2
+2639,In love with life!,1
+2640,Our love is a wonderful journey.,2
+2641,Why is everything so annoying?,3
+2642,I can't believe how happy I am!,1
+2643,This anxiety is unbearable.,4
+2644,I just want to feel safe.,4
+2645,"I'm frozen, fear is taking over.",4
+2646,What an incredible twist!,5
+2647,Why is everything so annoying?,3
+2648,Life is weighing on me heavily.,0
+2649,I can't stand this nonsense.,3
+2650,This is a surprise I wasn't ready for!,5
+2651,"Heart feels heavy, can't shake it off.",0
+2652,Never expected this at all!,5
+2653,Can't find joy anywhere.,0
+2654,"Surprise of the year, for sure!",5
+2655,Every day feels harder.,0
+2656,Joy is filling my soul!,1
+2657,"I'm frozen, fear is taking over.",4
+2658,Can't find joy anywhere.,0
+2659,So grateful for today!,1
+2660,"I can't think, I'm so scared.",4
+2661,"Heart feels heavy, can't shake it off.",0
+2662,How could this get any worse?,3
+2663,Can't find joy anywhere.,0
+2664,Everything is going my way!,1
+2665,Every day feels harder.,0
+2666,Speechless from this surprise.,5
+2667,Infuriated doesn't even describe it!,3
+2668,Speechless from this surprise.,5
+2669,Feeling incredibly blessed.,1
+2670,So irritated right now!,3
+2671,The world feels dark right now.,0
+2672,Speechless from this surprise.,5
+2673,The sadness feels overwhelming.,0
+2674,This day has been nothing but frustration!,3
+2675,The world feels dark right now.,0
+2676,The sadness feels overwhelming.,0
+2677,I'm overwhelmed by fear.,4
+2678,What an incredible twist!,5
+2679,Speechless from this surprise.,5
+2680,There's so much to be thankful for!,1
+2681,Love is everything with you.,2
+2682,Life is such a gift!,1
+2683,The sadness feels overwhelming.,0
+2684,This is too much to handle!,3
+2685,I adore you beyond words.,2
+2686,I can't stand this nonsense.,3
+2687,So grateful for today!,1
+2688,Being with you makes life beautiful.,2
+2689,What an incredible twist!,5
+2690,I'm at my limit with this!,3
+2691,Joy is filling my soul!,1
+2692,This is a surprise I wasn't ready for!,5
+2693,Couldn't imagine a day without you.,2
+2694,You make my heart soar.,2
+2695,The world feels dark right now.,0
+2696,This anxiety is unbearable.,4
+2697,So grateful for today!,1
+2698,I can't believe how happy I am!,1
+2699,I'm overwhelmed by fear.,4
+2700,Never expected this at all!,5
+2701,Life is such a gift!,1
+2702,Life's beautiful when you're in love.,2
+2703,Love you more with each day.,2
+2704,Everything is going my way!,1
+2705,Never expected this at all!,5
+2706,I'm at my limit with this!,3
+2707,"Surprise of the year, for sure!",5
+2708,My heart overflows with love.,2
+2709,Couldn't imagine a day without you.,2
+2710,I'm shocked beyond words!,5
+2711,I can't believe how happy I am!,1
+2712,The world feels dark right now.,0
+2713,So irritated right now!,3
+2714,Every day feels harder.,0
+2715,Today feels like a dream come true.,1
+2716,"Heart feels heavy, can't shake it off.",0
+2717,Why can't I stop this panic?,4
+2718,My heart overflows with love.,2
+2719,Just can't stop this smile.,1
+2720,Just can't stop this smile.,1
+2721,I'm at my limit with this!,3
+2722,The world feels dark right now.,0
+2723,Anger is all I feel right now!,3
+2724,So grateful for today!,1
+2725,Tears come too easily today.,0
+2726,Life is weighing on me heavily.,0
+2727,"Heart feels heavy, can't shake it off.",0
+2728,Everything is going my way!,1
+2729,Why is everything so annoying?,3
+2730,This anxiety is unbearable.,4
+2731,Infuriated doesn't even describe it!,3
+2732,"Surprise of the year, for sure!",5
+2733,Everything is going my way!,1
+2734,"I can't think, I'm so scared.",4
+2735,Can't stop the fear from rising.,4
+2736,Every day feels harder.,0
+2737,My heart overflows with love.,2
+2738,Didn't see that coming at all!,5
+2739,Today feels like a dream come true.,1
+2740,"Heart feels heavy, can't shake it off.",0
+2741,This is a surprise I wasn't ready for!,5
+2742,This is a surprise I wasn't ready for!,5
+2743,Everything seems frightening right now.,4
+2744,Love is everything with you.,2
+2745,Infuriated doesn't even describe it!,3
+2746,Just can't stop this smile.,1
+2747,Today feels like a dream come true.,1
+2748,I just want to feel safe.,4
+2749,This dread won't go away.,4
+2750,There's so much to be thankful for!,1
+2751,"Heart feels heavy, can't shake it off.",0
+2752,Life is such a gift!,1
+2753,Couldn't imagine a day without you.,2
+2754,Infuriated doesn't even describe it!,3
+2755,This is a surprise I wasn't ready for!,5
+2756,Infuriated doesn't even describe it!,3
+2757,So grateful for today!,1
+2758,Totally blindsided by this!,5
+2759,I'm struggling to see a way forward.,0
+2760,So irritated right now!,3
+2761,You are my forever.,2
+2762,"It's a tough day, feeling so lost.",0
+2763,Love is everything with you.,2
+2764,This dread won't go away.,4
+2765,Life's beautiful when you're in love.,2
+2766,Tears come too easily today.,0
+2767,Love is everything with you.,2
+2768,So stunned I can't even react!,5
+2769,Life is such a gift!,1
+2770,Couldn't imagine a day without you.,2
+2771,"Heart feels heavy, can't shake it off.",0
+2772,In love with life!,1
+2773,Love is everything with you.,2
+2774,"I'm frozen, fear is taking over.",4
+2775,"I can't think, I'm so scared.",4
+2776,What an incredible twist!,5
+2777,Totally blindsided by this!,5
+2778,I'm at my limit with this!,3
+2779,Totally blindsided by this!,5
+2780,Everything seems frightening right now.,4
+2781,I'm shocked beyond words!,5
+2782,Every day feels harder.,0
+2783,"It's a tough day, feeling so lost.",0
+2784,Love is everything with you.,2
+2785,Today feels like a dream come true.,1
+2786,Can't find joy anywhere.,0
+2787,I'm beyond done with this.,3
+2788,This dread won't go away.,4
+2789,Life is such a gift!,1
+2790,Our love is a wonderful journey.,2
+2791,Life is such a gift!,1
+2792,I'm beyond done with this.,3
+2793,Joy is filling my soul!,1
+2794,Just can't stop this smile.,1
+2795,Love you more with each day.,2
+2796,Every day feels harder.,0
+2797,Didn't see that coming at all!,5
+2798,Can't find joy anywhere.,0
+2799,So irritated right now!,3
+2800,The sadness feels overwhelming.,0
+2801,Love is everything with you.,2
+2802,Life is such a gift!,1
+2803,"Heart feels heavy, can't shake it off.",0
+2804,I'm beyond done with this.,3
+2805,I adore you beyond words.,2
+2806,I'm struggling to see a way forward.,0
+2807,Why can't I stop this panic?,4
+2808,This anxiety is unbearable.,4
+2809,How could this get any worse?,3
+2810,Why is everything so annoying?,3
+2811,Life is such a gift!,1
+2812,Life's beautiful when you're in love.,2
+2813,This is too much to handle!,3
+2814,So grateful for today!,1
+2815,How could this get any worse?,3
+2816,I adore you beyond words.,2
+2817,Every day feels harder.,0
+2818,I'm overwhelmed by fear.,4
+2819,You make my heart soar.,2
+2820,"I can't think, I'm so scared.",4
+2821,Today feels like a dream come true.,1
+2822,Joy is filling my soul!,1
+2823,So stunned I can't even react!,5
+2824,This is too much to handle!,3
+2825,So irritated right now!,3
+2826,"It's a tough day, feeling so lost.",0
+2827,"I'm frozen, fear is taking over.",4
+2828,"Heart feels heavy, can't shake it off.",0
+2829,So grateful for today!,1
+2830,Can't find joy anywhere.,0
+2831,Just can't stop this smile.,1
+2832,I'm beyond done with this.,3
+2833,Life is weighing on me heavily.,0
+2834,"It's a tough day, feeling so lost.",0
+2835,Can't find joy anywhere.,0
+2836,So grateful for today!,1
+2837,Why is everything so annoying?,3
+2838,Anger is all I feel right now!,3
+2839,Can't stop the fear from rising.,4
+2840,Today feels like a dream come true.,1
+2841,This anxiety is unbearable.,4
+2842,I didn't think this would happen!,5
+2843,I didn't think this would happen!,5
+2844,This is too much to handle!,3
+2845,I'm struggling to see a way forward.,0
+2846,I can't believe how happy I am!,1
+2847,I'm at my limit with this!,3
+2848,Life is weighing on me heavily.,0
+2849,"Heart feels heavy, can't shake it off.",0
+2850,The world feels dark right now.,0
+2851,So irritated right now!,3
+2852,Why is everything so annoying?,3
+2853,This is a surprise I wasn't ready for!,5
+2854,The world feels dark right now.,0
+2855,Life is weighing on me heavily.,0
+2856,Infuriated doesn't even describe it!,3
+2857,Every day feels harder.,0
+2858,This is too much to handle!,3
+2859,So irritated right now!,3
+2860,So grateful for today!,1
+2861,Life is such a gift!,1
+2862,How could this get any worse?,3
+2863,This dread won't go away.,4
+2864,"It's a tough day, feeling so lost.",0
+2865,Wish things would get better.,0
+2866,All I feel is fear today.,4
+2867,Love is everything with you.,2
+2868,Life is such a gift!,1
+2869,How could this get any worse?,3
+2870,Why can't I stop this panic?,4
+2871,I'm shocked beyond words!,5
+2872,Wish things would get better.,0
+2873,This is a surprise I wasn't ready for!,5
+2874,So irritated right now!,3
+2875,I'm shocked beyond words!,5
+2876,Infuriated doesn't even describe it!,3
+2877,The sadness feels overwhelming.,0
+2878,Being with you makes life beautiful.,2
+2879,In love with life!,1
+2880,Didn't see that coming at all!,5
+2881,Speechless from this surprise.,5
+2882,Everything is going my way!,1
+2883,"I can't think, I'm so scared.",4
+2884,Just can't stop this smile.,1
+2885,Feeling incredibly blessed.,1
+2886,All I feel is fear today.,4
+2887,"I'm frozen, fear is taking over.",4
+2888,I adore you beyond words.,2
+2889,I can't believe how happy I am!,1
+2890,Being with you makes life beautiful.,2
+2891,I didn't think this would happen!,5
+2892,Never expected this at all!,5
+2893,In love with life!,1
+2894,Wish things would get better.,0
+2895,You make my heart soar.,2
+2896,Didn't see that coming at all!,5
+2897,Never expected this at all!,5
+2898,The sadness feels overwhelming.,0
+2899,Can't stop the fear from rising.,4
+2900,"It's a tough day, feeling so lost.",0
+2901,Every day feels harder.,0
+2902,Joy is filling my soul!,1
+2903,Feeling incredibly blessed.,1
+2904,How could this get any worse?,3
+2905,"Surprise of the year, for sure!",5
+2906,Infuriated doesn't even describe it!,3
+2907,Anger is all I feel right now!,3
+2908,"Heart feels heavy, can't shake it off.",0
+2909,"I can't think, I'm so scared.",4
+2910,"I'm frozen, fear is taking over.",4
+2911,You are my forever.,2
+2912,Love you more with each day.,2
+2913,My heart overflows with love.,2
+2914,I'm struggling to see a way forward.,0
+2915,Every day feels harder.,0
+2916,Joy is filling my soul!,1
+2917,Why is everything so annoying?,3
+2918,I can't believe how happy I am!,1
+2919,You make my heart soar.,2
+2920,I'm shocked beyond words!,5
+2921,I can't stand this nonsense.,3
+2922,Life is such a gift!,1
+2923,Didn't see that coming at all!,5
+2924,So irritated right now!,3
+2925,I'm overwhelmed by fear.,4
+2926,All I feel is fear today.,4
+2927,The world feels dark right now.,0
+2928,In love with life!,1
+2929,Why can't I stop this panic?,4
+2930,So irritated right now!,3
+2931,Couldn't imagine a day without you.,2
+2932,Our love is a wonderful journey.,2
+2933,I didn't think this would happen!,5
+2934,So stunned I can't even react!,5
+2935,How could this get any worse?,3
+2936,Can't find joy anywhere.,0
+2937,Tears come too easily today.,0
+2938,I'm beyond done with this.,3
+2939,My heart overflows with love.,2
+2940,So grateful for today!,1
+2941,Never expected this at all!,5
+2942,So stunned I can't even react!,5
+2943,Love you more with each day.,2
+2944,Being with you makes life beautiful.,2
+2945,Today feels like a dream come true.,1
+2946,Totally blindsided by this!,5
+2947,You make my heart soar.,2
+2948,I didn't think this would happen!,5
+2949,Life's beautiful when you're in love.,2
+2950,So irritated right now!,3
+2951,Totally blindsided by this!,5
+2952,Love you more with each day.,2
+2953,This anxiety is unbearable.,4
+2954,Didn't see that coming at all!,5
+2955,Totally blindsided by this!,5
+2956,You are my forever.,2
+2957,"I'm frozen, fear is taking over.",4
+2958,This anxiety is unbearable.,4
+2959,Anger is all I feel right now!,3
+2960,Life is such a gift!,1
+2961,I'm beyond done with this.,3
+2962,Tears come too easily today.,0
+2963,Wish things would get better.,0
+2964,Our love is a wonderful journey.,2
+2965,I didn't think this would happen!,5
+2966,"I'm frozen, fear is taking over.",4
+2967,You make my heart soar.,2
+2968,I'm overwhelmed by fear.,4
+2969,Couldn't imagine a day without you.,2
+2970,Never expected this at all!,5
+2971,Wish things would get better.,0
+2972,I didn't think this would happen!,5
+2973,I didn't think this would happen!,5
+2974,"I'm frozen, fear is taking over.",4
+2975,I'm struggling to see a way forward.,0
+2976,"It's a tough day, feeling so lost.",0
+2977,I can't believe how happy I am!,1
+2978,What an incredible twist!,5
+2979,I'm shocked beyond words!,5
+2980,Never expected this at all!,5
+2981,I didn't think this would happen!,5
+2982,What an incredible twist!,5
+2983,This dread won't go away.,4
+2984,There's so much to be thankful for!,1
+2985,I'm overwhelmed by fear.,4
+2986,You are my forever.,2
+2987,This day has been nothing but frustration!,3
+2988,Being with you makes life beautiful.,2
+2989,"I can't think, I'm so scared.",4
+2990,All I feel is fear today.,4
+2991,I can't believe how happy I am!,1
+2992,I'm struggling to see a way forward.,0
+2993,I'm at my limit with this!,3
+2994,This anxiety is unbearable.,4
+2995,How could this get any worse?,3
+2996,I can't believe how happy I am!,1
+2997,I'm at my limit with this!,3
+2998,The world feels dark right now.,0
+2999,Life's beautiful when you're in love.,2
+3000,There's so much to be thankful for!,1
+3001,Joy is filling my soul!,1
+3002,The sadness feels overwhelming.,0
+3003,Why can't I stop this panic?,4
+3004,This is too much to handle!,3
+3005,So stunned I can't even react!,5
+3006,Never expected this at all!,5
+3007,Never expected this at all!,5
+3008,This dread won't go away.,4
+3009,Everything is going my way!,1
+3010,This is a surprise I wasn't ready for!,5
+3011,This is too much to handle!,3
+3012,All I feel is fear today.,4
+3013,Feeling incredibly blessed.,1
+3014,Why can't I stop this panic?,4
+3015,"Surprise of the year, for sure!",5
+3016,So stunned I can't even react!,5
+3017,Joy is filling my soul!,1
+3018,This anxiety is unbearable.,4
+3019,The world feels dark right now.,0
+3020,Life's beautiful when you're in love.,2
+3021,Life is weighing on me heavily.,0
+3022,Our love is a wonderful journey.,2
+3023,"It's a tough day, feeling so lost.",0
+3024,Anger is all I feel right now!,3
+3025,I can't stand this nonsense.,3
+3026,Speechless from this surprise.,5
+3027,Totally blindsided by this!,5
+3028,This is too much to handle!,3
+3029,I can't stand this nonsense.,3
+3030,I can't believe how happy I am!,1
+3031,Everything seems frightening right now.,4
+3032,"I can't think, I'm so scared.",4
+3033,I adore you beyond words.,2
+3034,My heart overflows with love.,2
+3035,I'm overwhelmed by fear.,4
+3036,Speechless from this surprise.,5
+3037,Being with you makes life beautiful.,2
+3038,Never expected this at all!,5
+3039,So irritated right now!,3
+3040,Infuriated doesn't even describe it!,3
+3041,Anger is all I feel right now!,3
+3042,I didn't think this would happen!,5
+3043,This day has been nothing but frustration!,3
+3044,I'm overwhelmed by fear.,4
+3045,This day has been nothing but frustration!,3
+3046,Why can't I stop this panic?,4
+3047,"I can't think, I'm so scared.",4
+3048,The sadness feels overwhelming.,0
+3049,I'm shocked beyond words!,5
+3050,Totally blindsided by this!,5
+3051,Can't stop the fear from rising.,4
+3052,Life is weighing on me heavily.,0
+3053,Life is weighing on me heavily.,0
+3054,Just can't stop this smile.,1
+3055,This is too much to handle!,3
+3056,This day has been nothing but frustration!,3
+3057,So stunned I can't even react!,5
+3058,This is too much to handle!,3
+3059,Joy is filling my soul!,1
+3060,Didn't see that coming at all!,5
+3061,Life is weighing on me heavily.,0
+3062,Totally blindsided by this!,5
+3063,Our love is a wonderful journey.,2
+3064,There's so much to be thankful for!,1
+3065,Anger is all I feel right now!,3
+3066,This anxiety is unbearable.,4
+3067,This dread won't go away.,4
+3068,I'm struggling to see a way forward.,0
+3069,Life is weighing on me heavily.,0
+3070,I'm beyond done with this.,3
+3071,There's so much to be thankful for!,1
+3072,Why can't I stop this panic?,4
+3073,I can't stand this nonsense.,3
+3074,The sadness feels overwhelming.,0
+3075,This dread won't go away.,4
+3076,The sadness feels overwhelming.,0
+3077,Everything seems frightening right now.,4
+3078,The world feels dark right now.,0
+3079,I can't believe how happy I am!,1
+3080,All I feel is fear today.,4
+3081,The sadness feels overwhelming.,0
+3082,Infuriated doesn't even describe it!,3
+3083,Wish things would get better.,0
+3084,In love with life!,1
+3085,How could this get any worse?,3
+3086,I'm beyond done with this.,3
+3087,Everything is going my way!,1
+3088,"I can't think, I'm so scared.",4
+3089,Feeling incredibly blessed.,1
+3090,Feeling incredibly blessed.,1
+3091,I'm beyond done with this.,3
+3092,Couldn't imagine a day without you.,2
+3093,There's so much to be thankful for!,1
+3094,Infuriated doesn't even describe it!,3
+3095,Life's beautiful when you're in love.,2
+3096,"Surprise of the year, for sure!",5
+3097,"It's a tough day, feeling so lost.",0
+3098,Couldn't imagine a day without you.,2
+3099,There's so much to be thankful for!,1
+3100,This dread won't go away.,4
+3101,How could this get any worse?,3
+3102,Didn't see that coming at all!,5
+3103,"I'm frozen, fear is taking over.",4
+3104,Infuriated doesn't even describe it!,3
+3105,I just want to feel safe.,4
+3106,Life is such a gift!,1
+3107,You are my forever.,2
+3108,I'm overwhelmed by fear.,4
+3109,I'm struggling to see a way forward.,0
+3110,Totally blindsided by this!,5
+3111,Love is everything with you.,2
+3112,Can't find joy anywhere.,0
+3113,Totally blindsided by this!,5
+3114,I can't stand this nonsense.,3
+3115,So irritated right now!,3
+3116,Being with you makes life beautiful.,2
+3117,What an incredible twist!,5
+3118,So irritated right now!,3
+3119,I'm beyond done with this.,3
+3120,How could this get any worse?,3
+3121,Didn't see that coming at all!,5
+3122,Wish things would get better.,0
+3123,My heart overflows with love.,2
+3124,This anxiety is unbearable.,4
+3125,I'm struggling to see a way forward.,0
+3126,"I can't think, I'm so scared.",4
+3127,I can't stand this nonsense.,3
+3128,Couldn't imagine a day without you.,2
+3129,"It's a tough day, feeling so lost.",0
+3130,So stunned I can't even react!,5
+3131,So irritated right now!,3
+3132,Everything is going my way!,1
+3133,I didn't think this would happen!,5
+3134,Wish things would get better.,0
+3135,Love is everything with you.,2
+3136,My heart overflows with love.,2
+3137,Love is everything with you.,2
+3138,So irritated right now!,3
+3139,I'm at my limit with this!,3
+3140,Why is everything so annoying?,3
+3141,Totally blindsided by this!,5
+3142,Love you more with each day.,2
+3143,Just can't stop this smile.,1
+3144,So stunned I can't even react!,5
+3145,Love you more with each day.,2
+3146,"It's a tough day, feeling so lost.",0
+3147,Today feels like a dream come true.,1
+3148,Speechless from this surprise.,5
+3149,I'm beyond done with this.,3
+3150,"I'm frozen, fear is taking over.",4
+3151,Today feels like a dream come true.,1
+3152,Didn't see that coming at all!,5
+3153,In love with life!,1
+3154,"I can't think, I'm so scared.",4
+3155,So stunned I can't even react!,5
+3156,I'm at my limit with this!,3
+3157,I adore you beyond words.,2
+3158,This is a surprise I wasn't ready for!,5
+3159,What an incredible twist!,5
+3160,So irritated right now!,3
+3161,So stunned I can't even react!,5
+3162,Being with you makes life beautiful.,2
+3163,Speechless from this surprise.,5
+3164,Anger is all I feel right now!,3
+3165,Life is such a gift!,1
+3166,Today feels like a dream come true.,1
+3167,"It's a tough day, feeling so lost.",0
+3168,I'm shocked beyond words!,5
+3169,Everything seems frightening right now.,4
+3170,I can't stand this nonsense.,3
+3171,Life's beautiful when you're in love.,2
+3172,This dread won't go away.,4
+3173,Everything is going my way!,1
+3174,Love is everything with you.,2
+3175,What an incredible twist!,5
+3176,Tears come too easily today.,0
+3177,The sadness feels overwhelming.,0
+3178,Our love is a wonderful journey.,2
+3179,Everything is going my way!,1
+3180,So stunned I can't even react!,5
+3181,There's so much to be thankful for!,1
+3182,Everything is going my way!,1
+3183,The sadness feels overwhelming.,0
+3184,I'm shocked beyond words!,5
+3185,Everything seems frightening right now.,4
+3186,There's so much to be thankful for!,1
+3187,Can't stop the fear from rising.,4
+3188,Why can't I stop this panic?,4
+3189,Never expected this at all!,5
+3190,Everything seems frightening right now.,4
+3191,Life is weighing on me heavily.,0
+3192,Totally blindsided by this!,5
+3193,In love with life!,1
+3194,My heart overflows with love.,2
+3195,I adore you beyond words.,2
+3196,How could this get any worse?,3
+3197,What an incredible twist!,5
+3198,I just want to feel safe.,4
+3199,All I feel is fear today.,4
+3200,Why is everything so annoying?,3
+3201,Feeling incredibly blessed.,1
+3202,"Surprise of the year, for sure!",5
+3203,Tears come too easily today.,0
+3204,Anger is all I feel right now!,3
+3205,I just want to feel safe.,4
+3206,The sadness feels overwhelming.,0
+3207,What an incredible twist!,5
+3208,Tears come too easily today.,0
+3209,My heart overflows with love.,2
+3210,Couldn't imagine a day without you.,2
+3211,Life's beautiful when you're in love.,2
+3212,Life's beautiful when you're in love.,2
+3213,Didn't see that coming at all!,5
+3214,I just want to feel safe.,4
+3215,Love is everything with you.,2
+3216,So grateful for today!,1
+3217,Everything is going my way!,1
+3218,The sadness feels overwhelming.,0
+3219,This dread won't go away.,4
+3220,Why is everything so annoying?,3
+3221,Life is weighing on me heavily.,0
+3222,I'm shocked beyond words!,5
+3223,Can't find joy anywhere.,0
+3224,I'm shocked beyond words!,5
+3225,Love you more with each day.,2
+3226,I didn't think this would happen!,5
+3227,Life's beautiful when you're in love.,2
+3228,I just want to feel safe.,4
+3229,Every day feels harder.,0
+3230,"Heart feels heavy, can't shake it off.",0
+3231,This anxiety is unbearable.,4
+3232,So stunned I can't even react!,5
+3233,Love is everything with you.,2
+3234,You are my forever.,2
+3235,This is a surprise I wasn't ready for!,5
+3236,Wish things would get better.,0
+3237,Didn't see that coming at all!,5
+3238,Love you more with each day.,2
+3239,Couldn't imagine a day without you.,2
+3240,You make my heart soar.,2
+3241,Just can't stop this smile.,1
+3242,This dread won't go away.,4
+3243,This is a surprise I wasn't ready for!,5
+3244,Totally blindsided by this!,5
+3245,You are my forever.,2
+3246,The world feels dark right now.,0
+3247,I can't stand this nonsense.,3
+3248,Feeling incredibly blessed.,1
+3249,Can't find joy anywhere.,0
+3250,This day has been nothing but frustration!,3
+3251,"Surprise of the year, for sure!",5
+3252,Speechless from this surprise.,5
+3253,Couldn't imagine a day without you.,2
+3254,Can't find joy anywhere.,0
+3255,This dread won't go away.,4
+3256,Love is everything with you.,2
+3257,Infuriated doesn't even describe it!,3
+3258,Totally blindsided by this!,5
+3259,Can't find joy anywhere.,0
+3260,My heart overflows with love.,2
+3261,Being with you makes life beautiful.,2
+3262,"Heart feels heavy, can't shake it off.",0
+3263,Just can't stop this smile.,1
+3264,So grateful for today!,1
+3265,I'm struggling to see a way forward.,0
+3266,Why is everything so annoying?,3
+3267,Speechless from this surprise.,5
+3268,The world feels dark right now.,0
+3269,"Surprise of the year, for sure!",5
+3270,Why can't I stop this panic?,4
+3271,Everything seems frightening right now.,4
+3272,Today feels like a dream come true.,1
+3273,Never expected this at all!,5
+3274,Being with you makes life beautiful.,2
+3275,Tears come too easily today.,0
+3276,Totally blindsided by this!,5
+3277,Tears come too easily today.,0
+3278,"Surprise of the year, for sure!",5
+3279,Everything is going my way!,1
+3280,Everything seems frightening right now.,4
+3281,Love you more with each day.,2
+3282,Today feels like a dream come true.,1
+3283,Joy is filling my soul!,1
+3284,The world feels dark right now.,0
+3285,What an incredible twist!,5
+3286,I'm shocked beyond words!,5
+3287,Why is everything so annoying?,3
+3288,Joy is filling my soul!,1
+3289,Love is everything with you.,2
+3290,So grateful for today!,1
+3291,Being with you makes life beautiful.,2
+3292,Feeling incredibly blessed.,1
+3293,Never expected this at all!,5
+3294,I can't stand this nonsense.,3
+3295,Just can't stop this smile.,1
+3296,"Heart feels heavy, can't shake it off.",0
+3297,Why can't I stop this panic?,4
+3298,Feeling incredibly blessed.,1
+3299,Speechless from this surprise.,5
+3300,This day has been nothing but frustration!,3
+3301,I just want to feel safe.,4
+3302,Totally blindsided by this!,5
+3303,This is too much to handle!,3
+3304,All I feel is fear today.,4
+3305,Our love is a wonderful journey.,2
+3306,In love with life!,1
+3307,I just want to feel safe.,4
+3308,Couldn't imagine a day without you.,2
+3309,Totally blindsided by this!,5
+3310,I adore you beyond words.,2
+3311,Life is weighing on me heavily.,0
+3312,Feeling incredibly blessed.,1
+3313,Couldn't imagine a day without you.,2
+3314,I'm overwhelmed by fear.,4
+3315,So irritated right now!,3
+3316,I'm overwhelmed by fear.,4
+3317,All I feel is fear today.,4
+3318,This is a surprise I wasn't ready for!,5
+3319,Why can't I stop this panic?,4
+3320,So irritated right now!,3
+3321,Anger is all I feel right now!,3
+3322,"I'm frozen, fear is taking over.",4
+3323,This day has been nothing but frustration!,3
+3324,Couldn't imagine a day without you.,2
+3325,This dread won't go away.,4
+3326,Love is everything with you.,2
+3327,I'm struggling to see a way forward.,0
+3328,So irritated right now!,3
+3329,Tears come too easily today.,0
+3330,Feeling incredibly blessed.,1
+3331,Life is weighing on me heavily.,0
+3332,So grateful for today!,1
+3333,This is a surprise I wasn't ready for!,5
+3334,Love is everything with you.,2
+3335,Life is weighing on me heavily.,0
+3336,Can't stop the fear from rising.,4
+3337,The sadness feels overwhelming.,0
+3338,Can't stop the fear from rising.,4
+3339,I'm at my limit with this!,3
+3340,Love you more with each day.,2
+3341,Anger is all I feel right now!,3
+3342,Never expected this at all!,5
+3343,Just can't stop this smile.,1
+3344,There's so much to be thankful for!,1
+3345,I'm struggling to see a way forward.,0
+3346,Joy is filling my soul!,1
+3347,I'm at my limit with this!,3
+3348,So grateful for today!,1
+3349,Anger is all I feel right now!,3
+3350,What an incredible twist!,5
+3351,Every day feels harder.,0
+3352,Love you more with each day.,2
+3353,I'm beyond done with this.,3
+3354,How could this get any worse?,3
+3355,I'm overwhelmed by fear.,4
+3356,So stunned I can't even react!,5
+3357,I didn't think this would happen!,5
+3358,There's so much to be thankful for!,1
+3359,This is a surprise I wasn't ready for!,5
+3360,Totally blindsided by this!,5
+3361,This dread won't go away.,4
+3362,I just want to feel safe.,4
+3363,Love you more with each day.,2
+3364,I can't believe how happy I am!,1
+3365,I didn't think this would happen!,5
+3366,I'm overwhelmed by fear.,4
+3367,"Surprise of the year, for sure!",5
+3368,This is too much to handle!,3
+3369,Today feels like a dream come true.,1
+3370,"I'm frozen, fear is taking over.",4
+3371,Feeling incredibly blessed.,1
+3372,Life is such a gift!,1
+3373,"Surprise of the year, for sure!",5
+3374,I didn't think this would happen!,5
+3375,Our love is a wonderful journey.,2
+3376,Can't stop the fear from rising.,4
+3377,I'm at my limit with this!,3
+3378,All I feel is fear today.,4
+3379,I'm overwhelmed by fear.,4
+3380,"Surprise of the year, for sure!",5
+3381,Speechless from this surprise.,5
+3382,My heart overflows with love.,2
+3383,Being with you makes life beautiful.,2
+3384,You make my heart soar.,2
+3385,I'm overwhelmed by fear.,4
+3386,Joy is filling my soul!,1
+3387,Wish things would get better.,0
+3388,So stunned I can't even react!,5
+3389,"Surprise of the year, for sure!",5
+3390,"I can't think, I'm so scared.",4
+3391,Everything is going my way!,1
+3392,"Heart feels heavy, can't shake it off.",0
+3393,In love with life!,1
+3394,Everything is going my way!,1
+3395,"Heart feels heavy, can't shake it off.",0
+3396,What an incredible twist!,5
+3397,Just can't stop this smile.,1
+3398,There's so much to be thankful for!,1
+3399,Didn't see that coming at all!,5
+3400,I can't stand this nonsense.,3
+3401,Why is everything so annoying?,3
+3402,I adore you beyond words.,2
+3403,Infuriated doesn't even describe it!,3
+3404,Why can't I stop this panic?,4
+3405,Why is everything so annoying?,3
+3406,Everything is going my way!,1
+3407,Can't stop the fear from rising.,4
+3408,So grateful for today!,1
+3409,How could this get any worse?,3
+3410,Everything seems frightening right now.,4
+3411,I'm at my limit with this!,3
+3412,There's so much to be thankful for!,1
+3413,This dread won't go away.,4
+3414,Everything seems frightening right now.,4
+3415,There's so much to be thankful for!,1
+3416,I'm struggling to see a way forward.,0
+3417,Can't stop the fear from rising.,4
+3418,My heart overflows with love.,2
+3419,I'm beyond done with this.,3
+3420,I adore you beyond words.,2
+3421,Everything seems frightening right now.,4
+3422,This dread won't go away.,4
+3423,"I can't think, I'm so scared.",4
+3424,Love is everything with you.,2
+3425,Never expected this at all!,5
+3426,This day has been nothing but frustration!,3
+3427,I'm beyond done with this.,3
+3428,This anxiety is unbearable.,4
+3429,Today feels like a dream come true.,1
+3430,I'm shocked beyond words!,5
+3431,"Surprise of the year, for sure!",5
+3432,I can't believe how happy I am!,1
+3433,Being with you makes life beautiful.,2
+3434,Every day feels harder.,0
+3435,This anxiety is unbearable.,4
+3436,I adore you beyond words.,2
+3437,I'm overwhelmed by fear.,4
+3438,This anxiety is unbearable.,4
+3439,Love is everything with you.,2
+3440,Love is everything with you.,2
+3441,Can't stop the fear from rising.,4
+3442,I didn't think this would happen!,5
+3443,Life is such a gift!,1
+3444,So irritated right now!,3
+3445,Totally blindsided by this!,5
+3446,Everything is going my way!,1
+3447,You are my forever.,2
+3448,I can't stand this nonsense.,3
+3449,This is too much to handle!,3
+3450,Infuriated doesn't even describe it!,3
+3451,Love is everything with you.,2
+3452,Why can't I stop this panic?,4
+3453,Didn't see that coming at all!,5
+3454,Couldn't imagine a day without you.,2
+3455,Can't stop the fear from rising.,4
+3456,You make my heart soar.,2
+3457,In love with life!,1
+3458,I just want to feel safe.,4
+3459,Being with you makes life beautiful.,2
+3460,"It's a tough day, feeling so lost.",0
+3461,There's so much to be thankful for!,1
+3462,Can't stop the fear from rising.,4
+3463,All I feel is fear today.,4
+3464,This is a surprise I wasn't ready for!,5
+3465,Life is such a gift!,1
+3466,This dread won't go away.,4
+3467,"Heart feels heavy, can't shake it off.",0
+3468,Today feels like a dream come true.,1
+3469,My heart overflows with love.,2
+3470,This day has been nothing but frustration!,3
+3471,Didn't see that coming at all!,5
+3472,I'm beyond done with this.,3
+3473,You are my forever.,2
+3474,The sadness feels overwhelming.,0
+3475,In love with life!,1
+3476,Life's beautiful when you're in love.,2
+3477,Being with you makes life beautiful.,2
+3478,All I feel is fear today.,4
+3479,Never expected this at all!,5
+3480,Life is weighing on me heavily.,0
+3481,I can't believe how happy I am!,1
+3482,I can't believe how happy I am!,1
+3483,I just want to feel safe.,4
+3484,I'm overwhelmed by fear.,4
+3485,Anger is all I feel right now!,3
+3486,I adore you beyond words.,2
+3487,Anger is all I feel right now!,3
+3488,My heart overflows with love.,2
+3489,"I'm frozen, fear is taking over.",4
+3490,This anxiety is unbearable.,4
+3491,Our love is a wonderful journey.,2
+3492,Our love is a wonderful journey.,2
+3493,My heart overflows with love.,2
+3494,I'm at my limit with this!,3
+3495,This is too much to handle!,3
+3496,In love with life!,1
+3497,Totally blindsided by this!,5
+3498,You make my heart soar.,2
+3499,Love is everything with you.,2
+3500,So grateful for today!,1
+3501,How could this get any worse?,3
+3502,This day has been nothing but frustration!,3
+3503,You make my heart soar.,2
+3504,All I feel is fear today.,4
+3505,Today feels like a dream come true.,1
+3506,I just want to feel safe.,4
+3507,This day has been nothing but frustration!,3
+3508,Anger is all I feel right now!,3
+3509,This day has been nothing but frustration!,3
+3510,Today feels like a dream come true.,1
+3511,Being with you makes life beautiful.,2
+3512,So grateful for today!,1
+3513,I just want to feel safe.,4
+3514,This day has been nothing but frustration!,3
+3515,Why can't I stop this panic?,4
+3516,Wish things would get better.,0
+3517,Joy is filling my soul!,1
+3518,Wish things would get better.,0
+3519,Didn't see that coming at all!,5
+3520,Didn't see that coming at all!,5
+3521,I didn't think this would happen!,5
+3522,"It's a tough day, feeling so lost.",0
+3523,In love with life!,1
+3524,Life is such a gift!,1
+3525,"Heart feels heavy, can't shake it off.",0
+3526,Life is such a gift!,1
+3527,How could this get any worse?,3
+3528,"Surprise of the year, for sure!",5
+3529,I'm overwhelmed by fear.,4
+3530,I just want to feel safe.,4
+3531,Joy is filling my soul!,1
+3532,I adore you beyond words.,2
+3533,The world feels dark right now.,0
+3534,Life's beautiful when you're in love.,2
+3535,"I can't think, I'm so scared.",4
+3536,I adore you beyond words.,2
+3537,Life's beautiful when you're in love.,2
+3538,"Surprise of the year, for sure!",5
+3539,Everything is going my way!,1
+3540,This dread won't go away.,4
+3541,Love is everything with you.,2
+3542,There's so much to be thankful for!,1
+3543,Can't stop the fear from rising.,4
+3544,Can't stop the fear from rising.,4
+3545,I'm overwhelmed by fear.,4
+3546,Life is such a gift!,1
+3547,Wish things would get better.,0
+3548,I can't stand this nonsense.,3
+3549,Why can't I stop this panic?,4
+3550,The sadness feels overwhelming.,0
+3551,In love with life!,1
+3552,You make my heart soar.,2
+3553,Why can't I stop this panic?,4
+3554,Never expected this at all!,5
+3555,I can't believe how happy I am!,1
+3556,Love is everything with you.,2
+3557,I can't stand this nonsense.,3
+3558,I adore you beyond words.,2
+3559,Speechless from this surprise.,5
+3560,"I'm frozen, fear is taking over.",4
+3561,Infuriated doesn't even describe it!,3
+3562,"Heart feels heavy, can't shake it off.",0
+3563,Wish things would get better.,0
+3564,I'm beyond done with this.,3
+3565,Couldn't imagine a day without you.,2
+3566,Life is such a gift!,1
+3567,Totally blindsided by this!,5
+3568,"I can't think, I'm so scared.",4
+3569,You are my forever.,2
+3570,Didn't see that coming at all!,5
+3571,I'm at my limit with this!,3
+3572,You are my forever.,2
+3573,In love with life!,1
+3574,So stunned I can't even react!,5
+3575,"It's a tough day, feeling so lost.",0
+3576,Speechless from this surprise.,5
+3577,Couldn't imagine a day without you.,2
+3578,I adore you beyond words.,2
+3579,This is too much to handle!,3
+3580,"I'm frozen, fear is taking over.",4
+3581,Everything seems frightening right now.,4
+3582,Tears come too easily today.,0
+3583,Life's beautiful when you're in love.,2
+3584,Life is weighing on me heavily.,0
+3585,Everything seems frightening right now.,4
+3586,Life's beautiful when you're in love.,2
+3587,This is a surprise I wasn't ready for!,5
+3588,This dread won't go away.,4
+3589,I adore you beyond words.,2
+3590,"It's a tough day, feeling so lost.",0
+3591,What an incredible twist!,5
+3592,You make my heart soar.,2
+3593,Can't find joy anywhere.,0
+3594,I adore you beyond words.,2
+3595,"I can't think, I'm so scared.",4
+3596,I'm shocked beyond words!,5
+3597,"Surprise of the year, for sure!",5
+3598,This dread won't go away.,4
+3599,This dread won't go away.,4
+3600,Can't find joy anywhere.,0
+3601,In love with life!,1
+3602,I can't believe how happy I am!,1
+3603,Just can't stop this smile.,1
+3604,I'm struggling to see a way forward.,0
+3605,"I'm frozen, fear is taking over.",4
+3606,"Heart feels heavy, can't shake it off.",0
+3607,I'm overwhelmed by fear.,4
+3608,Totally blindsided by this!,5
+3609,Today feels like a dream come true.,1
+3610,Why is everything so annoying?,3
+3611,I'm overwhelmed by fear.,4
+3612,"It's a tough day, feeling so lost.",0
+3613,"I can't think, I'm so scared.",4
+3614,Life's beautiful when you're in love.,2
+3615,This dread won't go away.,4
+3616,I'm at my limit with this!,3
+3617,There's so much to be thankful for!,1
+3618,Being with you makes life beautiful.,2
+3619,My heart overflows with love.,2
+3620,Totally blindsided by this!,5
+3621,I can't stand this nonsense.,3
+3622,Why is everything so annoying?,3
+3623,Tears come too easily today.,0
+3624,This is too much to handle!,3
+3625,"Heart feels heavy, can't shake it off.",0
+3626,Didn't see that coming at all!,5
+3627,Our love is a wonderful journey.,2
+3628,What an incredible twist!,5
+3629,Totally blindsided by this!,5
+3630,Everything is going my way!,1
+3631,I'm struggling to see a way forward.,0
+3632,In love with life!,1
+3633,Why can't I stop this panic?,4
+3634,What an incredible twist!,5
+3635,All I feel is fear today.,4
+3636,Why is everything so annoying?,3
+3637,I can't believe how happy I am!,1
+3638,Speechless from this surprise.,5
+3639,So irritated right now!,3
+3640,Joy is filling my soul!,1
+3641,I just want to feel safe.,4
+3642,All I feel is fear today.,4
+3643,"I can't think, I'm so scared.",4
+3644,I just want to feel safe.,4
+3645,Our love is a wonderful journey.,2
+3646,The world feels dark right now.,0
+3647,"It's a tough day, feeling so lost.",0
+3648,This anxiety is unbearable.,4
+3649,Life's beautiful when you're in love.,2
+3650,Life's beautiful when you're in love.,2
+3651,Just can't stop this smile.,1
+3652,You are my forever.,2
+3653,Love you more with each day.,2
+3654,Being with you makes life beautiful.,2
+3655,Never expected this at all!,5
+3656,"Surprise of the year, for sure!",5
+3657,This anxiety is unbearable.,4
+3658,Can't find joy anywhere.,0
+3659,This anxiety is unbearable.,4
+3660,"It's a tough day, feeling so lost.",0
+3661,You are my forever.,2
+3662,This day has been nothing but frustration!,3
+3663,Everything seems frightening right now.,4
+3664,"It's a tough day, feeling so lost.",0
+3665,This is too much to handle!,3
+3666,This anxiety is unbearable.,4
+3667,The world feels dark right now.,0
+3668,Wish things would get better.,0
+3669,I didn't think this would happen!,5
+3670,This anxiety is unbearable.,4
+3671,There's so much to be thankful for!,1
+3672,Speechless from this surprise.,5
+3673,Everything is going my way!,1
+3674,Totally blindsided by this!,5
+3675,"Heart feels heavy, can't shake it off.",0
+3676,Just can't stop this smile.,1
+3677,Life is such a gift!,1
+3678,The sadness feels overwhelming.,0
+3679,Life is weighing on me heavily.,0
+3680,This day has been nothing but frustration!,3
+3681,Love you more with each day.,2
+3682,Speechless from this surprise.,5
+3683,So stunned I can't even react!,5
+3684,Anger is all I feel right now!,3
+3685,Never expected this at all!,5
+3686,This is a surprise I wasn't ready for!,5
+3687,Life is such a gift!,1
+3688,What an incredible twist!,5
+3689,I'm struggling to see a way forward.,0
+3690,Every day feels harder.,0
+3691,So stunned I can't even react!,5
+3692,So stunned I can't even react!,5
+3693,You are my forever.,2
+3694,Can't stop the fear from rising.,4
+3695,Why is everything so annoying?,3
+3696,I'm at my limit with this!,3
+3697,In love with life!,1
+3698,Today feels like a dream come true.,1
+3699,Anger is all I feel right now!,3
+3700,Speechless from this surprise.,5
+3701,I'm struggling to see a way forward.,0
+3702,Infuriated doesn't even describe it!,3
+3703,My heart overflows with love.,2
+3704,My heart overflows with love.,2
+3705,This is too much to handle!,3
+3706,Didn't see that coming at all!,5
+3707,This is too much to handle!,3
+3708,The sadness feels overwhelming.,0
+3709,You are my forever.,2
+3710,I didn't think this would happen!,5
+3711,I can't believe how happy I am!,1
+3712,I adore you beyond words.,2
+3713,I'm beyond done with this.,3
+3714,Love you more with each day.,2
+3715,What an incredible twist!,5
+3716,I can't believe how happy I am!,1
+3717,I didn't think this would happen!,5
+3718,Love is everything with you.,2
+3719,I can't believe how happy I am!,1
+3720,Today feels like a dream come true.,1
+3721,I just want to feel safe.,4
+3722,Didn't see that coming at all!,5
+3723,Didn't see that coming at all!,5
+3724,The sadness feels overwhelming.,0
+3725,Wish things would get better.,0
+3726,So grateful for today!,1
+3727,So stunned I can't even react!,5
+3728,So irritated right now!,3
+3729,What an incredible twist!,5
+3730,Can't find joy anywhere.,0
+3731,Just can't stop this smile.,1
+3732,In love with life!,1
+3733,Wish things would get better.,0
+3734,Speechless from this surprise.,5
+3735,There's so much to be thankful for!,1
+3736,Feeling incredibly blessed.,1
+3737,Anger is all I feel right now!,3
+3738,I didn't think this would happen!,5
+3739,Joy is filling my soul!,1
+3740,I'm shocked beyond words!,5
+3741,I can't believe how happy I am!,1
+3742,I adore you beyond words.,2
+3743,The world feels dark right now.,0
+3744,Couldn't imagine a day without you.,2
+3745,Life is weighing on me heavily.,0
+3746,Our love is a wonderful journey.,2
+3747,Feeling incredibly blessed.,1
+3748,Every day feels harder.,0
+3749,"It's a tough day, feeling so lost.",0
+3750,Why can't I stop this panic?,4
+3751,Can't stop the fear from rising.,4
+3752,I can't believe how happy I am!,1
+3753,Can't find joy anywhere.,0
+3754,The world feels dark right now.,0
+3755,I'm at my limit with this!,3
+3756,I adore you beyond words.,2
+3757,How could this get any worse?,3
+3758,Everything is going my way!,1
+3759,"Surprise of the year, for sure!",5
+3760,Love you more with each day.,2
+3761,"I'm frozen, fear is taking over.",4
+3762,I'm overwhelmed by fear.,4
+3763,Didn't see that coming at all!,5
+3764,This dread won't go away.,4
+3765,My heart overflows with love.,2
+3766,Life is weighing on me heavily.,0
+3767,Our love is a wonderful journey.,2
+3768,All I feel is fear today.,4
+3769,"Heart feels heavy, can't shake it off.",0
+3770,You make my heart soar.,2
+3771,This dread won't go away.,4
+3772,Why can't I stop this panic?,4
+3773,Every day feels harder.,0
+3774,Wish things would get better.,0
+3775,This is too much to handle!,3
+3776,Everything seems frightening right now.,4
+3777,Feeling incredibly blessed.,1
+3778,There's so much to be thankful for!,1
+3779,I'm beyond done with this.,3
+3780,"It's a tough day, feeling so lost.",0
+3781,Everything seems frightening right now.,4
+3782,I'm struggling to see a way forward.,0
+3783,Today feels like a dream come true.,1
+3784,Infuriated doesn't even describe it!,3
+3785,Life's beautiful when you're in love.,2
+3786,What an incredible twist!,5
+3787,"Heart feels heavy, can't shake it off.",0
+3788,How could this get any worse?,3
+3789,Everything seems frightening right now.,4
+3790,Tears come too easily today.,0
+3791,What an incredible twist!,5
+3792,Can't find joy anywhere.,0
+3793,There's so much to be thankful for!,1
+3794,Love is everything with you.,2
+3795,Everything seems frightening right now.,4
+3796,"Heart feels heavy, can't shake it off.",0
+3797,I'm struggling to see a way forward.,0
+3798,Just can't stop this smile.,1
+3799,"I'm frozen, fear is taking over.",4
+3800,I'm struggling to see a way forward.,0
+3801,Every day feels harder.,0
+3802,"I can't think, I'm so scared.",4
+3803,Life is weighing on me heavily.,0
+3804,You make my heart soar.,2
+3805,Never expected this at all!,5
+3806,I'm at my limit with this!,3
+3807,How could this get any worse?,3
+3808,"I can't think, I'm so scared.",4
+3809,Being with you makes life beautiful.,2
+3810,Just can't stop this smile.,1
+3811,I'm at my limit with this!,3
+3812,I just want to feel safe.,4
+3813,Every day feels harder.,0
+3814,Why is everything so annoying?,3
+3815,Can't stop the fear from rising.,4
+3816,Tears come too easily today.,0
+3817,How could this get any worse?,3
+3818,I can't stand this nonsense.,3
+3819,I adore you beyond words.,2
+3820,I'm shocked beyond words!,5
+3821,Tears come too easily today.,0
+3822,I'm struggling to see a way forward.,0
+3823,How could this get any worse?,3
+3824,Our love is a wonderful journey.,2
+3825,Tears come too easily today.,0
+3826,The world feels dark right now.,0
+3827,Every day feels harder.,0
+3828,I'm shocked beyond words!,5
+3829,Being with you makes life beautiful.,2
+3830,I'm beyond done with this.,3
+3831,Speechless from this surprise.,5
+3832,So stunned I can't even react!,5
+3833,I'm beyond done with this.,3
+3834,Life is weighing on me heavily.,0
+3835,This is too much to handle!,3
+3836,Couldn't imagine a day without you.,2
+3837,My heart overflows with love.,2
+3838,Love you more with each day.,2
+3839,This day has been nothing but frustration!,3
+3840,How could this get any worse?,3
+3841,I can't believe how happy I am!,1
+3842,Never expected this at all!,5
+3843,My heart overflows with love.,2
+3844,Speechless from this surprise.,5
+3845,So grateful for today!,1
+3846,Life's beautiful when you're in love.,2
+3847,In love with life!,1
+3848,Can't stop the fear from rising.,4
+3849,This is a surprise I wasn't ready for!,5
+3850,You are my forever.,2
+3851,Can't find joy anywhere.,0
+3852,The world feels dark right now.,0
+3853,Life is such a gift!,1
+3854,I adore you beyond words.,2
+3855,This dread won't go away.,4
+3856,Didn't see that coming at all!,5
+3857,My heart overflows with love.,2
+3858,Being with you makes life beautiful.,2
+3859,Life's beautiful when you're in love.,2
+3860,I'm shocked beyond words!,5
+3861,Every day feels harder.,0
+3862,Couldn't imagine a day without you.,2
+3863,"I can't think, I'm so scared.",4
+3864,Why is everything so annoying?,3
+3865,I'm overwhelmed by fear.,4
+3866,What an incredible twist!,5
+3867,"Surprise of the year, for sure!",5
+3868,All I feel is fear today.,4
+3869,Why can't I stop this panic?,4
+3870,"I'm frozen, fear is taking over.",4
+3871,I can't believe how happy I am!,1
+3872,Couldn't imagine a day without you.,2
+3873,So grateful for today!,1
+3874,Joy is filling my soul!,1
+3875,Tears come too easily today.,0
+3876,Being with you makes life beautiful.,2
+3877,Today feels like a dream come true.,1
+3878,Couldn't imagine a day without you.,2
+3879,My heart overflows with love.,2
+3880,Tears come too easily today.,0
+3881,Our love is a wonderful journey.,2
+3882,Why is everything so annoying?,3
+3883,"It's a tough day, feeling so lost.",0
+3884,This dread won't go away.,4
+3885,Totally blindsided by this!,5
+3886,Never expected this at all!,5
+3887,Life is weighing on me heavily.,0
+3888,Can't find joy anywhere.,0
+3889,Every day feels harder.,0
+3890,Speechless from this surprise.,5
+3891,So stunned I can't even react!,5
+3892,Our love is a wonderful journey.,2
+3893,The world feels dark right now.,0
+3894,So grateful for today!,1
+3895,Speechless from this surprise.,5
+3896,Why can't I stop this panic?,4
+3897,I adore you beyond words.,2
+3898,This dread won't go away.,4
+3899,Today feels like a dream come true.,1
+3900,So grateful for today!,1
+3901,I didn't think this would happen!,5
+3902,Speechless from this surprise.,5
+3903,Why can't I stop this panic?,4
+3904,Our love is a wonderful journey.,2
+3905,Our love is a wonderful journey.,2
+3906,Couldn't imagine a day without you.,2
+3907,Feeling incredibly blessed.,1
+3908,"I can't think, I'm so scared.",4
+3909,Why can't I stop this panic?,4
+3910,Couldn't imagine a day without you.,2
+3911,This is too much to handle!,3
+3912,How could this get any worse?,3
+3913,So irritated right now!,3
+3914,Love you more with each day.,2
+3915,I can't believe how happy I am!,1
+3916,Joy is filling my soul!,1
+3917,I'm struggling to see a way forward.,0
+3918,Life is such a gift!,1
+3919,Never expected this at all!,5
+3920,I'm at my limit with this!,3
+3921,I'm struggling to see a way forward.,0
+3922,Why is everything so annoying?,3
+3923,"Heart feels heavy, can't shake it off.",0
+3924,Joy is filling my soul!,1
+3925,Love is everything with you.,2
+3926,Today feels like a dream come true.,1
+3927,The sadness feels overwhelming.,0
+3928,This dread won't go away.,4
+3929,How could this get any worse?,3
+3930,Couldn't imagine a day without you.,2
+3931,All I feel is fear today.,4
+3932,Tears come too easily today.,0
+3933,Joy is filling my soul!,1
+3934,Why can't I stop this panic?,4
+3935,Life is such a gift!,1
+3936,Tears come too easily today.,0
+3937,I'm struggling to see a way forward.,0
+3938,There's so much to be thankful for!,1
+3939,Never expected this at all!,5
+3940,Totally blindsided by this!,5
+3941,Can't find joy anywhere.,0
+3942,Infuriated doesn't even describe it!,3
+3943,Couldn't imagine a day without you.,2
+3944,Everything is going my way!,1
+3945,Couldn't imagine a day without you.,2
+3946,Love you more with each day.,2
+3947,"It's a tough day, feeling so lost.",0
+3948,This day has been nothing but frustration!,3
+3949,How could this get any worse?,3
+3950,I'm beyond done with this.,3
+3951,Couldn't imagine a day without you.,2
+3952,I just want to feel safe.,4
+3953,So stunned I can't even react!,5
+3954,Why can't I stop this panic?,4
+3955,Wish things would get better.,0
+3956,I can't stand this nonsense.,3
+3957,So irritated right now!,3
+3958,Infuriated doesn't even describe it!,3
+3959,Wish things would get better.,0
+3960,Life is such a gift!,1
+3961,Never expected this at all!,5
+3962,This is too much to handle!,3
+3963,So grateful for today!,1
+3964,The world feels dark right now.,0
+3965,Everything seems frightening right now.,4
+3966,Speechless from this surprise.,5
+3967,Tears come too easily today.,0
+3968,Can't find joy anywhere.,0
+3969,Everything is going my way!,1
+3970,This dread won't go away.,4
+3971,Didn't see that coming at all!,5
+3972,Life is such a gift!,1
+3973,I'm shocked beyond words!,5
+3974,Why is everything so annoying?,3
+3975,How could this get any worse?,3
+3976,So stunned I can't even react!,5
+3977,This day has been nothing but frustration!,3
+3978,I can't stand this nonsense.,3
+3979,Love is everything with you.,2
+3980,Why is everything so annoying?,3
+3981,Everything seems frightening right now.,4
+3982,Life's beautiful when you're in love.,2
+3983,In love with life!,1
+3984,I didn't think this would happen!,5
+3985,Infuriated doesn't even describe it!,3
+3986,"It's a tough day, feeling so lost.",0
+3987,What an incredible twist!,5
+3988,Totally blindsided by this!,5
+3989,So grateful for today!,1
+3990,Infuriated doesn't even describe it!,3
+3991,Tears come too easily today.,0
+3992,Life is such a gift!,1
+3993,So grateful for today!,1
+3994,I'm overwhelmed by fear.,4
+3995,Feeling incredibly blessed.,1
+3996,Tears come too easily today.,0
+3997,Everything seems frightening right now.,4
+3998,Everything is going my way!,1
+3999,I'm shocked beyond words!,5
+4000,Can't stop the fear from rising.,4
+4001,There's so much to be thankful for!,1
+4002,Everything is going my way!,1
+4003,I didn't think this would happen!,5
+4004,This anxiety is unbearable.,4
+4005,So grateful for today!,1
+4006,In love with life!,1
+4007,Can't stop the fear from rising.,4
+4008,I'm overwhelmed by fear.,4
+4009,"I can't think, I'm so scared.",4
+4010,Why is everything so annoying?,3
+4011,I adore you beyond words.,2
+4012,Wish things would get better.,0
+4013,Why can't I stop this panic?,4
+4014,Being with you makes life beautiful.,2
+4015,This is too much to handle!,3
+4016,Infuriated doesn't even describe it!,3
+4017,So irritated right now!,3
+4018,There's so much to be thankful for!,1
+4019,I'm struggling to see a way forward.,0
+4020,I just want to feel safe.,4
+4021,Just can't stop this smile.,1
+4022,I just want to feel safe.,4
+4023,Life is weighing on me heavily.,0
+4024,I'm overwhelmed by fear.,4
+4025,Life is such a gift!,1
+4026,Can't find joy anywhere.,0
+4027,This anxiety is unbearable.,4
+4028,Our love is a wonderful journey.,2
+4029,I'm struggling to see a way forward.,0
+4030,This anxiety is unbearable.,4
+4031,Love you more with each day.,2
+4032,I can't believe how happy I am!,1
+4033,Anger is all I feel right now!,3
+4034,Couldn't imagine a day without you.,2
+4035,What an incredible twist!,5
+4036,"Heart feels heavy, can't shake it off.",0
+4037,So grateful for today!,1
+4038,I can't believe how happy I am!,1
+4039,Speechless from this surprise.,5
+4040,I'm struggling to see a way forward.,0
+4041,Wish things would get better.,0
+4042,In love with life!,1
+4043,I'm shocked beyond words!,5
+4044,Love you more with each day.,2
+4045,Didn't see that coming at all!,5
+4046,Life's beautiful when you're in love.,2
+4047,Wish things would get better.,0
+4048,Totally blindsided by this!,5
+4049,Life is such a gift!,1
+4050,The sadness feels overwhelming.,0
+4051,This dread won't go away.,4
+4052,So stunned I can't even react!,5
+4053,Wish things would get better.,0
+4054,I'm struggling to see a way forward.,0
+4055,"I'm frozen, fear is taking over.",4
+4056,Why is everything so annoying?,3
+4057,"I can't think, I'm so scared.",4
+4058,Couldn't imagine a day without you.,2
+4059,Our love is a wonderful journey.,2
+4060,This dread won't go away.,4
+4061,Everything seems frightening right now.,4
+4062,This dread won't go away.,4
+4063,Wish things would get better.,0
+4064,This is too much to handle!,3
+4065,I'm shocked beyond words!,5
+4066,I'm struggling to see a way forward.,0
+4067,Life is weighing on me heavily.,0
+4068,I didn't think this would happen!,5
+4069,How could this get any worse?,3
+4070,"Surprise of the year, for sure!",5
+4071,So stunned I can't even react!,5
+4072,Why is everything so annoying?,3
+4073,This anxiety is unbearable.,4
+4074,Life's beautiful when you're in love.,2
+4075,This is too much to handle!,3
+4076,I adore you beyond words.,2
+4077,Anger is all I feel right now!,3
+4078,Life's beautiful when you're in love.,2
+4079,Didn't see that coming at all!,5
+4080,You make my heart soar.,2
+4081,This is too much to handle!,3
+4082,How could this get any worse?,3
+4083,I'm beyond done with this.,3
+4084,Why is everything so annoying?,3
+4085,Love you more with each day.,2
+4086,How could this get any worse?,3
+4087,I just want to feel safe.,4
+4088,Everything seems frightening right now.,4
+4089,You make my heart soar.,2
+4090,Joy is filling my soul!,1
+4091,Being with you makes life beautiful.,2
+4092,This anxiety is unbearable.,4
+4093,Can't find joy anywhere.,0
+4094,Life's beautiful when you're in love.,2
+4095,Speechless from this surprise.,5
+4096,I'm shocked beyond words!,5
+4097,Everything is going my way!,1
+4098,So stunned I can't even react!,5
+4099,Infuriated doesn't even describe it!,3
+4100,Everything is going my way!,1
+4101,Everything is going my way!,1
+4102,I'm shocked beyond words!,5
+4103,All I feel is fear today.,4
+4104,You make my heart soar.,2
+4105,Anger is all I feel right now!,3
+4106,Didn't see that coming at all!,5
+4107,Speechless from this surprise.,5
+4108,I'm shocked beyond words!,5
+4109,Can't find joy anywhere.,0
+4110,I adore you beyond words.,2
+4111,Speechless from this surprise.,5
+4112,"Surprise of the year, for sure!",5
+4113,All I feel is fear today.,4
+4114,How could this get any worse?,3
+4115,I'm shocked beyond words!,5
+4116,This is a surprise I wasn't ready for!,5
+4117,In love with life!,1
+4118,Being with you makes life beautiful.,2
+4119,I'm at my limit with this!,3
+4120,Joy is filling my soul!,1
+4121,I can't believe how happy I am!,1
+4122,The sadness feels overwhelming.,0
+4123,This is too much to handle!,3
+4124,The world feels dark right now.,0
+4125,All I feel is fear today.,4
+4126,Anger is all I feel right now!,3
+4127,"It's a tough day, feeling so lost.",0
+4128,So stunned I can't even react!,5
+4129,I'm struggling to see a way forward.,0
+4130,Couldn't imagine a day without you.,2
+4131,"It's a tough day, feeling so lost.",0
+4132,I'm struggling to see a way forward.,0
+4133,I'm overwhelmed by fear.,4
+4134,Wish things would get better.,0
+4135,Infuriated doesn't even describe it!,3
+4136,Anger is all I feel right now!,3
+4137,Why can't I stop this panic?,4
+4138,Totally blindsided by this!,5
+4139,Love is everything with you.,2
+4140,I can't stand this nonsense.,3
+4141,Why is everything so annoying?,3
+4142,Speechless from this surprise.,5
+4143,Being with you makes life beautiful.,2
+4144,"Heart feels heavy, can't shake it off.",0
+4145,Just can't stop this smile.,1
+4146,I'm struggling to see a way forward.,0
+4147,This anxiety is unbearable.,4
+4148,This dread won't go away.,4
+4149,All I feel is fear today.,4
+4150,This anxiety is unbearable.,4
+4151,Speechless from this surprise.,5
+4152,I'm at my limit with this!,3
+4153,Every day feels harder.,0
+4154,All I feel is fear today.,4
+4155,How could this get any worse?,3
+4156,You make my heart soar.,2
+4157,I didn't think this would happen!,5
+4158,Couldn't imagine a day without you.,2
+4159,How could this get any worse?,3
+4160,"It's a tough day, feeling so lost.",0
+4161,There's so much to be thankful for!,1
+4162,"I can't think, I'm so scared.",4
+4163,Wish things would get better.,0
+4164,"It's a tough day, feeling so lost.",0
+4165,Infuriated doesn't even describe it!,3
+4166,Infuriated doesn't even describe it!,3
+4167,Life is such a gift!,1
+4168,You are my forever.,2
+4169,Didn't see that coming at all!,5
+4170,"Surprise of the year, for sure!",5
+4171,There's so much to be thankful for!,1
+4172,Why can't I stop this panic?,4
+4173,In love with life!,1
+4174,This day has been nothing but frustration!,3
+4175,Life's beautiful when you're in love.,2
+4176,The world feels dark right now.,0
+4177,I'm shocked beyond words!,5
+4178,Today feels like a dream come true.,1
+4179,Why can't I stop this panic?,4
+4180,So stunned I can't even react!,5
+4181,Our love is a wonderful journey.,2
+4182,Every day feels harder.,0
+4183,This day has been nothing but frustration!,3
+4184,This is a surprise I wasn't ready for!,5
+4185,The world feels dark right now.,0
+4186,I adore you beyond words.,2
+4187,Tears come too easily today.,0
+4188,Totally blindsided by this!,5
+4189,Being with you makes life beautiful.,2
+4190,Today feels like a dream come true.,1
+4191,This anxiety is unbearable.,4
+4192,"It's a tough day, feeling so lost.",0
+4193,What an incredible twist!,5
+4194,Life's beautiful when you're in love.,2
+4195,I can't stand this nonsense.,3
+4196,Being with you makes life beautiful.,2
+4197,Love you more with each day.,2
+4198,I adore you beyond words.,2
+4199,This dread won't go away.,4
+4200,Didn't see that coming at all!,5
+4201,Life is such a gift!,1
+4202,You are my forever.,2
+4203,So grateful for today!,1
+4204,This anxiety is unbearable.,4
+4205,In love with life!,1
+4206,All I feel is fear today.,4
+4207,This day has been nothing but frustration!,3
+4208,I'm beyond done with this.,3
+4209,"I can't think, I'm so scared.",4
+4210,Why can't I stop this panic?,4
+4211,Tears come too easily today.,0
+4212,I'm struggling to see a way forward.,0
+4213,This day has been nothing but frustration!,3
+4214,Just can't stop this smile.,1
+4215,I just want to feel safe.,4
+4216,Never expected this at all!,5
+4217,Can't stop the fear from rising.,4
+4218,Can't stop the fear from rising.,4
+4219,Love you more with each day.,2
+4220,Totally blindsided by this!,5
+4221,This day has been nothing but frustration!,3
+4222,I'm shocked beyond words!,5
+4223,So grateful for today!,1
+4224,Totally blindsided by this!,5
+4225,I just want to feel safe.,4
+4226,Our love is a wonderful journey.,2
+4227,What an incredible twist!,5
+4228,I adore you beyond words.,2
+4229,I adore you beyond words.,2
+4230,Life is such a gift!,1
+4231,Totally blindsided by this!,5
+4232,I'm struggling to see a way forward.,0
+4233,Being with you makes life beautiful.,2
+4234,Why can't I stop this panic?,4
+4235,"I'm frozen, fear is taking over.",4
+4236,Every day feels harder.,0
+4237,I'm beyond done with this.,3
+4238,Every day feels harder.,0
+4239,I adore you beyond words.,2
+4240,I can't stand this nonsense.,3
+4241,"I can't think, I'm so scared.",4
+4242,Didn't see that coming at all!,5
+4243,Tears come too easily today.,0
+4244,In love with life!,1
+4245,So grateful for today!,1
+4246,I can't stand this nonsense.,3
+4247,There's so much to be thankful for!,1
+4248,I'm overwhelmed by fear.,4
+4249,My heart overflows with love.,2
+4250,Feeling incredibly blessed.,1
+4251,Joy is filling my soul!,1
+4252,I didn't think this would happen!,5
+4253,Totally blindsided by this!,5
+4254,"Heart feels heavy, can't shake it off.",0
+4255,I just want to feel safe.,4
+4256,Didn't see that coming at all!,5
+4257,I didn't think this would happen!,5
+4258,"I'm frozen, fear is taking over.",4
+4259,Can't find joy anywhere.,0
+4260,Couldn't imagine a day without you.,2
+4261,What an incredible twist!,5
+4262,Couldn't imagine a day without you.,2
+4263,In love with life!,1
+4264,Just can't stop this smile.,1
+4265,So stunned I can't even react!,5
+4266,How could this get any worse?,3
+4267,This dread won't go away.,4
+4268,Infuriated doesn't even describe it!,3
+4269,"I can't think, I'm so scared.",4
+4270,What an incredible twist!,5
+4271,Our love is a wonderful journey.,2
+4272,Life is such a gift!,1
+4273,In love with life!,1
+4274,Joy is filling my soul!,1
+4275,I adore you beyond words.,2
+4276,This is too much to handle!,3
+4277,Being with you makes life beautiful.,2
+4278,The world feels dark right now.,0
+4279,Infuriated doesn't even describe it!,3
+4280,This anxiety is unbearable.,4
+4281,My heart overflows with love.,2
+4282,What an incredible twist!,5
+4283,My heart overflows with love.,2
+4284,Our love is a wonderful journey.,2
+4285,"I'm frozen, fear is taking over.",4
+4286,I'm beyond done with this.,3
+4287,There's so much to be thankful for!,1
+4288,Just can't stop this smile.,1
+4289,Life's beautiful when you're in love.,2
+4290,The sadness feels overwhelming.,0
+4291,I adore you beyond words.,2
+4292,"Heart feels heavy, can't shake it off.",0
+4293,All I feel is fear today.,4
+4294,So stunned I can't even react!,5
+4295,Our love is a wonderful journey.,2
+4296,Anger is all I feel right now!,3
+4297,I adore you beyond words.,2
+4298,I can't believe how happy I am!,1
+4299,Didn't see that coming at all!,5
+4300,There's so much to be thankful for!,1
+4301,Love is everything with you.,2
+4302,I'm shocked beyond words!,5
+4303,There's so much to be thankful for!,1
+4304,"Heart feels heavy, can't shake it off.",0
+4305,"Heart feels heavy, can't shake it off.",0
+4306,The sadness feels overwhelming.,0
+4307,So stunned I can't even react!,5
+4308,Tears come too easily today.,0
+4309,I can't stand this nonsense.,3
+4310,Can't find joy anywhere.,0
+4311,I adore you beyond words.,2
+4312,Why can't I stop this panic?,4
+4313,Tears come too easily today.,0
+4314,Life is such a gift!,1
+4315,Love is everything with you.,2
+4316,Everything seems frightening right now.,4
+4317,In love with life!,1
+4318,So grateful for today!,1
+4319,Why is everything so annoying?,3
+4320,Why can't I stop this panic?,4
+4321,Joy is filling my soul!,1
+4322,The world feels dark right now.,0
+4323,I didn't think this would happen!,5
+4324,Love you more with each day.,2
+4325,This is too much to handle!,3
+4326,Speechless from this surprise.,5
+4327,I adore you beyond words.,2
+4328,"Heart feels heavy, can't shake it off.",0
+4329,Just can't stop this smile.,1
+4330,There's so much to be thankful for!,1
+4331,This is too much to handle!,3
+4332,What an incredible twist!,5
+4333,Life is weighing on me heavily.,0
+4334,I'm beyond done with this.,3
+4335,Joy is filling my soul!,1
+4336,Never expected this at all!,5
+4337,Infuriated doesn't even describe it!,3
+4338,In love with life!,1
+4339,Couldn't imagine a day without you.,2
+4340,So grateful for today!,1
+4341,So stunned I can't even react!,5
+4342,Can't stop the fear from rising.,4
+4343,Today feels like a dream come true.,1
+4344,What an incredible twist!,5
+4345,I can't stand this nonsense.,3
+4346,Being with you makes life beautiful.,2
+4347,"Heart feels heavy, can't shake it off.",0
+4348,I just want to feel safe.,4
+4349,This is a surprise I wasn't ready for!,5
+4350,I can't stand this nonsense.,3
+4351,You make my heart soar.,2
+4352,Life is such a gift!,1
+4353,How could this get any worse?,3
+4354,Never expected this at all!,5
+4355,Just can't stop this smile.,1
+4356,"I can't think, I'm so scared.",4
+4357,This anxiety is unbearable.,4
+4358,This is too much to handle!,3
+4359,I'm at my limit with this!,3
+4360,Love is everything with you.,2
+4361,"It's a tough day, feeling so lost.",0
+4362,This is too much to handle!,3
+4363,This is a surprise I wasn't ready for!,5
+4364,This dread won't go away.,4
+4365,There's so much to be thankful for!,1
+4366,So stunned I can't even react!,5
+4367,I just want to feel safe.,4
+4368,This is too much to handle!,3
+4369,I'm at my limit with this!,3
+4370,Being with you makes life beautiful.,2
+4371,Tears come too easily today.,0
+4372,How could this get any worse?,3
+4373,Wish things would get better.,0
+4374,Anger is all I feel right now!,3
+4375,I can't believe how happy I am!,1
+4376,Everything seems frightening right now.,4
+4377,This day has been nothing but frustration!,3
+4378,Life is weighing on me heavily.,0
+4379,I'm overwhelmed by fear.,4
+4380,"I can't think, I'm so scared.",4
+4381,Today feels like a dream come true.,1
+4382,This is too much to handle!,3
+4383,"Surprise of the year, for sure!",5
+4384,So grateful for today!,1
+4385,Why is everything so annoying?,3
+4386,Every day feels harder.,0
+4387,I'm beyond done with this.,3
+4388,I didn't think this would happen!,5
+4389,I'm at my limit with this!,3
+4390,I adore you beyond words.,2
+4391,This is a surprise I wasn't ready for!,5
+4392,So irritated right now!,3
+4393,Everything seems frightening right now.,4
+4394,All I feel is fear today.,4
+4395,There's so much to be thankful for!,1
+4396,This is a surprise I wasn't ready for!,5
+4397,Love you more with each day.,2
+4398,You are my forever.,2
+4399,Feeling incredibly blessed.,1
+4400,I'm shocked beyond words!,5
+4401,Just can't stop this smile.,1
+4402,"It's a tough day, feeling so lost.",0
+4403,"It's a tough day, feeling so lost.",0
+4404,Everything seems frightening right now.,4
+4405,So irritated right now!,3
+4406,"I can't think, I'm so scared.",4
+4407,My heart overflows with love.,2
+4408,I adore you beyond words.,2
+4409,Can't find joy anywhere.,0
+4410,This anxiety is unbearable.,4
+4411,What an incredible twist!,5
+4412,Our love is a wonderful journey.,2
+4413,I adore you beyond words.,2
+4414,Everything is going my way!,1
+4415,You are my forever.,2
+4416,This anxiety is unbearable.,4
+4417,"Heart feels heavy, can't shake it off.",0
+4418,"Surprise of the year, for sure!",5
+4419,So stunned I can't even react!,5
+4420,"Surprise of the year, for sure!",5
+4421,This is a surprise I wasn't ready for!,5
+4422,This is too much to handle!,3
+4423,What an incredible twist!,5
+4424,This is too much to handle!,3
+4425,I'm struggling to see a way forward.,0
+4426,"Heart feels heavy, can't shake it off.",0
+4427,Every day feels harder.,0
+4428,This day has been nothing but frustration!,3
+4429,Can't stop the fear from rising.,4
+4430,What an incredible twist!,5
+4431,I just want to feel safe.,4
+4432,Every day feels harder.,0
+4433,Every day feels harder.,0
+4434,All I feel is fear today.,4
+4435,"Heart feels heavy, can't shake it off.",0
+4436,This anxiety is unbearable.,4
+4437,Why can't I stop this panic?,4
+4438,Joy is filling my soul!,1
+4439,Wish things would get better.,0
+4440,This day has been nothing but frustration!,3
+4441,Can't stop the fear from rising.,4
+4442,There's so much to be thankful for!,1
+4443,Life is weighing on me heavily.,0
+4444,You make my heart soar.,2
+4445,"I'm frozen, fear is taking over.",4
+4446,The sadness feels overwhelming.,0
+4447,Couldn't imagine a day without you.,2
+4448,I'm struggling to see a way forward.,0
+4449,So grateful for today!,1
+4450,The sadness feels overwhelming.,0
+4451,Never expected this at all!,5
+4452,Anger is all I feel right now!,3
+4453,In love with life!,1
+4454,I'm overwhelmed by fear.,4
+4455,There's so much to be thankful for!,1
+4456,Life's beautiful when you're in love.,2
+4457,Anger is all I feel right now!,3
+4458,I didn't think this would happen!,5
+4459,Life is weighing on me heavily.,0
+4460,You are my forever.,2
+4461,Life is weighing on me heavily.,0
+4462,Love is everything with you.,2
+4463,Love is everything with you.,2
+4464,Can't find joy anywhere.,0
+4465,I didn't think this would happen!,5
+4466,Life is weighing on me heavily.,0
+4467,Today feels like a dream come true.,1
+4468,You are my forever.,2
+4469,Our love is a wonderful journey.,2
+4470,Couldn't imagine a day without you.,2
+4471,So stunned I can't even react!,5
+4472,I just want to feel safe.,4
+4473,Today feels like a dream come true.,1
+4474,I'm struggling to see a way forward.,0
+4475,Never expected this at all!,5
+4476,My heart overflows with love.,2
+4477,Joy is filling my soul!,1
+4478,I'm overwhelmed by fear.,4
+4479,Never expected this at all!,5
+4480,"I'm frozen, fear is taking over.",4
+4481,Totally blindsided by this!,5
+4482,Love is everything with you.,2
+4483,Every day feels harder.,0
+4484,I'm at my limit with this!,3
+4485,I'm beyond done with this.,3
+4486,Can't stop the fear from rising.,4
+4487,Joy is filling my soul!,1
+4488,Love is everything with you.,2
+4489,This anxiety is unbearable.,4
+4490,Our love is a wonderful journey.,2
+4491,The sadness feels overwhelming.,0
+4492,Love you more with each day.,2
+4493,My heart overflows with love.,2
+4494,All I feel is fear today.,4
+4495,I can't believe how happy I am!,1
+4496,My heart overflows with love.,2
+4497,"Heart feels heavy, can't shake it off.",0
+4498,Feeling incredibly blessed.,1
+4499,"It's a tough day, feeling so lost.",0
+4500,I just want to feel safe.,4
+4501,There's so much to be thankful for!,1
+4502,Never expected this at all!,5
+4503,Tears come too easily today.,0
+4504,So irritated right now!,3
+4505,Feeling incredibly blessed.,1
+4506,Love is everything with you.,2
+4507,I didn't think this would happen!,5
+4508,There's so much to be thankful for!,1
+4509,I'm shocked beyond words!,5
+4510,This is too much to handle!,3
+4511,Our love is a wonderful journey.,2
+4512,Everything seems frightening right now.,4
+4513,I can't believe how happy I am!,1
+4514,Speechless from this surprise.,5
+4515,Life is weighing on me heavily.,0
+4516,What an incredible twist!,5
+4517,I can't stand this nonsense.,3
+4518,Just can't stop this smile.,1
+4519,Just can't stop this smile.,1
+4520,What an incredible twist!,5
+4521,You are my forever.,2
+4522,Everything is going my way!,1
+4523,This is a surprise I wasn't ready for!,5
+4524,There's so much to be thankful for!,1
+4525,I didn't think this would happen!,5
+4526,Everything seems frightening right now.,4
+4527,I didn't think this would happen!,5
+4528,This dread won't go away.,4
+4529,My heart overflows with love.,2
+4530,"I'm frozen, fear is taking over.",4
+4531,You are my forever.,2
+4532,Didn't see that coming at all!,5
+4533,This anxiety is unbearable.,4
+4534,Life's beautiful when you're in love.,2
+4535,"Surprise of the year, for sure!",5
+4536,This dread won't go away.,4
+4537,Can't stop the fear from rising.,4
+4538,"Surprise of the year, for sure!",5
+4539,"Heart feels heavy, can't shake it off.",0
+4540,I can't believe how happy I am!,1
+4541,"I can't think, I'm so scared.",4
+4542,Infuriated doesn't even describe it!,3
+4543,Totally blindsided by this!,5
+4544,The world feels dark right now.,0
+4545,My heart overflows with love.,2
+4546,Being with you makes life beautiful.,2
+4547,Wish things would get better.,0
+4548,Infuriated doesn't even describe it!,3
+4549,Everything is going my way!,1
+4550,"Heart feels heavy, can't shake it off.",0
+4551,How could this get any worse?,3
+4552,Can't stop the fear from rising.,4
+4553,"Surprise of the year, for sure!",5
+4554,You are my forever.,2
+4555,Anger is all I feel right now!,3
+4556,All I feel is fear today.,4
+4557,Speechless from this surprise.,5
+4558,Joy is filling my soul!,1
+4559,Feeling incredibly blessed.,1
+4560,Everything seems frightening right now.,4
+4561,So irritated right now!,3
+4562,Infuriated doesn't even describe it!,3
+4563,I just want to feel safe.,4
+4564,This anxiety is unbearable.,4
+4565,I'm beyond done with this.,3
+4566,Tears come too easily today.,0
+4567,Everything is going my way!,1
+4568,You are my forever.,2
+4569,I just want to feel safe.,4
+4570,So irritated right now!,3
+4571,Life is weighing on me heavily.,0
+4572,Life is such a gift!,1
+4573,"Surprise of the year, for sure!",5
+4574,I'm shocked beyond words!,5
+4575,Today feels like a dream come true.,1
+4576,Why can't I stop this panic?,4
+4577,My heart overflows with love.,2
+4578,This day has been nothing but frustration!,3
+4579,What an incredible twist!,5
+4580,The world feels dark right now.,0
+4581,So irritated right now!,3
+4582,"I'm frozen, fear is taking over.",4
+4583,Never expected this at all!,5
+4584,There's so much to be thankful for!,1
+4585,Feeling incredibly blessed.,1
+4586,So stunned I can't even react!,5
+4587,Can't stop the fear from rising.,4
+4588,Every day feels harder.,0
+4589,Wish things would get better.,0
+4590,Didn't see that coming at all!,5
+4591,Can't find joy anywhere.,0
+4592,I'm at my limit with this!,3
+4593,Just can't stop this smile.,1
+4594,Love you more with each day.,2
+4595,Tears come too easily today.,0
+4596,I'm beyond done with this.,3
+4597,You are my forever.,2
+4598,Life is weighing on me heavily.,0
+4599,"It's a tough day, feeling so lost.",0
+4600,Couldn't imagine a day without you.,2
+4601,Infuriated doesn't even describe it!,3
+4602,I can't stand this nonsense.,3
+4603,Everything seems frightening right now.,4
+4604,Infuriated doesn't even describe it!,3
+4605,Being with you makes life beautiful.,2
+4606,The sadness feels overwhelming.,0
+4607,Joy is filling my soul!,1
+4608,Every day feels harder.,0
+4609,Life is weighing on me heavily.,0
+4610,Just can't stop this smile.,1
+4611,Infuriated doesn't even describe it!,3
+4612,Being with you makes life beautiful.,2
+4613,The world feels dark right now.,0
+4614,So irritated right now!,3
+4615,Love is everything with you.,2
+4616,Love you more with each day.,2
+4617,This is a surprise I wasn't ready for!,5
+4618,Never expected this at all!,5
+4619,I can't believe how happy I am!,1
+4620,You make my heart soar.,2
+4621,Life is weighing on me heavily.,0
+4622,Why is everything so annoying?,3
+4623,I'm shocked beyond words!,5
+4624,This is a surprise I wasn't ready for!,5
+4625,I'm shocked beyond words!,5
+4626,Totally blindsided by this!,5
+4627,Couldn't imagine a day without you.,2
+4628,You are my forever.,2
+4629,"I can't think, I'm so scared.",4
+4630,You make my heart soar.,2
+4631,My heart overflows with love.,2
+4632,I'm shocked beyond words!,5
+4633,You make my heart soar.,2
+4634,I'm overwhelmed by fear.,4
+4635,Feeling incredibly blessed.,1
+4636,Feeling incredibly blessed.,1
+4637,The world feels dark right now.,0
+4638,Our love is a wonderful journey.,2
+4639,Life is weighing on me heavily.,0
+4640,This is a surprise I wasn't ready for!,5
+4641,Every day feels harder.,0
+4642,I'm overwhelmed by fear.,4
+4643,Couldn't imagine a day without you.,2
+4644,Just can't stop this smile.,1
+4645,I'm beyond done with this.,3
+4646,Our love is a wonderful journey.,2
+4647,This is a surprise I wasn't ready for!,5
+4648,You make my heart soar.,2
+4649,My heart overflows with love.,2
+4650,Can't find joy anywhere.,0
+4651,What an incredible twist!,5
+4652,The sadness feels overwhelming.,0
+4653,Life's beautiful when you're in love.,2
+4654,Wish things would get better.,0
+4655,This is a surprise I wasn't ready for!,5
+4656,Life is such a gift!,1
+4657,Everything is going my way!,1
+4658,"I'm frozen, fear is taking over.",4
+4659,I'm beyond done with this.,3
+4660,Every day feels harder.,0
+4661,There's so much to be thankful for!,1
+4662,Why can't I stop this panic?,4
+4663,Can't find joy anywhere.,0
+4664,Everything seems frightening right now.,4
+4665,Being with you makes life beautiful.,2
+4666,I just want to feel safe.,4
+4667,Love you more with each day.,2
+4668,I can't believe how happy I am!,1
+4669,How could this get any worse?,3
+4670,"Surprise of the year, for sure!",5
+4671,How could this get any worse?,3
+4672,Life is such a gift!,1
+4673,Being with you makes life beautiful.,2
+4674,Joy is filling my soul!,1
+4675,Life's beautiful when you're in love.,2
+4676,Everything is going my way!,1
+4677,So grateful for today!,1
+4678,"Surprise of the year, for sure!",5
+4679,You make my heart soar.,2
+4680,So stunned I can't even react!,5
+4681,"Heart feels heavy, can't shake it off.",0
+4682,The sadness feels overwhelming.,0
+4683,"I can't think, I'm so scared.",4
+4684,I can't stand this nonsense.,3
+4685,Everything is going my way!,1
+4686,Never expected this at all!,5
+4687,Didn't see that coming at all!,5
+4688,I didn't think this would happen!,5
+4689,I adore you beyond words.,2
+4690,There's so much to be thankful for!,1
+4691,This is a surprise I wasn't ready for!,5
+4692,The sadness feels overwhelming.,0
+4693,This day has been nothing but frustration!,3
+4694,So stunned I can't even react!,5
+4695,Never expected this at all!,5
+4696,I can't believe how happy I am!,1
+4697,Didn't see that coming at all!,5
+4698,You are my forever.,2
+4699,So stunned I can't even react!,5
+4700,Everything is going my way!,1
+4701,This anxiety is unbearable.,4
+4702,You make my heart soar.,2
+4703,I'm at my limit with this!,3
+4704,Today feels like a dream come true.,1
+4705,Wish things would get better.,0
+4706,Feeling incredibly blessed.,1
+4707,In love with life!,1
+4708,Life is such a gift!,1
+4709,This day has been nothing but frustration!,3
+4710,How could this get any worse?,3
+4711,Just can't stop this smile.,1
+4712,"I'm frozen, fear is taking over.",4
+4713,Today feels like a dream come true.,1
+4714,Why is everything so annoying?,3
+4715,You make my heart soar.,2
+4716,So irritated right now!,3
+4717,So stunned I can't even react!,5
+4718,This dread won't go away.,4
+4719,My heart overflows with love.,2
+4720,So irritated right now!,3
+4721,I'm at my limit with this!,3
+4722,Joy is filling my soul!,1
+4723,Didn't see that coming at all!,5
+4724,There's so much to be thankful for!,1
+4725,I'm beyond done with this.,3
+4726,Just can't stop this smile.,1
+4727,Totally blindsided by this!,5
+4728,Feeling incredibly blessed.,1
+4729,Why is everything so annoying?,3
+4730,How could this get any worse?,3
+4731,"I can't think, I'm so scared.",4
+4732,Didn't see that coming at all!,5
+4733,"Heart feels heavy, can't shake it off.",0
+4734,Infuriated doesn't even describe it!,3
+4735,My heart overflows with love.,2
+4736,I'm at my limit with this!,3
+4737,The sadness feels overwhelming.,0
+4738,This is too much to handle!,3
+4739,This anxiety is unbearable.,4
+4740,I didn't think this would happen!,5
+4741,The sadness feels overwhelming.,0
+4742,Didn't see that coming at all!,5
+4743,"Surprise of the year, for sure!",5
+4744,This dread won't go away.,4
+4745,Joy is filling my soul!,1
+4746,"I'm frozen, fear is taking over.",4
+4747,All I feel is fear today.,4
+4748,Everything is going my way!,1
+4749,Life is weighing on me heavily.,0
+4750,Life is such a gift!,1
+4751,"I can't think, I'm so scared.",4
+4752,My heart overflows with love.,2
+4753,This is too much to handle!,3
+4754,This dread won't go away.,4
+4755,Wish things would get better.,0
+4756,Why is everything so annoying?,3
+4757,So grateful for today!,1
+4758,There's so much to be thankful for!,1
+4759,I'm at my limit with this!,3
+4760,Totally blindsided by this!,5
+4761,Being with you makes life beautiful.,2
+4762,I just want to feel safe.,4
+4763,This dread won't go away.,4
+4764,"I'm frozen, fear is taking over.",4
+4765,Can't stop the fear from rising.,4
+4766,Everything seems frightening right now.,4
+4767,There's so much to be thankful for!,1
+4768,Never expected this at all!,5
+4769,Just can't stop this smile.,1
+4770,Everything is going my way!,1
+4771,Can't stop the fear from rising.,4
+4772,You make my heart soar.,2
+4773,You make my heart soar.,2
+4774,Love you more with each day.,2
+4775,Our love is a wonderful journey.,2
+4776,Can't find joy anywhere.,0
+4777,So stunned I can't even react!,5
+4778,I didn't think this would happen!,5
+4779,Anger is all I feel right now!,3
+4780,This is a surprise I wasn't ready for!,5
+4781,Why can't I stop this panic?,4
+4782,Anger is all I feel right now!,3
+4783,All I feel is fear today.,4
+4784,The world feels dark right now.,0
+4785,Can't stop the fear from rising.,4
+4786,So irritated right now!,3
+4787,This is a surprise I wasn't ready for!,5
+4788,Can't stop the fear from rising.,4
+4789,Couldn't imagine a day without you.,2
+4790,I adore you beyond words.,2
+4791,Never expected this at all!,5
+4792,This is too much to handle!,3
+4793,Life is such a gift!,1
+4794,Anger is all I feel right now!,3
+4795,I'm struggling to see a way forward.,0
+4796,So irritated right now!,3
+4797,Never expected this at all!,5
+4798,Everything is going my way!,1
+4799,Life is weighing on me heavily.,0
+4800,This dread won't go away.,4
+4801,Every day feels harder.,0
+4802,Everything seems frightening right now.,4
+4803,This dread won't go away.,4
+4804,"Heart feels heavy, can't shake it off.",0
+4805,I'm shocked beyond words!,5
+4806,This is too much to handle!,3
+4807,In love with life!,1
+4808,The world feels dark right now.,0
+4809,You are my forever.,2
+4810,So grateful for today!,1
+4811,Didn't see that coming at all!,5
+4812,Why can't I stop this panic?,4
+4813,Love is everything with you.,2
+4814,Our love is a wonderful journey.,2
+4815,There's so much to be thankful for!,1
+4816,Infuriated doesn't even describe it!,3
+4817,Life's beautiful when you're in love.,2
+4818,I'm at my limit with this!,3
+4819,"I can't think, I'm so scared.",4
+4820,Wish things would get better.,0
+4821,So grateful for today!,1
+4822,I'm beyond done with this.,3
+4823,So stunned I can't even react!,5
+4824,You make my heart soar.,2
+4825,So stunned I can't even react!,5
+4826,Anger is all I feel right now!,3
+4827,"Heart feels heavy, can't shake it off.",0
+4828,Everything is going my way!,1
+4829,In love with life!,1
+4830,This dread won't go away.,4
+4831,Feeling incredibly blessed.,1
+4832,Life is weighing on me heavily.,0
+4833,I just want to feel safe.,4
+4834,"Heart feels heavy, can't shake it off.",0
+4835,So irritated right now!,3
+4836,So stunned I can't even react!,5
+4837,Love you more with each day.,2
+4838,I can't believe how happy I am!,1
+4839,Everything seems frightening right now.,4
+4840,Anger is all I feel right now!,3
+4841,How could this get any worse?,3
+4842,Can't find joy anywhere.,0
+4843,Joy is filling my soul!,1
+4844,Being with you makes life beautiful.,2
+4845,Life's beautiful when you're in love.,2
+4846,I didn't think this would happen!,5
+4847,So grateful for today!,1
+4848,So irritated right now!,3
+4849,All I feel is fear today.,4
+4850,Why is everything so annoying?,3
+4851,I'm at my limit with this!,3
+4852,You make my heart soar.,2
+4853,Infuriated doesn't even describe it!,3
+4854,I can't stand this nonsense.,3
+4855,I can't stand this nonsense.,3
+4856,This dread won't go away.,4
+4857,Love is everything with you.,2
+4858,Couldn't imagine a day without you.,2
+4859,Why is everything so annoying?,3
+4860,"I can't think, I'm so scared.",4
+4861,I can't stand this nonsense.,3
+4862,Love you more with each day.,2
+4863,Love you more with each day.,2
+4864,I didn't think this would happen!,5
+4865,I'm beyond done with this.,3
+4866,What an incredible twist!,5
+4867,"Surprise of the year, for sure!",5
+4868,"I'm frozen, fear is taking over.",4
+4869,I'm shocked beyond words!,5
+4870,You are my forever.,2
+4871,Couldn't imagine a day without you.,2
+4872,Joy is filling my soul!,1
+4873,This is too much to handle!,3
+4874,How could this get any worse?,3
+4875,I'm struggling to see a way forward.,0
+4876,"Heart feels heavy, can't shake it off.",0
+4877,Couldn't imagine a day without you.,2
+4878,"I'm frozen, fear is taking over.",4
+4879,"I'm frozen, fear is taking over.",4
+4880,Everything is going my way!,1
+4881,I'm overwhelmed by fear.,4
+4882,Life is such a gift!,1
+4883,I'm struggling to see a way forward.,0
+4884,I'm overwhelmed by fear.,4
+4885,Didn't see that coming at all!,5
+4886,Wish things would get better.,0
+4887,The sadness feels overwhelming.,0
+4888,Love is everything with you.,2
+4889,Being with you makes life beautiful.,2
+4890,This is a surprise I wasn't ready for!,5
+4891,I can't stand this nonsense.,3
+4892,The world feels dark right now.,0
+4893,Anger is all I feel right now!,3
+4894,In love with life!,1
+4895,I just want to feel safe.,4
+4896,Infuriated doesn't even describe it!,3
+4897,What an incredible twist!,5
+4898,I adore you beyond words.,2
+4899,"Heart feels heavy, can't shake it off.",0
+4900,Our love is a wonderful journey.,2
+4901,Every day feels harder.,0
+4902,The world feels dark right now.,0
+4903,This day has been nothing but frustration!,3
+4904,Didn't see that coming at all!,5
+4905,Why can't I stop this panic?,4
+4906,Being with you makes life beautiful.,2
+4907,Why is everything so annoying?,3
+4908,Can't find joy anywhere.,0
+4909,Love is everything with you.,2
+4910,Everything is going my way!,1
+4911,I'm at my limit with this!,3
+4912,This anxiety is unbearable.,4
+4913,Can't find joy anywhere.,0
+4914,Didn't see that coming at all!,5
+4915,"I'm frozen, fear is taking over.",4
+4916,You are my forever.,2
+4917,"It's a tough day, feeling so lost.",0
+4918,You are my forever.,2
+4919,In love with life!,1
+4920,I didn't think this would happen!,5
+4921,Love is everything with you.,2
+4922,"It's a tough day, feeling so lost.",0
+4923,"I'm frozen, fear is taking over.",4
+4924,Can't find joy anywhere.,0
+4925,Everything is going my way!,1
+4926,Feeling incredibly blessed.,1
+4927,"I can't think, I'm so scared.",4
+4928,Our love is a wonderful journey.,2
+4929,I'm at my limit with this!,3
+4930,I'm at my limit with this!,3
+4931,Didn't see that coming at all!,5
+4932,Being with you makes life beautiful.,2
+4933,Why can't I stop this panic?,4
+4934,I'm struggling to see a way forward.,0
+4935,Feeling incredibly blessed.,1
+4936,I can't believe how happy I am!,1
+4937,Speechless from this surprise.,5
+4938,All I feel is fear today.,4
+4939,"I'm frozen, fear is taking over.",4
+4940,The world feels dark right now.,0
+4941,I'm at my limit with this!,3
+4942,"It's a tough day, feeling so lost.",0
+4943,"It's a tough day, feeling so lost.",0
+4944,"Surprise of the year, for sure!",5
+4945,So irritated right now!,3
+4946,Tears come too easily today.,0
+4947,What an incredible twist!,5
+4948,What an incredible twist!,5
+4949,Why is everything so annoying?,3
+4950,This is too much to handle!,3
+4951,There's so much to be thankful for!,1
+4952,Every day feels harder.,0
+4953,I'm overwhelmed by fear.,4
+4954,Every day feels harder.,0
+4955,I'm at my limit with this!,3
+4956,Can't stop the fear from rising.,4
+4957,Every day feels harder.,0
+4958,"Surprise of the year, for sure!",5
+4959,So grateful for today!,1
+4960,Can't find joy anywhere.,0
+4961,Speechless from this surprise.,5
+4962,What an incredible twist!,5
+4963,Infuriated doesn't even describe it!,3
+4964,"Heart feels heavy, can't shake it off.",0
+4965,This dread won't go away.,4
+4966,How could this get any worse?,3
+4967,What an incredible twist!,5
+4968,Feeling incredibly blessed.,1
+4969,Why is everything so annoying?,3
+4970,Wish things would get better.,0
+4971,Tears come too easily today.,0
+4972,Life is weighing on me heavily.,0
+4973,Today feels like a dream come true.,1
+4974,Can't stop the fear from rising.,4
+4975,I'm overwhelmed by fear.,4
+4976,Why is everything so annoying?,3
+4977,So grateful for today!,1
+4978,I can't stand this nonsense.,3
+4979,Didn't see that coming at all!,5
+4980,Today feels like a dream come true.,1
+4981,"I'm frozen, fear is taking over.",4
+4982,"I'm frozen, fear is taking over.",4
+4983,So irritated right now!,3
+4984,This dread won't go away.,4
+4985,Feeling incredibly blessed.,1
+4986,Everything is going my way!,1
+4987,This day has been nothing but frustration!,3
+4988,So grateful for today!,1
+4989,Love is everything with you.,2
+4990,Speechless from this surprise.,5
+4991,"Surprise of the year, for sure!",5
+4992,How could this get any worse?,3
+4993,Love you more with each day.,2
+4994,"I can't think, I'm so scared.",4
+4995,Everything seems frightening right now.,4
+4996,The world feels dark right now.,0
+4997,"It's a tough day, feeling so lost.",0
+4998,I adore you beyond words.,2
+4999,Anger is all I feel right now!,3
