@@ -1,0 +1,243 @@
+In this project section, I trained and tested various models for emotion recognition using an interesting mix of synthetic data and real data from the Kaggle dataset. I trained models on the synthetic data and then tested them on the Kaggle dataset and did the reverse as well. Additionally, I ran a test series on a second synthetic dataset and with a combined dataset.
+
+The results are quite clear: models trained on the Kaggle dataset perform significantly better. Interestingly, models trained with the classic Bag-of-Words (BoW) approach generally show slightly better results than those trained with TF-IDF, although the difference isn’t huge.
+
+What was surprising was the effect of LSA and LDA: both methods did not improve accuracy. Even with an optimal choice of topic numbers, they only achieved similar results at best, and sometimes even performed worse.
+
+Hypothesis on why LSA and LDA do not improve results: This could be because LSA and LDA are unsupervised methods for topic modeling. They aim to find hidden patterns and topics in the texts but do not consider the specific emotions we aim to detect. As a result, they often identify topics that don’t have much to do with emotions. This may cause certain nuances in emotion recognition to get lost or be overshadowed by irrelevant information, which ultimately lowers the model’s classification performance.
+
+
+Results:
+
+Snthetic_model.py
+
+Synthetic logistic regression model trained on tfidf vector:
+
+model with TF-IDF
+Accuracy: 0.29629878433527107
+              precision    recall  f1-score   support
+
+           0       0.31      0.79      0.44    121187
+           1       0.48      0.11      0.17    141067
+           2       0.13      0.07      0.09     34554
+           3       0.27      0.09      0.14     57317
+           4       0.20      0.08      0.11     47712
+           5       0.07      0.06      0.07     14972
+
+    accuracy                           0.30    416809
+   macro avg       0.24      0.20      0.17    416809
+weighted avg       0.32      0.30      0.23    416809
+
+Interpretation:
+
+The model shows high precision for class 0 but very low precision and F1-scores for all other classes. The high recall for class 0 suggests that the model correctly classifies a relatively large number of entries in this class, but it often fails with other classes.
+
+______________________________________________________
+Snthetic_model.py
+
+Synthetic logistic regression model trained on boW vector:
+
+model with BoW
+Accuracy: 0.30347473303119654
+              precision    recall  f1-score   support
+
+           0       0.30      0.86      0.45    121187
+           1       0.46      0.10      0.17    141067
+           2       0.16      0.06      0.09     34554
+           3       0.25      0.06      0.09     57317
+           4       0.28      0.05      0.08     47712
+           5       0.03      0.02      0.02     14972
+
+    accuracy                           0.30    416809
+   macro avg       0.25      0.19      0.15    416809
+weighted avg       0.33      0.30      0.22    416809
+
+Interpretation:
+
+Here, too, there is high precision for class 0 and low values for the other classes. The accuracy is similar to the TF-IDF-based version, but without any significant improvements in overall performanceg.
+
+
+________________________________________________________________
+Kagel_model.py
+
+Kagel logistic regression model trained on tfidf vector with 5000 data entries equally distributed over the 6 classes:
+Tested on kagel dataset:
+model with TF-IDF
+Accuracy: 0.8407084803465668
+              precision    recall  f1-score   support
+
+           0       0.89      0.85      0.87    120354
+           1       0.91      0.80      0.85    140234
+           2       0.66      0.92      0.77     33721
+           3       0.83      0.87      0.85     56484
+           4       0.81      0.81      0.81     46879
+           5       0.63      0.94      0.75     14139
+
+    accuracy                           0.84    411811
+   macro avg       0.79      0.87      0.82    411811
+weighted avg       0.85      0.84      0.84    411811
+
+Interpretation:
+The model shows high accuracy with good precision and recall values across all classes. It performs particularly well for classes 0, 1, and 3, delivering stable results.
+
+__________________________________________________________________
+Kagel_model.py
+
+Kagel logistic regression model trained on bow vector with 5000 data entries equally distributed over the 6 classes:
+Tested on kagel dataset:
+model with BoW
+Accuracy: 0.8512181559016151
+              precision    recall  f1-score   support
+
+           0       0.89      0.86      0.88    120354
+           1       0.93      0.81      0.86    140234
+           2       0.69      0.93      0.79     33721
+           3       0.84      0.88      0.86     56484
+           4       0.82      0.82      0.82     46879
+           5       0.63      0.95      0.75     14139
+
+    accuracy                           0.85    411811
+   macro avg       0.80      0.88      0.83    411811
+weighted avg       0.86      0.85      0.85    411811
+
+Interpretation:
+This model also delivers stable results. The BoW-based version even achieves slightly higher accuracy compared to the TF-IDF version, with all classes reaching solid values.
+
+_________________________________________________________________
+Whole_kagel_model.py
+
+Whole kagel data set for logistic regression model training and tested on synthetic dataset:
+
+
+TF-IDF (Kaggle train, Synthetic test)
+Accuracy: 0.4308
+              precision    recall  f1-score   support
+
+           0       0.38      0.49      0.43       831
+           1       0.27      0.80      0.40       830
+           2       0.00      0.00      0.00       841
+           3       0.80      0.39      0.53       839
+           4       0.89      0.80      0.84       830
+           5       0.52      0.10      0.17       829
+
+    accuracy                           0.43      5000
+   macro avg       0.47      0.43      0.39      5000
+weighted avg       0.47      0.43      0.39      5000
+
+Interpretation:
+
+Precision and recall vary greatly between classes, with class 2 showing no recognition at all. Classes 0 and 1 demonstrate a higher detection rate. Class 2 is not recognized because the synthetic test data likely lacks the distinctive features for this class that the model learned from the real Kaggle dataset.
+
+
+__________________________________________________________________
+Kagel_model.py
+
+Kagel logistic regression model trained on tfidf vector with 5000 data entries equally distributed over the 6 classes:
+Tested on synthetic dataset:
+
+model with TF-IDF
+Accuracy: 0.4138
+              precision    recall  f1-score   support
+
+           0       0.30      0.48      0.37       831
+           1       0.45      0.51      0.48       830
+           2       0.00      0.00      0.00       841
+           3       0.35      0.79      0.48       839
+           4       0.85      0.60      0.70       830
+           5       0.52      0.10      0.17       829
+
+    accuracy                           0.41      5000
+   macro avg       0.41      0.41      0.37      5000
+weighted avg       0.41      0.41      0.37      5000
+
+
+Interpretation:
+
+The results indicate that, as seen previously with the entire Kaggle dataset, the model struggles to transfer the patterns learned from the Kaggle dataset to the synthetic dataset. In particular, the lack of recognition for class 2 and the fluctuating scores for the other classes suggest that the synthetic data does not fully capture the emotional nuances present in the Kaggle dataset.
+
+
+___________________________________________________________________
+Snthetic_model.py
+
+Synthetic logistic regression model trained on tfidf vector:
+tested on synthetic_testing dataset:
+
+model with TF-IDF
+Accuracy: 0.1704
+              precision    recall  f1-score   support
+
+           0       0.17      0.84      0.28       830
+           1       0.17      0.08      0.11       834
+           2       0.20      0.04      0.06       835
+           3       0.18      0.03      0.05       832
+           4       0.20      0.02      0.04       832
+           5       0.14      0.01      0.03       837
+
+    accuracy                           0.17      5000
+   macro avg       0.18      0.17      0.09      5000
+weighted avg       0.18      0.17      0.09      5000
+
+Interpretation:
+
+Precision and recall values are consistently low, except for class 0, which shows a significantly higher detection rate. This indicates that the synthetic test data does not provide strong patterns for effective classification.
+
+____________________________________________________________________
+Kagel_model.py
+Kagel_model trained with 5000 entries of Kagel dataaset and tested on new synthetic testing set.
+
+model with TF-IDF
+Accuracy: 0.2678
+              precision    recall  f1-score   support
+
+           0       0.14      0.20      0.17       830
+           1       0.25      0.40      0.31       834
+           2       0.00      0.00      0.00       835
+           3       0.29      0.69      0.41       832
+           4       0.51      0.10      0.17       832
+           5       0.69      0.21      0.32       837
+
+    accuracy                           0.27      5000
+   macro avg       0.31      0.27      0.23      5000
+weighted avg       0.31      0.27      0.23      5000
+
+
+This model also shows similar patterns to the previous one, with varying values across classes and low overall recall. Class 3 and Class 5, in particular, have very low detection rates.
+
+____________________________________________________________________
+combined_dataset.py
+
+
+model with TF-IDF
+Accuracy: 0.2932902120635591
+              precision    recall  f1-score   support
+
+           0       0.31      0.65      0.42    121187
+           1       0.43      0.18      0.26    141067
+           2       0.13      0.07      0.09     34554
+           3       0.22      0.15      0.18     57317
+           4       0.17      0.13      0.14     47712
+           5       0.12      0.08      0.09     14972
+
+    accuracy                           0.29    416809
+   macro avg       0.23      0.21      0.20    416809
+weighted avg       0.30      0.29      0.26    416809
+
+Interpretation:
+
+The combined model trained on TF-IDF achieves an accuracy of 29.3%, very similar to the model trained on the original synthetic dataset alone. Class 0 continues to show the highest recall, but the additional synthetic data did not lead to notable improvements in recognizing the other classes, indicating limited diversity or representational benefit from the added synthetic samples.
+
+_____________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
