@@ -9,7 +9,7 @@ class FeatureExtractor:
     Latent Semantic Analysis (LSA), and Latent Dirichlet Allocation (LDA).
     
     Methods:
-        vectorize(corpus, method="tfidf", return_model=False): Converts text data
+        vectorize(corpus, method='tfidf', return_model=False): Converts text data
             into numerical vectors using TF-IDF or BoW.
         use_lsa(vectors, n_topics=6, return_model=False): Applies Latent Semantic
             Analysis (LSA) for dimensionality reduction.
@@ -29,12 +29,12 @@ class FeatureExtractor:
 
         Args:
             corpus (list of str): The input text data.
-            method (str): The vectorization method to use, either "tfidf" or "bow".
+            method (str): The vectorization method to use, either 'tfidf' or 'bow'.
             return_model (bool): Whether to return the vectorizer model itself.
 
         Returns:
                 - The vectorized data as a sparse matrix.
-                - The vectorizer model if "return_model" is True.
+                - The vectorizer model if 'return_model' is True.
         
         Raises:
             ValueError: If an unsupported method is specified.
@@ -67,7 +67,7 @@ class FeatureExtractor:
 
         Returns:
                 - The reduced vectors.
-                - The LSA model if "return_model" is True.
+                - The LSA model if 'return_model' is True.
         """
         svd_model = TruncatedSVD(n_components=n_topics, algorithm="randomized", random_state=42)
         lsa_vectors = svd_model.fit_transform(vectors)
@@ -75,9 +75,9 @@ class FeatureExtractor:
             return svd_model
         return lsa_vectors
 
-    #usually performs better with BoW
-    def apply_lda(self, vectors, n_topics=6):
-       """
+
+    def apply_lda(self, vectors, n_topics=6, return_model=False):
+        """
         Applies LDA for topic modeling.
 
         Args:
@@ -86,9 +86,8 @@ class FeatureExtractor:
 
         Returns:
                 - The topic distribution for each document.
-                - The LDA model if "return_model" is True.
+                - The LDA model if 'return_model' is True.
         """
-
         lda_model = LatentDirichletAllocation(n_components=n_topics, random_state=42)
         lda_vectors = lda_model.fit_transform(vectors)
         if return_model:
