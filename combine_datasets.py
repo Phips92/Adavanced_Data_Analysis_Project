@@ -16,6 +16,9 @@ df_train = pd.read_csv("synthetic_unique_tweets_dataset_chatgpt.csv")
 df_train["Text"] = df_train["Text"].apply(preprocessor.clean_text)
 df_train["Text"] = df_train["Text"].apply(lambda x: " ".join(preprocessor.tokenize(x)))
 
+corpus_train_alone = df_train["Text"].values.tolist()
+labels_train_alone = df_train["Label"].values
+
 # Load and preprocess the synthetic test training dataset
 df_test_syn = pd.read_csv("synthetic_unique_tweets_test_dataset.csv")
 df_test_syn["Text"] = df_test_syn["Text"].apply(preprocessor.clean_text)
@@ -36,8 +39,8 @@ corpus_test = df_test["Text"].values.tolist()
 labels_test = df_test["Label"].values
 
 # Vectorize the text data using TF-IDF and Bag-of-Words
-tfidf_vectorizer = featurizer.vectorize(corpus_train, method="tfidf",return_model=True)
-bow_vectorizer =  featurizer.vectorize(corpus_train, method="bow", return_model=True)
+tfidf_vectorizer = featurizer.vectorize(corpus_test, method="tfidf",return_model=True)
+bow_vectorizer =  featurizer.vectorize(corpus_test, method="bow", return_model=True)
 
 # Transform the training and testing data with TF-IDF
 vectors_tfidf_train = tfidf_vectorizer.fit_transform(corpus_train)
@@ -47,10 +50,12 @@ vectors_tfidf_test = tfidf_vectorizer.transform(corpus_test)
 vectors_bow_train = bow_vectorizer.fit_transform(corpus_train)
 vectors_bow_test = bow_vectorizer.transform(corpus_test)
 
+print("_______Models trained with combined synthetic data sets and tested on kaggle dataset______\n")
+
 # Train and evaluate the model with Bag-of-Words
 model_tfidf = trainer.train(vectors_bow_train, labels_train, model_type="logistic_regression")
 report, accuracy = evaluator.evaluate(model_tfidf, vectors_bow_test, labels_test)
-print("model with TF-IDF")
+print("model with BoW")
 print(f"Accuracy: {accuracy}")
 print(report)
 
@@ -60,3 +65,34 @@ report, accuracy = evaluator.evaluate(model_tfidf, vectors_tfidf_test, labels_te
 print("Model with TF-IDF")
 print(f"Accuracy: {accuracy}")
 print(report)
+
+
+print("_______Models trained with only one synthetic data sets and tested on kaggle dataset______\n")
+
+vectors_tfidf_train_alone = tfidf_vectorizer.fit_transform(corpus_train_alone)
+vectors_bow_train_alone = bow_vectorizer.fit_transform(corpus_train_alone)
+
+# Train and evaluate the model with Bag-of-Words
+model_bow_alone = trainer.train(vectors_bow_train_alone, labels_train_alone, model_type="logistic_regression")
+report, accuracy = evaluator.evaluate(model_bow_alone, vectors_bow_test, labels_test)
+print("model with BoW")
+print(f"Accuracy: {accuracy}")
+print(report)
+
+# Train and evaluate the model with TF-IDF
+model_tfidf_alone = trainer.train(vectors_tfidf_train_alone, labels_train_alone, model_type="logistic_regression") 
+report, accuracy = evaluator.evaluate(model_tfidf_alone, vectors_tfidf_test, labels_test) 
+print("Model with TF-IDF")
+print(f"Accuracy: {accuracy}")
+print(report)
+
+
+
+
+
+
+
+
+
+
+
