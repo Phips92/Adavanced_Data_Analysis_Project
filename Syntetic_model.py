@@ -72,10 +72,17 @@ print("_______Models trained with synthetic data and tested on another syntethic
 model_tfidf = trainer.train(vectors_bow_train, labels_train, model_type="logistic_regression")
 report, accuracy = evaluator.evaluate(model_tfidf, vectors_bow_test, labels_test_syn)
 
-print("model with TF-IDF")
+print("model with BoW")
 print(f"Accuracy: {accuracy}")
 print(report)
 
+
+model_tfidf = trainer.train(vectors_tfidf_train, labels_train, model_type="logistic_regression")
+report, accuracy = evaluator.evaluate(model_tfidf, vectors_tfidf_test, labels_test_syn)
+
+print("model with TF-IDF")
+print(f"Accuracy: {accuracy}")
+print(report)
 
 
 #train regression model with lsa_tfidf
@@ -114,8 +121,60 @@ print(f"Accuracy: {accuracy}")
 print(report)
 
 
+print("_______Models trained with synthetic data and tested on kaggle dataset______\n")
+
+vectors_bow_test_k = bow_vectorizer.transform(corpus_test)
+lsa_bow_vectors_test_k = svd_model_bow.transform(vectors_bow_test_k)
+lda_bow_vectors_test_k = featurizer.apply_lda(vectors_bow_test_k, n_topics=100)
+
+vectors_tfidf_test_k = tfidf_vectorizer.transform(corpus_test)
+lsa_tfidf_vectors_test_k = svd_model_tfidf.transform(vectors_tfidf_test_k)
 
 
 
+model_tfidf_k = trainer.train(vectors_bow_train, labels_train, model_type="logistic_regression")
+report, accuracy = evaluator.evaluate(model_tfidf_k, vectors_bow_test_k, labels_test)
 
+print("model with BoW")
+print(f"Accuracy: {accuracy}")
+print(report)
+
+
+model_tfidf_k = trainer.train(vectors_tfidf_train, labels_train, model_type="logistic_regression")
+report, accuracy = evaluator.evaluate(model_tfidf_k, vectors_tfidf_test_k, labels_test)
+
+print("model with TF-IDF")
+print(f"Accuracy: {accuracy}")
+print(report)
+
+
+
+#train regression model with lsa_tfidf
+model_lsa_tfidf_k = trainer.train(lsa_tfidf_vectors_train, labels_train, model_type="logistic_regression")
+report, accuracy = evaluator.evaluate(model_lsa_tfidf_k, lsa_tfidf_vectors_test_k, labels_test)
+
+#results lsa_tfidf
+print("LSA with TF-IDF")
+print(f"Accuracy: {accuracy}")
+print(report)
+
+
+#train regression model with lsa_bow
+model_lsa_bow_k = trainer.train(lsa_bow_vectors_train, labels_train, model_type="logistic_regression")
+report, accuracy = evaluator.evaluate(model_lsa_bow_k, lsa_bow_vectors_test_k, labels_test)
+
+#results lsa_bow
+print("LSA with BoW")
+print(f"Accuracy: {accuracy}")
+print(report)
+
+
+#train regression model with lda_bow
+model_lda_k = trainer.train(lda_bow_vectors_train, labels_train, model_type="logistic_regression")
+report, accuracy = evaluator.evaluate(model_lda_k, lda_bow_vectors_test_k, labels_test)
+
+#results lda_bow
+print("LDA with BoW")
+print(f"Accuracy: {accuracy}")
+print(report)
 
