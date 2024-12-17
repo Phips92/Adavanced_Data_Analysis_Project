@@ -59,10 +59,11 @@ Train models using scripts like Kaggle_model.py, Synthetic_model.py, Kaggle_mode
 
 ## Results
 The analysis revealed that:
-- Models trained on real Kaggle data consistently outperformed those trained on synthetic data.
+- Models trained on real Kaggle data clearly outperformed those trained on synthetic data.
 - Models trained on real Kaggle data perform poorly when tested on synthetic data.
-- The Bag-of-Words approach slightly outperformed TF-IDF in most scenarios.
-- Topic modeling techniques (LSA, LDA) did not improve model performance.
+- TF-IDF outperforms BoW when trained on real data but does not show the same advantage when trained on synthetic data.
+- LDA fails to provide meaningful improvements in performance when trained on synthetic data.
+- LSA slightly improves performance, especially when combined with TF-IDF and trained on real data.
 
 ---
 
