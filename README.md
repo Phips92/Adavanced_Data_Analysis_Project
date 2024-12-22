@@ -33,7 +33,13 @@ The following Python libraries were used:
    ```
 2. Install the required Python libraries:
    ```bash
-    missing yet
+    pandas < 2.0
+    numpy
+    matplotlib
+    nltk
+    re
+    scikit-learn
+    pytest
    ```
 
 ---
@@ -65,6 +71,7 @@ The analysis revealed that:
 - LDA fails to provide meaningful improvements in performance when trained on synthetic data.
 - LSA slightly improves performance, especially when combined with TF-IDF and trained on real data.
 
+- For more details take a look at Results.md
 ---
 
 ## Contribution
