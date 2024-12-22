@@ -516,14 +516,16 @@ _______________________
 5. **Possible Explanation for LDA's Poor Performance**:
         Class Distribution
 
-        The uneven class distribution in the Kaggle dataset could be a significant factor contributing to the lower performance of the LDA model. A model like LDA, which relies on linear discriminant assumptions, may struggle to handle imbalanced datasets effectively.
-Class Distribution
+        The uneven class distribution in the Kaggle dataset could be a significant factor contributing to the lower performance of the LDA model. 
+        A model like LDA, which relies on linear discriminant assumptions, may struggle to handle imbalanced datasets effectively.
+        Class Distribution
 
         The following diagram illustrates the class distribution in the Kaggle dataset:
 
 ![Class Distribution](Class_Distribution_Kaggle_Dataset.png)
 
-        The significant discrepancy in the number of samples across classes indicates that some classes are overrepresented while others are underrepresented. This imbalance may lead to predictions skewed in favor of the overrepresented classes.
+        The significant discrepancy in the number of samples across classes indicates that some classes are overrepresented while others are underrepresented. 
+        This imbalance may lead to predictions skewed in favor of the overrepresented classes.
 
 ## Conclusion
 
