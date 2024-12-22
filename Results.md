@@ -520,7 +520,8 @@ _______________________
 Class Distribution
 
         The following diagram illustrates the class distribution in the Kaggle dataset:
-        ![Class Distribution](Class_Distribution_Kaggle_Dataset.png)
+
+![Class Distribution](Class_Distribution_Kaggle_Dataset.png)
 
         The significant discrepancy in the number of samples across classes indicates that some classes are overrepresented while others are underrepresented. This imbalance may lead to predictions skewed in favor of the overrepresented classes.
 
