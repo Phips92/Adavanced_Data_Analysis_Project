@@ -59,7 +59,7 @@ Once generated, please save the dataset as a CSV file and provide me the downloa
 ---
 
 ## How to Use
-Train models using scripts like Kaggle_model.py, Synthetic_model.py, Kaggle_model2.py, or Whole_kaggle_model.py to analyze performance. Experiment with different feature extraction techniques such as Bag-of-Words (BoW), TF-IDF, LSA, or LDA, and evaluate models like Logistic Regression, SVM, and others for emotion recognition.
+Train models using scripts like 2synthetictrain_kaggletest_model.py, kaggelsplit_kaggleTest_model.py, kaggle5000_syntheticTest_model.py, synthetictrain_synthetictest_kaggletest_model.py ,or TrainedFullKaggle_TestedSynthetic.py to analyze performance. Experiment with different feature extraction techniques such as Bag-of-Words (BoW), TF-IDF, LSA, or LDA, and evaluate models like Logistic Regression, SVM, and others for emotion recognition.
 
 ---
 
