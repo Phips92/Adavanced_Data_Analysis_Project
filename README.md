@@ -90,6 +90,6 @@ This project is licensed under the GNU General Public License v3.0
 ---
 
 ## Author
-Philip (Phips92)
+Philipp (Phips92)
 
 For questions or feedback, feel free to contact me at [philipp92.mcguire@gmail.com].
